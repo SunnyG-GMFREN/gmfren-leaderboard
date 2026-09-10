@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-09-10T00:00:00.000Z",
+  "account": "gmfrenmeme",
+  "window_days": 30,
+  "weights": { "like": 1, "repost": 2, "reply": 3 },
+  "tracked_posts": 0,
+  "last_full_sweep": null,
+  "estimated_month_spend_usd": 0,
+  "budget_month_usd": 15,
+  "leaderboard": []
+}
