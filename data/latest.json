@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T18:58:51.902Z",
+  "generated_at": "2026-09-10T19:10:50.522Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 463,
+  "tracked_posts": 474,
   "last_full_sweep": "2026-09-10T18:32:52.696Z",
-  "estimated_month_spend_usd": 9.966,
+  "estimated_month_spend_usd": 10.139,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -83,6 +83,17 @@
       "rank": 7
     },
     {
+      "user_id": "2004830391828709381",
+      "username": "Zeyinmhmd",
+      "name": "Zeyin",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2019506992507940864/mSG16t9Q_normal.jpg",
+      "likes": 10,
+      "reposts": 3,
+      "replies": 5,
+      "score": 31,
+      "rank": 8
+    },
+    {
       "user_id": "1987112193742282755",
       "username": "1987112193742282755",
       "name": "Unknown",
@@ -90,7 +101,7 @@
       "reposts": 0,
       "replies": 8,
       "score": 30,
-      "rank": 8
+      "rank": 9
     },
     {
       "user_id": "1532784850067161088",
@@ -100,17 +111,6 @@
       "reposts": 0,
       "replies": 9,
       "score": 29,
-      "rank": 9
-    },
-    {
-      "user_id": "2004830391828709381",
-      "username": "Zeyinmhmd",
-      "name": "Zeyin",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2019506992507940864/mSG16t9Q_normal.jpg",
-      "likes": 10,
-      "reposts": 3,
-      "replies": 4,
-      "score": 28,
       "rank": 10
     },
     {
@@ -165,8 +165,9 @@
     },
     {
       "user_id": "1362787909909282819",
-      "username": "1362787909909282819",
-      "name": "Unknown",
+      "username": "HiddenGemHQ",
+      "name": "HiddenGemHQ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1975996163401658369/u1lt-UT9_normal.jpg",
       "likes": 10,
       "reposts": 2,
       "replies": 1,
@@ -284,9 +285,10 @@
       "rank": 27
     },
     {
-      "user_id": "2058911208984748032",
-      "username": "2058911208984748032",
-      "name": "Unknown",
+      "user_id": "2094890365094330368",
+      "username": "kestrelbrowser",
+      "name": "Kestrel Browser",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2094891443395477504/psrCp1RN_normal.jpg",
       "likes": 2,
       "reposts": 0,
       "replies": 2,
@@ -294,18 +296,18 @@
       "rank": 28
     },
     {
-      "user_id": "1799044165340401664",
-      "username": "1799044165340401664",
+      "user_id": "2058911208984748032",
+      "username": "2058911208984748032",
       "name": "Unknown",
-      "likes": 1,
+      "likes": 2,
       "reposts": 0,
       "replies": 2,
-      "score": 7,
+      "score": 8,
       "rank": 29
     },
     {
-      "user_id": "2094890365094330368",
-      "username": "2094890365094330368",
+      "user_id": "1799044165340401664",
+      "username": "1799044165340401664",
       "name": "Unknown",
       "likes": 1,
       "reposts": 0,
