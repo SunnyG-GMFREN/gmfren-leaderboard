@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:12:57.180Z",
+  "generated_at": "2026-09-10T18:15:12.315Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -9,7 +9,7 @@
   },
   "tracked_posts": 459,
   "last_full_sweep": null,
-  "estimated_month_spend_usd": 5.577,
+  "estimated_month_spend_usd": 6.709,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -78,16 +78,6 @@
       "rank": 6
     },
     {
-      "user_id": "80037636",
-      "username": "80037636",
-      "name": "Unknown",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 9,
-      "score": 27,
-      "rank": 7
-    },
-    {
       "user_id": "1859035204821938178",
       "username": "Based_Vincent",
       "name": "VINCENT",
@@ -96,7 +86,7 @@
       "reposts": 0,
       "replies": 9,
       "score": 27,
-      "rank": 8
+      "rank": 7
     },
     {
       "user_id": "1532784850067161088",
@@ -106,6 +96,16 @@
       "reposts": 0,
       "replies": 9,
       "score": 27,
+      "rank": 8
+    },
+    {
+      "user_id": "80037636",
+      "username": "80037636",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 8,
+      "score": 24,
       "rank": 9
     },
     {
