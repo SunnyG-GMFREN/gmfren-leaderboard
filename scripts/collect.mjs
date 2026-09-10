@@ -6,11 +6,22 @@
  * OAuth 1.0a user context. Never posts, likes, follows, or DMs.
  *
  * Run modes (set RUN_MODE env var, defaults to "hourly"):
- *   hourly — refresh replies (cheap) for the full 30-day window, and
- *            refresh likers/retweeters only for posts published in the
+ *   hourly — refresh replies (incremental, since last run) and refresh
+ *            metrics/likers/retweeters only for posts published in the
  *            last RECENT_HOURS hours (default 48h). Keeps hourly cost low.
- *   daily  — same as hourly, plus a full sweep: refresh likers/retweeters
- *            for every tracked post in the 30-day window.
+ *   daily  — same as hourly, plus a full sweep: refresh metrics for every
+ *            tracked post in the 30-day window.
+ *
+ * Cost design:
+ *   - New posts/replies are discovered via since_id, so we only ever pay to
+ *     read tweets/mentions published since the last run instead of
+ *     re-reading the whole 30-day window every single run.
+ *   - Likers/retweeters are only re-fetched for a post when its public
+ *     like_count/retweet_count actually changed since the last check (or it
+ *     has never been checked), skipping the large share of posts that get
+ *     no new engagement between runs.
+ *   - Username/name/avatar lookups persist in data/_cache/known_users.json
+ *     so skipping a re-fetch never causes an "Unknown" attribution.
  *
  * A monthly spend cap (BUDGET_MONTH_USD) is enforced using X's own
  * published per-object pricing. If a run would exceed the remaining
@@ -25,6 +36,7 @@ const ROOT = path.resolve(new URL(".", import.meta.url).pathname, "..");
 const DATA_DIR = path.join(ROOT, "data");
 const CACHE_DIR = path.join(DATA_DIR, "_cache");
 const CACHE_FILE = path.join(CACHE_DIR, "post_engagement.json");
+const KNOWN_USERS_FILE = path.join(CACHE_DIR, "known_users.json");
 const META_FILE = path.join(DATA_DIR, "meta.json");
 const LATEST_FILE = path.join(DATA_DIR, "latest.json");
 const HISTORY_FILE = path.join(DATA_DIR, "history.json");
@@ -97,6 +109,9 @@ async function main() {
   }
 
   const cache = await readJson(CACHE_FILE, {});
+  // Persisted username/display-name/avatar lookups, so posts we don't re-fetch
+  // this run (see below) don't lose their attribution.
+  const userInfo = await readJson(KNOWN_USERS_FILE, {});
 
   console.log(`[collect] mode=${RUN_MODE} account=@${ACCOUNT_USERNAME} budget_left=$${(BUDGET_MONTH_USD - meta.spend_usd_month).toFixed(3)}`);
 
@@ -109,64 +124,137 @@ async function main() {
     meta.spend_usd_month += COST.userRead;
   }
 
-  // 2. Fetch own posts from the tracking window (Owned Read — cheap).
+  // 2. Discover new posts since the last run (Owned Read — cheap, incremental).
+  // Only the very first run ever seeds the full WINDOW_DAYS history; every run
+  // after that pays only for posts published since the last run (since_id),
+  // instead of re-reading the whole 30-day timeline every time.
   const startTime = new Date(Date.now() - WINDOW_DAYS * 86400000).toISOString();
-  const posts = [];
   let ownedReadCount = 0;
-  const timeline = await v2.userTimeline(accountId, {
-    exclude: ["retweets"],
-    start_time: startTime,
-    max_results: 100,
-    "tweet.fields": ["created_at", "public_metrics"],
-  });
-  for await (const tweet of timeline) {
-    posts.push(tweet);
-    ownedReadCount++;
-    if (ownedReadCount >= 500) break; // sanity cap
+  try {
+    const timelineOpts = {
+      exclude: ["retweets"],
+      max_results: 100,
+      "tweet.fields": ["created_at", "public_metrics"],
+    };
+    if (meta.last_owned_tweet_id) {
+      timelineOpts.since_id = meta.last_owned_tweet_id;
+    } else {
+      timelineOpts.start_time = startTime; // one-time seed
+    }
+    const timeline = await v2.userTimeline(accountId, timelineOpts);
+    let newestId = meta.last_owned_tweet_id;
+    for await (const tweet of timeline) {
+      cache[tweet.id] ??= {};
+      cache[tweet.id].created_at = tweet.created_at;
+      cache[tweet.id].public_metrics = tweet.public_metrics;
+      ownedReadCount++;
+      if (!newestId || BigInt(tweet.id) > BigInt(newestId)) newestId = tweet.id;
+      if (ownedReadCount >= 500) break; // sanity cap
+    }
+    if (newestId) meta.last_owned_tweet_id = newestId;
+  } catch (err) {
+    console.warn(`[collect] owned timeline fetch failed (continuing with cached posts): ${err.message}`);
   }
   meta.spend_usd_month += ownedReadCount * COST.ownedRead;
-  console.log(`[collect] tracked posts in window: ${posts.length}`);
 
-  // 3. Fetch replies via mentions (Owned Read — cheap). Always full window.
-  const repliesByDate = {}; // date -> { userId: count }
-  const userInfo = {}; // userId -> { username, name, profile_image_url }
+  // Posts still inside the tracking window, rebuilt from the persisted cache —
+  // not re-fetched from the API every run.
+  const windowStartMs = Date.now() - WINDOW_DAYS * 86400000;
+  const posts = Object.keys(cache)
+    .filter((id) => cache[id].created_at && new Date(cache[id].created_at).getTime() >= windowStartMs)
+    .map((id) => ({ id, created_at: cache[id].created_at, public_metrics: cache[id].public_metrics || {} }));
+  console.log(`[collect] tracked posts in window: ${posts.length} (new this run: ${ownedReadCount})`);
+
+  // 3. Discover new replies via mentions since the last run (Owned Read —
+  // cheap, incremental). Reply totals persist across runs in meta.replies_by_date
+  // instead of being recomputed from a full 30-day mentions scan every run.
+  const repliesByDate = meta.replies_by_date || {}; // date -> { userId: count }
   const postIds = new Set(posts.map((p) => p.id));
   let mentionReadCount = 0;
   try {
-    const mentions = await v2.userMentionTimeline(accountId, {
-      start_time: startTime,
+    const mentionOpts = {
       max_results: 100,
       expansions: ["author_id"],
       "tweet.fields": ["created_at", "in_reply_to_user_id", "referenced_tweets", "author_id"],
       "user.fields": ["username", "name", "profile_image_url"],
-    });
+    };
+    if (meta.last_mention_id) {
+      mentionOpts.since_id = meta.last_mention_id;
+    } else {
+      mentionOpts.start_time = startTime; // one-time seed
+    }
+    const mentions = await v2.userMentionTimeline(accountId, mentionOpts);
     for (const u of mentions.includes?.users ?? []) {
       userInfo[u.id] = { username: u.username, name: u.name, profile_image_url: u.profileImageUrl || u.profile_image_url };
     }
+    let newestMentionId = meta.last_mention_id;
     for await (const tweet of mentions) {
       mentionReadCount++;
+      if (!newestMentionId || BigInt(tweet.id) > BigInt(newestMentionId)) newestMentionId = tweet.id;
       const authorId = tweet.author_id;
-      if (!authorId || authorId === accountId) continue;
-      const isReplyToUs = String(tweet.in_reply_to_user_id || "") === String(accountId);
-      const referencesOurPost = (tweet.referenced_tweets || []).some((r) => postIds.has(r.id));
-      if (!isReplyToUs && !referencesOurPost) continue;
-      const date = (tweet.created_at || "").slice(0, 10);
-      if (!date) continue;
-      repliesByDate[date] ??= {};
-      repliesByDate[date][authorId] = (repliesByDate[date][authorId] || 0) + 1;
+      if (authorId && authorId !== accountId) {
+        const isReplyToUs = String(tweet.in_reply_to_user_id || "") === String(accountId);
+        const referencesOurPost = (tweet.referenced_tweets || []).some((r) => postIds.has(r.id));
+        if (isReplyToUs || referencesOurPost) {
+          const date = (tweet.created_at || "").slice(0, 10);
+          if (date) {
+            repliesByDate[date] ??= {};
+            repliesByDate[date][authorId] = (repliesByDate[date][authorId] || 0) + 1;
+          }
+        }
+      }
       if (mentionReadCount >= 800) break;
     }
+    if (newestMentionId) meta.last_mention_id = newestMentionId;
   } catch (err) {
-    console.warn(`[collect] mentions fetch failed (continuing without replies this run): ${err.message}`);
+    console.warn(`[collect] mentions fetch failed (continuing without new replies this run): ${err.message}`);
   }
   meta.spend_usd_month += mentionReadCount * COST.ownedRead;
-
-  // 4. Decide which posts get a likers/retweeters refresh this run.
-  const recentCutoff = Date.now() - RECENT_HOURS * 3600000;
-  let candidates = posts.filter((p) => new Date(p.created_at).getTime() >= recentCutoff);
-  if (RUN_MODE === "daily") {
-    candidates = posts; // full sweep
+  // Prune reply-date buckets that fell out of the 30-day window.
+  const replyCutoffDate = daysAgoUTC(WINDOW_DAYS);
+  for (const d of Object.keys(repliesByDate)) {
+    if (d < replyCutoffDate) delete repliesByDate[d];
   }
+  meta.replies_by_date = repliesByDate;
+
+  // 4. Refresh public metrics (Owned Read — cheap) only for posts in scope for
+  // this run's mode, instead of re-scanning the whole window every run:
+  //   hourly — just posts from the last RECENT_HOURS
+  //   daily  — every tracked post (the one full sweep per day)
+  const recentCutoff = Date.now() - RECENT_HOURS * 3600000;
+  let scopedPosts = posts.filter((p) => new Date(p.created_at).getTime() >= recentCutoff);
+  if (RUN_MODE === "daily") {
+    scopedPosts = posts; // full sweep
+  }
+  let metricsReadCount = 0;
+  for (let i = 0; i < scopedPosts.length; i += 100) {
+    const batch = scopedPosts.slice(i, i + 100);
+    try {
+      const looked = await v2.tweets(batch.map((p) => p.id), { "tweet.fields": ["public_metrics"] });
+      for (const t of looked.data || []) {
+        cache[t.id] ??= {};
+        cache[t.id].public_metrics = t.public_metrics;
+        metricsReadCount++;
+      }
+    } catch (err) {
+      console.warn(`[collect] tweet lookup failed for a batch: ${err.message}`);
+    }
+  }
+  meta.spend_usd_month += metricsReadCount * COST.ownedRead;
+  for (const p of scopedPosts) p.public_metrics = cache[p.id]?.public_metrics || p.public_metrics || {};
+
+  // 5. Decide which posts actually need a likers/retweeters refresh: only
+  // those whose like/retweet counts changed since the last check (skips the
+  // majority of posts, which see zero new engagement between checks), or that
+  // have never been checked at all.
+  let candidates = scopedPosts.filter((p) => {
+    const c = cache[p.id] || {};
+    const prevLikes = c.last_checked_like_count ?? -1;
+    const prevRetweets = c.last_checked_retweet_count ?? -1;
+    const curLikes = p.public_metrics?.like_count ?? 0;
+    const curRetweets = p.public_metrics?.retweet_count ?? 0;
+    return curLikes !== prevLikes || curRetweets !== prevRetweets;
+  });
   // Prioritize posts we haven't refreshed in the longest time, then by recency.
   candidates.sort((a, b) => {
     const aStale = new Date(cache[a.id]?.fetched_at || 0).getTime();
@@ -191,8 +279,9 @@ async function main() {
   if (skipped) {
     console.warn(`[collect] budget guard: skipped likers/retweeters refresh for ${skipped} post(s) this run.`);
   }
+  console.log(`[collect] metrics refreshed: ${metricsReadCount}, changed-and-eligible: ${candidates.length}, fetching: ${toFetch.length}`);
 
-  // 5. Fetch likers + retweeters for the selected posts, replacing cache entries.
+  // 6. Fetch likers + retweeters for the selected posts, replacing cache entries.
   for (const p of toFetch) {
     cache[p.id] ??= {};
     cache[p.id].published_at = p.created_at;
@@ -226,15 +315,17 @@ async function main() {
     } catch (err) {
       console.warn(`[collect] retweeted_by failed for ${p.id}: ${err.message}`);
     }
+    cache[p.id].last_checked_like_count = p.public_metrics?.like_count ?? 0;
+    cache[p.id].last_checked_retweet_count = p.public_metrics?.retweet_count ?? 0;
     cache[p.id].fetched_at = new Date().toISOString();
   }
 
   // Drop cache entries for posts that fell out of the 30-day window.
   for (const id of Object.keys(cache)) {
-    if (!postIds.has(id)) delete cache[id];
+    if (!cache[id].created_at || new Date(cache[id].created_at).getTime() < windowStartMs) delete cache[id];
   }
 
-  // 6. Aggregate totals across all cached posts (today's cumulative snapshot).
+  // 7. Aggregate totals across all cached posts (today's cumulative snapshot).
   const cumulativeToday = {}; // userId -> { likes, reposts }
   for (const id of Object.keys(cache)) {
     for (const uid of cache[id].likers || []) {
@@ -263,7 +354,7 @@ async function main() {
     }
   }
 
-  // 7. Build the leaderboard.
+  // 8. Build the leaderboard.
   const allUserIds = new Set([
     ...Object.keys(cumulativeToday),
     ...Object.keys(repliesTotalByUser),
@@ -300,7 +391,7 @@ async function main() {
     leaderboard,
   };
 
-  // 8. Rebuild 30-day history for the users we're tracking (top HISTORY_TRACK_N).
+  // 9. Rebuild 30-day history for the users we're tracking (top HISTORY_TRACK_N).
   const trackedIds = leaderboard.slice(0, HISTORY_TRACK_N).map((u) => u.user_id);
   const dates = [];
   for (let i = WINDOW_DAYS - 1; i >= 0; i--) dates.push(daysAgoUTC(i));
@@ -344,6 +435,7 @@ async function main() {
   await writeJson(LATEST_FILE, latest);
   await writeJson(HISTORY_FILE, history);
   await writeJson(CACHE_FILE, cache);
+  await writeJson(KNOWN_USERS_FILE, userInfo);
   await writeJson(META_FILE, meta);
 
   console.log(`[collect] done. leaderboard size=${leaderboard.length} spend_this_month=$${meta.spend_usd_month.toFixed(3)}/$${BUDGET_MONTH_USD}`);
