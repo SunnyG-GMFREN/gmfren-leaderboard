@@ -202,7 +202,7 @@ async function main() {
         max_results: 100,
         "user.fields": ["username", "name", "profile_image_url"],
       });
-      for await (const u of likingUsers) {
+      for (const u of likingUsers.data || []) {
         likers.push(u.id);
         userInfo[u.id] = { username: u.username, name: u.name, profile_image_url: u.profileImageUrl || u.profile_image_url };
       }
@@ -217,7 +217,7 @@ async function main() {
         max_results: 100,
         "user.fields": ["username", "name", "profile_image_url"],
       });
-      for await (const u of retweetedBy) {
+      for (const u of retweetedBy.data || []) {
         retweeters.push(u.id);
         userInfo[u.id] = { username: u.username, name: u.name, profile_image_url: u.profileImageUrl || u.profile_image_url };
       }
