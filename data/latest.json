@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T12:46:33.451Z",
+  "generated_at": "2026-09-10T14:13:21.194Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 437,
+  "tracked_posts": 443,
   "last_full_sweep": null,
-  "estimated_month_spend_usd": 1.1,
+  "estimated_month_spend_usd": 2.209,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -19,8 +19,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2093999192255692800/wAd2m1iT_normal.jpg",
       "likes": 0,
       "reposts": 0,
-      "replies": 35,
-      "score": 105,
+      "replies": 36,
+      "score": 108,
       "rank": 1
     },
     {
@@ -40,8 +40,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2095807119761301504/6CqE10Zx_normal.jpg",
       "likes": 0,
       "reposts": 0,
-      "replies": 14,
-      "score": 42,
+      "replies": 15,
+      "score": 45,
       "rank": 3
     },
     {
@@ -67,17 +67,6 @@
       "rank": 5
     },
     {
-      "user_id": "80037636",
-      "username": "MrDariBoss",
-      "name": "Mr Dari ₿",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1942415110632275968/HaeLPi6Q_normal.jpg",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 9,
-      "score": 27,
-      "rank": 6
-    },
-    {
       "user_id": "2040554701574324224",
       "username": "INVESTORflxo",
       "name": "INVESTOR أشتري رمز الميم وأحتفظ به على المدى الطو",
@@ -86,7 +75,7 @@
       "reposts": 0,
       "replies": 9,
       "score": 27,
-      "rank": 7
+      "rank": 6
     },
     {
       "user_id": "1859035204821938178",
@@ -97,17 +86,26 @@
       "reposts": 0,
       "replies": 9,
       "score": 27,
-      "rank": 8
+      "rank": 7
     },
     {
       "user_id": "1532784850067161088",
-      "username": "GlobalCoinHub",
-      "name": "🌎 Coin Hub - Go Global 🌎",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1686775395427794951/oKp8s4B2_normal.jpg",
+      "username": "1532784850067161088",
+      "name": "Unknown",
       "likes": 0,
       "reposts": 0,
       "replies": 9,
       "score": 27,
+      "rank": 8
+    },
+    {
+      "user_id": "80037636",
+      "username": "80037636",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 8,
+      "score": 24,
       "rank": 9
     },
     {
@@ -117,15 +115,14 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2096560191357734912/SDAZpXAn_normal.jpg",
       "likes": 0,
       "reposts": 0,
-      "replies": 6,
-      "score": 18,
+      "replies": 8,
+      "score": 24,
       "rank": 10
     },
     {
       "user_id": "1756715757587570688",
-      "username": "Real_MyraLux",
-      "name": "Matthew Collins",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2090700401154961408/z9KTj6hS_normal.jpg",
+      "username": "1756715757587570688",
+      "name": "Unknown",
       "likes": 0,
       "reposts": 0,
       "replies": 6,
