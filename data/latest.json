@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T15:13:37.717Z",
+  "generated_at": "2026-09-10T16:14:33.597Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 445,
+  "tracked_posts": 451,
   "last_full_sweep": null,
-  "estimated_month_spend_usd": 3.323,
+  "estimated_month_spend_usd": 4.446,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -19,8 +19,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2093999192255692800/wAd2m1iT_normal.jpg",
       "likes": 0,
       "reposts": 0,
-      "replies": 36,
-      "score": 108,
+      "replies": 37,
+      "score": 111,
       "rank": 1
     },
     {
@@ -40,26 +40,26 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2095807119761301504/6CqE10Zx_normal.jpg",
       "likes": 0,
       "reposts": 0,
-      "replies": 15,
-      "score": 45,
+      "replies": 16,
+      "score": 48,
       "rank": 3
-    },
-    {
-      "user_id": "1902426675188740096",
-      "username": "kambing142557",
-      "name": "Angelino Da Silva🌛",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2084430684492541952/W-0uK2XH_normal.jpg",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 12,
-      "score": 36,
-      "rank": 4
     },
     {
       "user_id": "1880323908643221504",
       "username": "Quentil0x",
       "name": "Quen",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1970472236860743684/kcCqbFh9_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 13,
+      "score": 39,
+      "rank": 4
+    },
+    {
+      "user_id": "1902426675188740096",
+      "username": "kambing142557",
+      "name": "Angelino Da Silva🌛",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2084430684492541952/W-0uK2XH_normal.jpg",
       "likes": 0,
       "reposts": 0,
       "replies": 12,
