@@ -26,15 +26,33 @@ Live at **https://leaderboard.gmfren.xyz**.
 
 1. Sign in to [console.x.com](https://console.x.com) **as the @gmfrenmeme account**
    (Owned Reads pricing only applies when the app authenticates as the account
-   whose own posts/mentions it reads).
-2. Create a Project + App. Under the app's **User authentication settings**,
-   set permissions to **Read** only (never Read+Write).
-3. Under the Project's billing page, set a **spending limit** — start at
-   $10–15 — before generating any keys, so nothing can run away on you.
-4. Generate: **API Key & Secret**, then **Access Token & Secret** (make sure
-   you generate the access token *after* setting app permissions to Read).
+   whose own posts/mentions it reads). Accept the Developer Agreement if asked.
+2. Create a **Project**, then create an **App** inside it (any names are fine).
+3. Open the app, find **User authentication settings**, and click **Set up**
+   (or **Edit** if it's already configured).
+   - **App permissions**: choose **Read only** — never Read+Write, since this
+     app only ever needs to look up likers/retweeters/mentions.
+   - **Type of App**: pick **Web App, Automated App or Bot**.
+   - **Callback URI**: `http://localhost:3000/callback` (unused, but required).
+   - **Website URL**: `https://gmfren.xyz` (or anything valid).
+   - Click **Save**. A popup shows a **Client ID/Secret** (OAuth 2.0) — you can
+     ignore and close that; this project uses OAuth 1.0a instead.
+   - **Set permissions to Read only *before* generating tokens** — X bakes the
+     permission level into a token at the moment it's issued, so a token made
+     earlier won't pick up a later permission change without being regenerated.
+4. Go to the app's **Keys and tokens** tab:
+   - Under **Consumer Keys** (OAuth 1.0 Keys), click **Regenerate** — copy the
+     **API Key** and **API Key Secret** immediately (shown once).
+   - Under **Authentication Tokens → Access Token and Secret**, click
+     **Generate** — copy the **Access Token** and **Access Token Secret**
+     immediately (shown once).
 5. You'll have four values: `API Key`, `API Key Secret`, `Access Token`,
-   `Access Token Secret`.
+   `Access Token Secret`. Store them in a password manager — anyone with these
+   can act as the app against your account within its Read-only scope.
+6. X API billing is **prepaid credits**, not a monthly plan — go to
+   **Credits → Buy credits** in the console and add $10–15 (minimum $5). Since
+   it's prepaid, calls simply stop working if you run out, which is itself a
+   hard ceiling on spend on top of this project's own `BUDGET_MONTH_USD` cap.
 
 ### 2. Add repository secrets
 
