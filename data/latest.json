@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T14:13:21.194Z",
+  "generated_at": "2026-09-10T15:13:37.717Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 443,
+  "tracked_posts": 445,
   "last_full_sweep": null,
-  "estimated_month_spend_usd": 2.209,
+  "estimated_month_spend_usd": 3.323,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -73,9 +73,19 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2094237224854286336/2b2coyAe_normal.jpg",
       "likes": 0,
       "reposts": 0,
+      "replies": 11,
+      "score": 33,
+      "rank": 6
+    },
+    {
+      "user_id": "80037636",
+      "username": "80037636",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
       "replies": 9,
       "score": 27,
-      "rank": 6
+      "rank": 7
     },
     {
       "user_id": "1859035204821938178",
@@ -86,7 +96,7 @@
       "reposts": 0,
       "replies": 9,
       "score": 27,
-      "rank": 7
+      "rank": 8
     },
     {
       "user_id": "1532784850067161088",
@@ -96,16 +106,6 @@
       "reposts": 0,
       "replies": 9,
       "score": 27,
-      "rank": 8
-    },
-    {
-      "user_id": "80037636",
-      "username": "80037636",
-      "name": "Unknown",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 8,
-      "score": 24,
       "rank": 9
     },
     {
