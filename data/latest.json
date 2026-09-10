@@ -1,11 +1,528 @@
 {
-  "generated_at": "2026-09-10T00:00:00.000Z",
+  "generated_at": "2026-09-10T12:46:33.451Z",
   "account": "gmfrenmeme",
   "window_days": 30,
-  "weights": { "like": 1, "repost": 2, "reply": 3 },
-  "tracked_posts": 0,
+  "weights": {
+    "like": 1,
+    "repost": 2,
+    "reply": 3
+  },
+  "tracked_posts": 437,
   "last_full_sweep": null,
-  "estimated_month_spend_usd": 0,
+  "estimated_month_spend_usd": 1.1,
   "budget_month_usd": 15,
-  "leaderboard": []
+  "leaderboard": [
+    {
+      "user_id": "2016550762474799104",
+      "username": "KatheleenLori",
+      "name": "KTY'Fun",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2093999192255692800/wAd2m1iT_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 35,
+      "score": 105,
+      "rank": 1
+    },
+    {
+      "user_id": "1509466538704744448",
+      "username": "1509466538704744448",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 20,
+      "score": 60,
+      "rank": 2
+    },
+    {
+      "user_id": "1849407354972020737",
+      "username": "Crypt_nakamotto",
+      "name": "Crypto Nakamotto",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2095807119761301504/6CqE10Zx_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 14,
+      "score": 42,
+      "rank": 3
+    },
+    {
+      "user_id": "1902426675188740096",
+      "username": "kambing142557",
+      "name": "Angelino Da Silva🌛",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2084430684492541952/W-0uK2XH_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 12,
+      "score": 36,
+      "rank": 4
+    },
+    {
+      "user_id": "1880323908643221504",
+      "username": "Quentil0x",
+      "name": "Quen",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1970472236860743684/kcCqbFh9_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 12,
+      "score": 36,
+      "rank": 5
+    },
+    {
+      "user_id": "80037636",
+      "username": "MrDariBoss",
+      "name": "Mr Dari ₿",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1942415110632275968/HaeLPi6Q_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 9,
+      "score": 27,
+      "rank": 6
+    },
+    {
+      "user_id": "2040554701574324224",
+      "username": "INVESTORflxo",
+      "name": "INVESTOR أشتري رمز الميم وأحتفظ به على المدى الطو",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2094237224854286336/2b2coyAe_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 9,
+      "score": 27,
+      "rank": 7
+    },
+    {
+      "user_id": "1859035204821938178",
+      "username": "Based_Vincent",
+      "name": "VINCENT",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2088964636951588864/xNCnrCup_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 9,
+      "score": 27,
+      "rank": 8
+    },
+    {
+      "user_id": "1532784850067161088",
+      "username": "GlobalCoinHub",
+      "name": "🌎 Coin Hub - Go Global 🌎",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1686775395427794951/oKp8s4B2_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 9,
+      "score": 27,
+      "rank": 9
+    },
+    {
+      "user_id": "1987112193742282755",
+      "username": "Youngrfqifzl",
+      "name": "rifqifzl 🦖👑",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2096560191357734912/SDAZpXAn_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 6,
+      "score": 18,
+      "rank": 10
+    },
+    {
+      "user_id": "1756715757587570688",
+      "username": "Real_MyraLux",
+      "name": "Matthew Collins",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2090700401154961408/z9KTj6hS_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 6,
+      "score": 18,
+      "rank": 11
+    },
+    {
+      "user_id": "3278828737",
+      "username": "3278828737",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 5,
+      "score": 15,
+      "rank": 12
+    },
+    {
+      "user_id": "1765473516974215168",
+      "username": "1765473516974215168",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 5,
+      "score": 15,
+      "rank": 13
+    },
+    {
+      "user_id": "2094695810097360896",
+      "username": "nectorchat_",
+      "name": "Nector",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2094697206892957696/vidfDNq-_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 4,
+      "score": 12,
+      "rank": 14
+    },
+    {
+      "user_id": "1881477830808064000",
+      "username": "1881477830808064000",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 4,
+      "score": 12,
+      "rank": 15
+    },
+    {
+      "user_id": "1272139028922499073",
+      "username": "1272139028922499073",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 4,
+      "score": 12,
+      "rank": 16
+    },
+    {
+      "user_id": "230377305",
+      "username": "230377305",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 3,
+      "score": 9,
+      "rank": 17
+    },
+    {
+      "user_id": "386533946",
+      "username": "386533946",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 3,
+      "score": 9,
+      "rank": 18
+    },
+    {
+      "user_id": "1177523887",
+      "username": "1177523887",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 3,
+      "score": 9,
+      "rank": 19
+    },
+    {
+      "user_id": "2990375058",
+      "username": "2990375058",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 3,
+      "score": 9,
+      "rank": 20
+    },
+    {
+      "user_id": "3373108933",
+      "username": "3373108933",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 3,
+      "score": 9,
+      "rank": 21
+    },
+    {
+      "user_id": "1321885856295276544",
+      "username": "1321885856295276544",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 3,
+      "score": 9,
+      "rank": 22
+    },
+    {
+      "user_id": "186195415",
+      "username": "186195415",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 23
+    },
+    {
+      "user_id": "451837540",
+      "username": "451837540",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 24
+    },
+    {
+      "user_id": "2220176421",
+      "username": "2220176421",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 25
+    },
+    {
+      "user_id": "2742948520",
+      "username": "2742948520",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 26
+    },
+    {
+      "user_id": "1452032441305092096",
+      "username": "1452032441305092096",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 27
+    },
+    {
+      "user_id": "1451092911341195266",
+      "username": "1451092911341195266",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 28
+    },
+    {
+      "user_id": "2092758593489821696",
+      "username": "2092758593489821696",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 29
+    },
+    {
+      "user_id": "2094890365094330368",
+      "username": "2094890365094330368",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 30
+    },
+    {
+      "user_id": "2096863103673663491",
+      "username": "2096863103673663491",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 31
+    },
+    {
+      "user_id": "2096968357652131840",
+      "username": "2096968357652131840",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 32
+    },
+    {
+      "user_id": "2058911208984748032",
+      "username": "2058911208984748032",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 33
+    },
+    {
+      "user_id": "1666240737623646208",
+      "username": "1666240737623646208",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 34
+    },
+    {
+      "user_id": "2088298489008803842",
+      "username": "2088298489008803842",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 35
+    },
+    {
+      "user_id": "1457275640898637827",
+      "username": "1457275640898637827",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 36
+    },
+    {
+      "user_id": "2081751398346338304",
+      "username": "2081751398346338304",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 37
+    },
+    {
+      "user_id": "1799044165340401664",
+      "username": "1799044165340401664",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 38
+    },
+    {
+      "user_id": "1468640581488418818",
+      "username": "1468640581488418818",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 39
+    },
+    {
+      "user_id": "1846821689642176512",
+      "username": "1846821689642176512",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 40
+    },
+    {
+      "user_id": "1819641040921677827",
+      "username": "1819641040921677827",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 41
+    },
+    {
+      "user_id": "1725471954420043776",
+      "username": "1725471954420043776",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 42
+    },
+    {
+      "user_id": "1879469700804988928",
+      "username": "1879469700804988928",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 43
+    },
+    {
+      "user_id": "1644888799057420289",
+      "username": "1644888799057420289",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 44
+    },
+    {
+      "user_id": "1994881939032215554",
+      "username": "1994881939032215554",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 45
+    },
+    {
+      "user_id": "1749012943918989312",
+      "username": "1749012943918989312",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6,
+      "rank": 46
+    },
+    {
+      "user_id": "17760991",
+      "username": "17760991",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 1,
+      "score": 3,
+      "rank": 47
+    },
+    {
+      "user_id": "22039746",
+      "username": "cryptoxyn_",
+      "name": "CryptoXyn",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2097375855580426240/pf9awDWd_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 1,
+      "score": 3,
+      "rank": 48
+    },
+    {
+      "user_id": "39164522",
+      "username": "39164522",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 1,
+      "score": 3,
+      "rank": 49
+    },
+    {
+      "user_id": "134625427",
+      "username": "134625427",
+      "name": "Unknown",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 1,
+      "score": 3,
+      "rank": 50
+    }
+  ]
 }
