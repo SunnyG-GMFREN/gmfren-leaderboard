@@ -58,6 +58,6 @@ jobs:
         run: |
           git config user.name "gmfren-leaderboard-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/latest.json data/history.json data/meta.json data/_cache/post_engagement.json
+          git add data/latest.json data/history.json data/meta.json data/_cache/post_engagement.json data/_cache/known_users.json
           git diff --cached --quiet || git commit -m "chore: update leaderboard data [skip ci]"
           git push
