@@ -205,10 +205,10 @@
     },
     {
       "date": "2026-09-11",
-      "likes": 4,
-      "reposts": 0,
-      "replies": 1,
-      "score": 7
+      "likes": 6,
+      "reposts": 1,
+      "replies": 2,
+      "score": 14
     }
   ],
   "per_user_daily": {
@@ -2962,10 +2962,10 @@
       },
       {
         "date": "2026-09-11",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
+        "likes": 1,
+        "reposts": 1,
+        "replies": 1,
+        "score": 6
       }
     ],
     "1509466538704744448": [
@@ -5294,10 +5294,10 @@
       },
       {
         "date": "2026-09-11",
-        "likes": 0,
+        "likes": 1,
         "reposts": 0,
         "replies": 0,
-        "score": 0
+        "score": 1
       }
     ],
     "1765473516974215168": [

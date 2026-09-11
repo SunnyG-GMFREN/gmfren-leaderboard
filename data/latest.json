@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T04:13:57.571Z",
+  "generated_at": "2026-09-11T05:12:26.115Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 486,
+  "tracked_posts": 498,
   "last_full_sweep": "2026-09-11T03:17:45.872Z",
-  "estimated_month_spend_usd": 13.029,
+  "estimated_month_spend_usd": 13.176,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -28,10 +28,10 @@
       "username": "Crypt_nakamotto",
       "name": "Crypto Nakamotto",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2095807119761301504/6CqE10Zx_normal.jpg",
-      "likes": 22,
-      "reposts": 4,
-      "replies": 22,
-      "score": 96,
+      "likes": 23,
+      "reposts": 5,
+      "replies": 23,
+      "score": 102,
       "rank": 2
     },
     {
@@ -160,10 +160,10 @@
       "username": "HiddenGemHQ",
       "name": "HiddenGemHQ",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1975996163401658369/u1lt-UT9_normal.jpg",
-      "likes": 11,
+      "likes": 12,
       "reposts": 3,
       "replies": 1,
-      "score": 20,
+      "score": 21,
       "rank": 14
     },
     {
