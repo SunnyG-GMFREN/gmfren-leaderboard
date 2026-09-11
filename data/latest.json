@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T19:11:10.621Z",
+  "generated_at": "2026-09-11T20:12:58.304Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 517,
+  "tracked_posts": 521,
   "last_full_sweep": "2026-09-11T03:17:45.872Z",
-  "estimated_month_spend_usd": 15.546,
+  "estimated_month_spend_usd": 15.669,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -19,8 +19,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2093999192255692800/wAd2m1iT_normal.jpg",
       "likes": 48,
       "reposts": 17,
-      "replies": 56,
-      "score": 250,
+      "replies": 58,
+      "score": 256,
       "rank": 1
     },
     {
@@ -30,8 +30,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2095807119761301504/6CqE10Zx_normal.jpg",
       "likes": 29,
       "reposts": 5,
-      "replies": 27,
-      "score": 120,
+      "replies": 30,
+      "score": 129,
       "rank": 2
     },
     {
@@ -52,8 +52,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2097444978234720256/hGeZbefp_normal.jpg",
       "likes": 7,
       "reposts": 6,
-      "replies": 21,
-      "score": 82,
+      "replies": 24,
+      "score": 91,
       "rank": 4
     },
     {
@@ -189,6 +189,17 @@
       "rank": 16
     },
     {
+      "user_id": "1799044165340401664",
+      "username": "Bgzyy17",
+      "name": "Oleguns17",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2098111431447318528/TVw84nBS_normal.jpg",
+      "likes": 2,
+      "reposts": 0,
+      "replies": 6,
+      "score": 20,
+      "rank": 17
+    },
+    {
       "user_id": "1765473516974215168",
       "username": "_07G_",
       "name": "Whale Wizard 🐋",
@@ -197,7 +208,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 20,
-      "rank": 17
+      "rank": 18
     },
     {
       "user_id": "1881477830808064000",
@@ -208,7 +219,7 @@
       "reposts": 2,
       "replies": 4,
       "score": 18,
-      "rank": 18
+      "rank": 19
     },
     {
       "user_id": "3278828737",
@@ -219,7 +230,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 17,
-      "rank": 19
+      "rank": 20
     },
     {
       "user_id": "2047418686261403648",
@@ -230,7 +241,7 @@
       "reposts": 1,
       "replies": 4,
       "score": 17,
-      "rank": 20
+      "rank": 21
     },
     {
       "user_id": "1452169209081966596",
@@ -241,7 +252,7 @@
       "reposts": 0,
       "replies": 0,
       "score": 15,
-      "rank": 21
+      "rank": 22
     },
     {
       "user_id": "2096968357652131840",
@@ -252,7 +263,7 @@
       "reposts": 2,
       "replies": 2,
       "score": 12,
-      "rank": 22
+      "rank": 23
     },
     {
       "user_id": "1272139028922499073",
@@ -262,17 +273,6 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 23
-    },
-    {
-      "user_id": "1799044165340401664",
-      "username": "Bgzyy17",
-      "name": "Oleguns17",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2098111431447318528/TVw84nBS_normal.jpg",
-      "likes": 2,
-      "reposts": 0,
-      "replies": 3,
-      "score": 11,
       "rank": 24
     },
     {
