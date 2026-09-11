@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T07:13:24.070Z",
+  "generated_at": "2026-09-11T08:14:05.644Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 500,
+  "tracked_posts": 501,
   "last_full_sweep": "2026-09-11T03:17:45.872Z",
-  "estimated_month_spend_usd": 13.552,
+  "estimated_month_spend_usd": 13.823,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -19,8 +19,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2093999192255692800/wAd2m1iT_normal.jpg",
       "likes": 42,
       "reposts": 9,
-      "replies": 49,
-      "score": 207,
+      "replies": 50,
+      "score": 210,
       "rank": 1
     },
     {
@@ -79,6 +79,17 @@
       "rank": 6
     },
     {
+      "user_id": "2040554701574324224",
+      "username": "INVESTORflxo",
+      "name": "INVESTOR أشتري رمز الميم وأحتفظ به على المدى الطو",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2094237224854286336/2b2coyAe_normal.jpg",
+      "likes": 5,
+      "reposts": 2,
+      "replies": 12,
+      "score": 45,
+      "rank": 7
+    },
+    {
       "user_id": "1880323908643221504",
       "username": "Quentil0x",
       "name": "Quen",
@@ -87,17 +98,6 @@
       "reposts": 1,
       "replies": 13,
       "score": 44,
-      "rank": 7
-    },
-    {
-      "user_id": "2040554701574324224",
-      "username": "INVESTORflxo",
-      "name": "INVESTOR أشتري رمز الميم وأحتفظ به على المدى الطو",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2094237224854286336/2b2coyAe_normal.jpg",
-      "likes": 4,
-      "reposts": 1,
-      "replies": 11,
-      "score": 39,
       "rank": 8
     },
     {
@@ -237,10 +237,10 @@
       "username": "Crypto_Holding_",
       "name": "Crypto Holding™ 💎",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1891290186127941632/zAheeco5_normal.jpg",
-      "likes": 12,
+      "likes": 13,
       "reposts": 0,
       "replies": 0,
-      "score": 12,
+      "score": 13,
       "rank": 21
     },
     {
