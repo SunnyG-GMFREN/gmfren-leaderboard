@@ -5,7 +5,7 @@
     "created_at": "2026-09-10T10:26:58.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 164,
+      "impression_count": 167,
       "like_count": 7,
       "quote_count": 0,
       "reply_count": 3,
@@ -310,7 +310,7 @@
     "created_at": "2026-09-10T07:04:08.000Z",
     "public_metrics": {
       "bookmark_count": 1,
-      "impression_count": 152,
+      "impression_count": 153,
       "like_count": 7,
       "quote_count": 0,
       "reply_count": 0,
@@ -2374,7 +2374,7 @@
     "created_at": "2026-09-10T13:58:25.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 92,
+      "impression_count": 96,
       "like_count": 1,
       "quote_count": 0,
       "reply_count": 0,
@@ -2446,7 +2446,7 @@
     "created_at": "2026-09-10T13:31:08.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 35,
+      "impression_count": 37,
       "like_count": 1,
       "quote_count": 0,
       "reply_count": 1,
@@ -2465,7 +2465,7 @@
     "created_at": "2026-09-10T12:51:40.000Z",
     "public_metrics": {
       "bookmark_count": 2,
-      "impression_count": 465,
+      "impression_count": 473,
       "like_count": 7,
       "quote_count": 0,
       "reply_count": 9,
@@ -2585,7 +2585,7 @@
     "created_at": "2026-09-10T15:33:02.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 162,
+      "impression_count": 164,
       "like_count": 9,
       "quote_count": 1,
       "reply_count": 4,
@@ -2634,7 +2634,7 @@
     "created_at": "2026-09-10T15:28:28.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 81,
+      "impression_count": 84,
       "like_count": 3,
       "quote_count": 0,
       "reply_count": 1,
@@ -2811,7 +2811,7 @@
     "created_at": "2026-09-10T18:19:30.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 125,
+      "impression_count": 127,
       "like_count": 7,
       "quote_count": 0,
       "reply_count": 3,
@@ -7598,7 +7598,7 @@
     "created_at": "2026-09-10T18:41:41.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 9,
+      "impression_count": 10,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 1,
@@ -7615,7 +7615,7 @@
     "created_at": "2026-09-10T18:40:00.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 20,
+      "impression_count": 21,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 1,
@@ -7723,7 +7723,7 @@
     "created_at": "2026-09-10T19:04:35.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 38,
+      "impression_count": 39,
       "like_count": 1,
       "quote_count": 0,
       "reply_count": 1,
@@ -7742,7 +7742,7 @@
     "created_at": "2026-09-10T19:03:30.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 44,
+      "impression_count": 46,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -7776,7 +7776,7 @@
     "created_at": "2026-09-10T19:02:44.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 1498,
+      "impression_count": 1510,
       "like_count": 7,
       "quote_count": 0,
       "reply_count": 0,
@@ -7835,14 +7835,15 @@
     "created_at": "2026-09-10T19:13:03.000Z",
     "public_metrics": {
       "bookmark_count": 1,
-      "impression_count": 546,
-      "like_count": 24,
+      "impression_count": 555,
+      "like_count": 25,
       "quote_count": 0,
       "reply_count": 11,
       "retweet_count": 9
     },
     "published_at": "2026-09-10T19:13:03.000Z",
     "likers": [
+      "882150225120559109",
       "917150882",
       "1457909950659710978",
       "1863998030850260994",
@@ -7878,19 +7879,19 @@
       "2004830391828709381",
       "1849407354972020737"
     ],
-    "last_checked_like_count": 24,
+    "last_checked_like_count": 25,
     "last_checked_retweet_count": 9,
-    "fetched_at": "2026-09-11T01:11:21.243Z"
+    "fetched_at": "2026-09-11T12:17:07.293Z"
   },
   "2098153499020411063": {
     "created_at": "2026-09-10T20:55:50.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 112,
+      "impression_count": 116,
       "like_count": 3,
       "quote_count": 1,
       "reply_count": 3,
-      "retweet_count": 0
+      "retweet_count": 1
     },
     "published_at": "2026-09-10T20:55:50.000Z",
     "likers": [
@@ -7898,10 +7899,12 @@
       "2016550762474799104",
       "1849407354972020737"
     ],
-    "retweeters": [],
+    "retweeters": [
+      "2016550762474799104"
+    ],
     "last_checked_like_count": 3,
-    "last_checked_retweet_count": 0,
-    "fetched_at": "2026-09-11T06:16:14.710Z"
+    "last_checked_retweet_count": 1,
+    "fetched_at": "2026-09-11T12:17:07.508Z"
   },
   "2098150395243552994": {
     "created_at": "2026-09-10T20:43:30.000Z",
@@ -7924,7 +7927,7 @@
     "created_at": "2026-09-10T20:42:38.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 13,
+      "impression_count": 14,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -7941,11 +7944,11 @@
     "created_at": "2026-09-10T20:40:32.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 105,
+      "impression_count": 110,
       "like_count": 7,
       "quote_count": 0,
       "reply_count": 4,
-      "retweet_count": 3
+      "retweet_count": 4
     },
     "published_at": "2026-09-10T20:40:32.000Z",
     "likers": [
@@ -7958,13 +7961,14 @@
       "2016550762474799104"
     ],
     "retweeters": [
+      "2016550762474799104",
       "1997360351667773440",
       "2004830391828709381",
       "1849407354972020737"
     ],
     "last_checked_like_count": 7,
-    "last_checked_retweet_count": 3,
-    "fetched_at": "2026-09-10T21:11:19.394Z"
+    "last_checked_retweet_count": 4,
+    "fetched_at": "2026-09-11T12:17:06.872Z"
   },
   "2098148994056613901": {
     "created_at": "2026-09-10T20:37:56.000Z",
@@ -7987,7 +7991,7 @@
     "created_at": "2026-09-11T03:59:43.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 36,
+      "impression_count": 38,
       "like_count": 1,
       "quote_count": 0,
       "reply_count": 1,
@@ -8006,7 +8010,7 @@
     "created_at": "2026-09-11T03:59:28.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 21,
+      "impression_count": 22,
       "like_count": 1,
       "quote_count": 0,
       "reply_count": 0,
@@ -8025,7 +8029,7 @@
     "created_at": "2026-09-11T03:59:08.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 31,
+      "impression_count": 32,
       "like_count": 1,
       "quote_count": 0,
       "reply_count": 0,
@@ -8044,7 +8048,7 @@
     "created_at": "2026-09-11T03:58:43.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 27,
+      "impression_count": 28,
       "like_count": 1,
       "quote_count": 0,
       "reply_count": 0,
@@ -8063,7 +8067,7 @@
     "created_at": "2026-09-11T03:54:23.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 7,
+      "impression_count": 8,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -8080,7 +8084,7 @@
     "created_at": "2026-09-11T03:51:58.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 17,
+      "impression_count": 18,
       "like_count": 1,
       "quote_count": 0,
       "reply_count": 1,
@@ -8099,11 +8103,11 @@
     "created_at": "2026-09-11T04:54:27.000Z",
     "public_metrics": {
       "bookmark_count": 3,
-      "impression_count": 33379,
-      "like_count": 311,
+      "impression_count": 33406,
+      "like_count": 323,
       "quote_count": 1,
       "reply_count": 10,
-      "retweet_count": 131
+      "retweet_count": 143
     },
     "published_at": "2026-09-11T04:54:27.000Z",
     "likers": [
@@ -8328,11 +8332,11 @@
     "created_at": "2026-09-11T04:25:55.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 82,
+      "impression_count": 90,
       "like_count": 4,
       "quote_count": 0,
       "reply_count": 2,
-      "retweet_count": 1
+      "retweet_count": 2
     },
     "published_at": "2026-09-11T04:25:55.000Z",
     "likers": [
@@ -8342,11 +8346,12 @@
       "2004830391828709381"
     ],
     "retweeters": [
+      "2016550762474799104",
       "2004830391828709381"
     ],
     "last_checked_like_count": 4,
-    "last_checked_retweet_count": 1,
-    "fetched_at": "2026-09-11T08:14:05.642Z"
+    "last_checked_retweet_count": 2,
+    "fetched_at": "2026-09-11T12:17:07.706Z"
   },
   "2098266012005057010": {
     "created_at": "2026-09-11T04:22:55.000Z",
@@ -8371,7 +8376,7 @@
     "created_at": "2026-09-11T04:21:12.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 5,
+      "impression_count": 6,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -8405,7 +8410,7 @@
     "created_at": "2026-09-11T05:18:12.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 78,
+      "impression_count": 82,
       "like_count": 1,
       "quote_count": 0,
       "reply_count": 2,
@@ -8424,7 +8429,7 @@
     "created_at": "2026-09-11T05:17:43.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 28,
+      "impression_count": 34,
       "like_count": 1,
       "quote_count": 0,
       "reply_count": 0,
@@ -8464,7 +8469,7 @@
     "created_at": "2026-09-11T11:12:16.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 0,
+      "impression_count": 1,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -8481,7 +8486,7 @@
     "created_at": "2026-09-11T10:56:41.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 10,
+      "impression_count": 11,
       "like_count": 1,
       "quote_count": 0,
       "reply_count": 2,
@@ -8500,7 +8505,7 @@
     "created_at": "2026-09-11T10:56:00.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 2,
+      "impression_count": 4,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -8517,7 +8522,7 @@
     "created_at": "2026-09-11T10:55:48.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 2,
+      "impression_count": 3,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -8551,18 +8556,20 @@
     "created_at": "2026-09-11T10:50:35.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 5,
-      "like_count": 0,
+      "impression_count": 8,
+      "like_count": 1,
       "quote_count": 0,
       "reply_count": 1,
       "retweet_count": 0
     },
     "published_at": "2026-09-11T10:50:35.000Z",
-    "likers": [],
+    "likers": [
+      "1987112193742282755"
+    ],
     "retweeters": [],
-    "last_checked_like_count": 0,
+    "last_checked_like_count": 1,
     "last_checked_retweet_count": 0,
-    "fetched_at": "2026-09-11T11:12:34.762Z"
+    "fetched_at": "2026-09-11T12:17:07.910Z"
   },
   "2098363359745757684": {
     "created_at": "2026-09-11T10:49:45.000Z",
@@ -8585,7 +8592,7 @@
     "created_at": "2026-09-11T10:49:16.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 5,
+      "impression_count": 16,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -8602,31 +8609,36 @@
     "created_at": "2026-09-11T10:44:16.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 42,
-      "like_count": 4,
+      "impression_count": 79,
+      "like_count": 8,
       "quote_count": 2,
-      "reply_count": 2,
-      "retweet_count": 1
+      "reply_count": 4,
+      "retweet_count": 2
     },
     "published_at": "2026-09-11T10:44:16.000Z",
     "likers": [
+      "1987112193742282755",
+      "1666240737623646208",
+      "1997360351667773440",
+      "2025883159112679424",
       "2016550762474799104",
       "1452032441305092096",
       "2094695810097360896",
       "2004830391828709381"
     ],
     "retweeters": [
+      "1997360351667773440",
       "2016550762474799104"
     ],
-    "last_checked_like_count": 4,
-    "last_checked_retweet_count": 1,
-    "fetched_at": "2026-09-11T11:12:35.349Z"
+    "last_checked_like_count": 8,
+    "last_checked_retweet_count": 2,
+    "fetched_at": "2026-09-11T12:17:08.215Z"
   },
   "2098360895990579566": {
     "created_at": "2026-09-11T10:39:57.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 24,
+      "impression_count": 36,
       "like_count": 3,
       "quote_count": 0,
       "reply_count": 1,
@@ -8649,37 +8661,42 @@
     "created_at": "2026-09-11T10:33:10.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 40,
-      "like_count": 3,
+      "impression_count": 56,
+      "like_count": 6,
       "quote_count": 0,
-      "reply_count": 3,
-      "retweet_count": 1
+      "reply_count": 4,
+      "retweet_count": 2
     },
     "published_at": "2026-09-11T10:33:10.000Z",
     "likers": [
+      "1987112193742282755",
+      "2016550762474799104",
+      "1666240737623646208",
       "1452169209081966596",
       "2004830391828709381",
       "1849407354972020737"
     ],
     "retweeters": [
+      "2016550762474799104",
       "2004830391828709381"
     ],
-    "last_checked_like_count": 3,
-    "last_checked_retweet_count": 1,
-    "fetched_at": "2026-09-11T11:12:35.779Z"
+    "last_checked_like_count": 6,
+    "last_checked_retweet_count": 2,
+    "fetched_at": "2026-09-11T12:17:08.468Z"
   },
   "2098354339244843370": {
     "created_at": "2026-09-11T10:13:54.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 82,
-      "like_count": 6,
+      "impression_count": 107,
+      "like_count": 7,
       "quote_count": 1,
-      "reply_count": 2,
+      "reply_count": 3,
       "retweet_count": 1
     },
     "published_at": "2026-09-11T10:13:54.000Z",
     "likers": [
+      "1987112193742282755",
       "1849407354972020737",
       "2004830391828709381",
       "1799044165340401664",
@@ -8690,8 +8707,25 @@
     "retweeters": [
       "2016550762474799104"
     ],
-    "last_checked_like_count": 6,
+    "last_checked_like_count": 7,
     "last_checked_retweet_count": 1,
-    "fetched_at": "2026-09-11T11:12:36.047Z"
+    "fetched_at": "2026-09-11T12:17:08.712Z"
+  },
+  "2098369206563606994": {
+    "created_at": "2026-09-11T11:12:59.000Z",
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "published_at": "2026-09-11T11:12:59.000Z",
+    "likers": [],
+    "retweeters": [],
+    "last_checked_like_count": 0,
+    "last_checked_retweet_count": 0,
+    "fetched_at": "2026-09-11T12:17:06.624Z"
   }
 }
