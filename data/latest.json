@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T14:13:12.257Z",
+  "generated_at": "2026-09-11T15:12:39.392Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -9,7 +9,7 @@
   },
   "tracked_posts": 515,
   "last_full_sweep": "2026-09-11T03:17:45.872Z",
-  "estimated_month_spend_usd": 15.002,
+  "estimated_month_spend_usd": 15.11,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -52,8 +52,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2097444978234720256/hGeZbefp_normal.jpg",
       "likes": 7,
       "reposts": 6,
-      "replies": 20,
-      "score": 79,
+      "replies": 21,
+      "score": 82,
       "rank": 4
     },
     {
@@ -123,6 +123,17 @@
       "rank": 10
     },
     {
+      "user_id": "1666240737623646208",
+      "username": "web4_blaze",
+      "name": "blaze",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2070192344616325120/SW6AkzoO_normal.jpg",
+      "likes": 12,
+      "reposts": 0,
+      "replies": 5,
+      "score": 27,
+      "rank": 11
+    },
+    {
       "user_id": "80037636",
       "username": "MrDariBoss",
       "name": "Mr Dari ₿",
@@ -131,7 +142,7 @@
       "reposts": 0,
       "replies": 8,
       "score": 26,
-      "rank": 11
+      "rank": 12
     },
     {
       "user_id": "1997360351667773440",
@@ -142,7 +153,7 @@
       "reposts": 7,
       "replies": 1,
       "score": 26,
-      "rank": 12
+      "rank": 13
     },
     {
       "user_id": "2094695810097360896",
@@ -153,17 +164,6 @@
       "reposts": 0,
       "replies": 6,
       "score": 25,
-      "rank": 13
-    },
-    {
-      "user_id": "1666240737623646208",
-      "username": "web4_blaze",
-      "name": "blaze",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2070192344616325120/SW6AkzoO_normal.jpg",
-      "likes": 12,
-      "reposts": 0,
-      "replies": 4,
-      "score": 24,
       "rank": 14
     },
     {
@@ -414,6 +414,17 @@
       "rank": 37
     },
     {
+      "user_id": "1016324267560955909",
+      "username": "CryptoMaelle",
+      "name": "Crypto Maelle",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2039291847668051968/7fskj61t_normal.jpg",
+      "likes": 1,
+      "reposts": 0,
+      "replies": 2,
+      "score": 7,
+      "rank": 38
+    },
+    {
       "user_id": "1325283492188577793",
       "username": "DEFI_DEGEN24",
       "name": "DEFI-Denny🧐",
@@ -422,7 +433,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 6,
-      "rank": 38
+      "rank": 39
     },
     {
       "user_id": "1388835131293462528",
@@ -433,7 +444,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 6,
-      "rank": 39
+      "rank": 40
     },
     {
       "user_id": "1935754395649519616",
@@ -444,7 +455,7 @@
       "reposts": 1,
       "replies": 1,
       "score": 6,
-      "rank": 40
+      "rank": 41
     },
     {
       "user_id": "186195415",
@@ -454,7 +465,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 6,
-      "rank": 41
+      "rank": 42
     },
     {
       "user_id": "451837540",
@@ -464,7 +475,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 6,
-      "rank": 42
+      "rank": 43
     },
     {
       "user_id": "2220176421",
@@ -474,7 +485,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 6,
-      "rank": 43
+      "rank": 44
     },
     {
       "user_id": "2742948520",
@@ -484,7 +495,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 6,
-      "rank": 44
+      "rank": 45
     },
     {
       "user_id": "1110340947588476928",
@@ -495,7 +506,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 6,
-      "rank": 45
+      "rank": 46
     },
     {
       "user_id": "2079334495766106112",
@@ -506,7 +517,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 6,
-      "rank": 46
+      "rank": 47
     },
     {
       "user_id": "2092758593489821696",
@@ -516,7 +527,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 6,
-      "rank": 47
+      "rank": 48
     },
     {
       "user_id": "2096863103673663491",
@@ -526,21 +537,11 @@
       "reposts": 0,
       "replies": 2,
       "score": 6,
-      "rank": 48
+      "rank": 49
     },
     {
       "user_id": "2088298489008803842",
       "username": "2088298489008803842",
-      "name": "Unknown",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 2,
-      "score": 6,
-      "rank": 49
-    },
-    {
-      "user_id": "1457275640898637827",
-      "username": "1457275640898637827",
       "name": "Unknown",
       "likes": 0,
       "reposts": 0,
