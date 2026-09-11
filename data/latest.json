@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T09:12:52.826Z",
+  "generated_at": "2026-09-11T10:13:17.236Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -9,7 +9,7 @@
   },
   "tracked_posts": 501,
   "last_full_sweep": "2026-09-11T03:17:45.872Z",
-  "estimated_month_spend_usd": 13.928,
+  "estimated_month_spend_usd": 14.036,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -17,10 +17,10 @@
       "username": "KatheleenLori",
       "name": "KTY'Fun",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2093999192255692800/wAd2m1iT_normal.jpg",
-      "likes": 42,
+      "likes": 43,
       "reposts": 9,
-      "replies": 50,
-      "score": 210,
+      "replies": 52,
+      "score": 217,
       "rank": 1
     },
     {
