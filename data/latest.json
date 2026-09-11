@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T06:16:16.013Z",
+  "generated_at": "2026-09-11T07:13:24.070Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -9,7 +9,7 @@
   },
   "tracked_posts": 500,
   "last_full_sweep": "2026-09-11T03:17:45.872Z",
-  "estimated_month_spend_usd": 13.362,
+  "estimated_month_spend_usd": 13.552,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -18,9 +18,9 @@
       "name": "KTY'Fun",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2093999192255692800/wAd2m1iT_normal.jpg",
       "likes": 42,
-      "reposts": 8,
-      "replies": 48,
-      "score": 202,
+      "reposts": 9,
+      "replies": 49,
+      "score": 207,
       "rank": 1
     },
     {
@@ -134,6 +134,17 @@
       "rank": 11
     },
     {
+      "user_id": "1997360351667773440",
+      "username": "Mubarak6313",
+      "name": "Hunter",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2084284449915551744/EpIbOtsE_normal.jpg",
+      "likes": 8,
+      "reposts": 6,
+      "replies": 1,
+      "score": 23,
+      "rank": 12
+    },
+    {
       "user_id": "1756715757587570688",
       "username": "Real_MyraLux",
       "name": "Matthew Collins",
@@ -142,17 +153,6 @@
       "reposts": 0,
       "replies": 6,
       "score": 23,
-      "rank": 12
-    },
-    {
-      "user_id": "1997360351667773440",
-      "username": "Mubarak6313",
-      "name": "Hunter",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2084284449915551744/EpIbOtsE_normal.jpg",
-      "likes": 7,
-      "reposts": 6,
-      "replies": 1,
-      "score": 22,
       "rank": 13
     },
     {
@@ -222,6 +222,17 @@
       "rank": 19
     },
     {
+      "user_id": "2047418686261403648",
+      "username": "alvucadooy",
+      "name": "Juicy Alvucado 💋",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2097378676790976512/l3vdYWHn_normal.jpg",
+      "likes": 3,
+      "reposts": 1,
+      "replies": 4,
+      "score": 17,
+      "rank": 20
+    },
+    {
       "user_id": "1452169209081966596",
       "username": "Crypto_Holding_",
       "name": "Crypto Holding™ 💎",
@@ -230,7 +241,7 @@
       "reposts": 0,
       "replies": 0,
       "score": 12,
-      "rank": 20
+      "rank": 21
     },
     {
       "user_id": "2096968357652131840",
@@ -241,7 +252,7 @@
       "reposts": 2,
       "replies": 2,
       "score": 12,
-      "rank": 21
+      "rank": 22
     },
     {
       "user_id": "1272139028922499073",
@@ -251,24 +262,13 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 22
+      "rank": 23
     },
     {
       "user_id": "1321885856295276544",
       "username": "m97HR",
       "name": "Kaith Crypto",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2090140130631979008/7yTrJdGi_normal.jpg",
-      "likes": 2,
-      "reposts": 0,
-      "replies": 3,
-      "score": 11,
-      "rank": 23
-    },
-    {
-      "user_id": "2047418686261403648",
-      "username": "alvucadooy",
-      "name": "Juicy Alvucado 💋",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2097378676790976512/l3vdYWHn_normal.jpg",
       "likes": 2,
       "reposts": 0,
       "replies": 3,
