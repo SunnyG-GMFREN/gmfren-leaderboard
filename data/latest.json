@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T17:11:27.132Z",
+  "generated_at": "2026-09-11T18:14:51.956Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 515,
+  "tracked_posts": 517,
   "last_full_sweep": "2026-09-11T03:17:45.872Z",
-  "estimated_month_spend_usd": 15.323,
+  "estimated_month_spend_usd": 15.437,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -68,6 +68,17 @@
       "rank": 5
     },
     {
+      "user_id": "1987112193742282755",
+      "username": "Youngrfqifzl",
+      "name": "rifqifzl 🦖👑",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2096560191357734912/SDAZpXAn_normal.jpg",
+      "likes": 13,
+      "reposts": 1,
+      "replies": 13,
+      "score": 54,
+      "rank": 6
+    },
+    {
       "user_id": "1902426675188740096",
       "username": "kambing142557",
       "name": "Angelino Da Silva🌛",
@@ -76,17 +87,6 @@
       "reposts": 3,
       "replies": 14,
       "score": 54,
-      "rank": 6
-    },
-    {
-      "user_id": "1987112193742282755",
-      "username": "Youngrfqifzl",
-      "name": "rifqifzl 🦖👑",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2096560191357734912/SDAZpXAn_normal.jpg",
-      "likes": 13,
-      "reposts": 1,
-      "replies": 12,
-      "score": 51,
       "rank": 7
     },
     {
