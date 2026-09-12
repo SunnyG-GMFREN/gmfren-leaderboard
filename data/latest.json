@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:11:53.253Z",
+  "generated_at": "2026-09-12T11:11:20.006Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -9,7 +9,7 @@
   },
   "tracked_posts": 545,
   "last_full_sweep": "2026-09-12T03:16:36.807Z",
-  "estimated_month_spend_usd": 17.944,
+  "estimated_month_spend_usd": 18.067,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -19,8 +19,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2093999192255692800/wAd2m1iT_normal.jpg",
       "likes": 48,
       "reposts": 17,
-      "replies": 72,
-      "score": 298,
+      "replies": 73,
+      "score": 301,
       "rank": 1
     },
     {
@@ -167,6 +167,17 @@
       "rank": 14
     },
     {
+      "user_id": "897398121914707968",
+      "username": "TheW3Space",
+      "name": "Web3 | Coins",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1824914361921503232/OPOsAEH9_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 9,
+      "score": 27,
+      "rank": 15
+    },
+    {
       "user_id": "80037636",
       "username": "MrDariBoss",
       "name": "Mr Dari ₿",
@@ -175,7 +186,7 @@
       "reposts": 0,
       "replies": 8,
       "score": 26,
-      "rank": 15
+      "rank": 16
     },
     {
       "user_id": "1997360351667773440",
@@ -186,7 +197,7 @@
       "reposts": 7,
       "replies": 1,
       "score": 26,
-      "rank": 16
+      "rank": 17
     },
     {
       "user_id": "1881477830808064000",
@@ -197,7 +208,7 @@
       "reposts": 2,
       "replies": 6,
       "score": 24,
-      "rank": 17
+      "rank": 18
     },
     {
       "user_id": "2047418686261403648",
@@ -208,7 +219,7 @@
       "reposts": 1,
       "replies": 6,
       "score": 23,
-      "rank": 18
+      "rank": 19
     },
     {
       "user_id": "1362787909909282819",
@@ -219,7 +230,7 @@
       "reposts": 3,
       "replies": 1,
       "score": 21,
-      "rank": 19
+      "rank": 20
     },
     {
       "user_id": "3278828737",
@@ -230,7 +241,7 @@
       "reposts": 0,
       "replies": 6,
       "score": 20,
-      "rank": 20
+      "rank": 21
     },
     {
       "user_id": "1799044165340401664",
@@ -241,7 +252,7 @@
       "reposts": 0,
       "replies": 6,
       "score": 20,
-      "rank": 21
+      "rank": 22
     },
     {
       "user_id": "1765473516974215168",
@@ -252,7 +263,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 20,
-      "rank": 22
+      "rank": 23
     },
     {
       "user_id": "2096968357652131840",
@@ -263,7 +274,7 @@
       "reposts": 2,
       "replies": 4,
       "score": 18,
-      "rank": 23
+      "rank": 24
     },
     {
       "user_id": "1272139028922499073",
@@ -274,7 +285,7 @@
       "reposts": 0,
       "replies": 6,
       "score": 18,
-      "rank": 24
+      "rank": 25
     },
     {
       "user_id": "1452169209081966596",
@@ -285,7 +296,7 @@
       "reposts": 0,
       "replies": 0,
       "score": 15,
-      "rank": 25
+      "rank": 26
     },
     {
       "user_id": "230377305",
@@ -296,7 +307,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 26
+      "rank": 27
     },
     {
       "user_id": "421270176",
@@ -307,7 +318,18 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 27
+      "rank": 28
+    },
+    {
+      "user_id": "2990375058",
+      "username": "iRileyCrypto",
+      "name": "Riley Morgan",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2081508706773250048/dJrQ7nzx_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 5,
+      "score": 15,
+      "rank": 29
     },
     {
       "user_id": "3373108933",
@@ -318,7 +340,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 28
+      "rank": 30
     },
     {
       "user_id": "1887180036840493056",
@@ -329,7 +351,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 29
+      "rank": 31
     },
     {
       "user_id": "1723334011404054528",
@@ -340,7 +362,7 @@
       "reposts": 1,
       "replies": 4,
       "score": 14,
-      "rank": 30
+      "rank": 32
     },
     {
       "user_id": "2094890365094330368",
@@ -351,7 +373,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 13,
-      "rank": 31
+      "rank": 33
     },
     {
       "user_id": "1016324267560955909",
@@ -362,7 +384,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 13,
-      "rank": 32
+      "rank": 34
     },
     {
       "user_id": "38638309",
@@ -373,18 +395,29 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 33
+      "rank": 35
     },
     {
-      "user_id": "2990375058",
-      "username": "iRileyCrypto",
-      "name": "Riley Morgan",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2081508706773250048/dJrQ7nzx_normal.jpg",
+      "user_id": "451837540",
+      "username": "iLilyVale",
+      "name": "Lily Vale",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2074088206748827648/bZUhvYYF_normal.jpg",
       "likes": 0,
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 34
+      "rank": 36
+    },
+    {
+      "user_id": "744314137",
+      "username": "tripleK31",
+      "name": "Melissa Kang",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2040339549969432576/GGP5OhUe_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 4,
+      "score": 12,
+      "rank": 37
     },
     {
       "user_id": "2081751398346338304",
@@ -395,7 +428,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 35
+      "rank": 38
     },
     {
       "user_id": "2083798244640092160",
@@ -406,7 +439,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 36
+      "rank": 39
     },
     {
       "user_id": "2087297195057766400",
@@ -417,7 +450,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 37
+      "rank": 40
     },
     {
       "user_id": "1321885856295276544",
@@ -428,7 +461,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 11,
-      "rank": 38
+      "rank": 41
     },
     {
       "user_id": "2025883159112679424",
@@ -439,7 +472,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 11,
-      "rank": 39
+      "rank": 42
     },
     {
       "user_id": "1325283492188577793",
@@ -450,7 +483,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 9,
-      "rank": 40
+      "rank": 43
     },
     {
       "user_id": "2058911208984748032",
@@ -461,7 +494,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 9,
-      "rank": 41
+      "rank": 44
     },
     {
       "user_id": "251203873",
@@ -472,7 +505,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 9,
-      "rank": 42
+      "rank": 45
     },
     {
       "user_id": "386533946",
@@ -482,29 +515,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 9,
-      "rank": 43
-    },
-    {
-      "user_id": "451837540",
-      "username": "iLilyVale",
-      "name": "Lily Vale",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2074088206748827648/bZUhvYYF_normal.jpg",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 3,
-      "score": 9,
-      "rank": 44
-    },
-    {
-      "user_id": "744314137",
-      "username": "tripleK31",
-      "name": "Melissa Kang",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2040339549969432576/GGP5OhUe_normal.jpg",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 3,
-      "score": 9,
-      "rank": 45
+      "rank": 46
     },
     {
       "user_id": "1177523887",
@@ -514,7 +525,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 9,
-      "rank": 46
+      "rank": 47
     },
     {
       "user_id": "2742948520",
@@ -525,7 +536,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 9,
-      "rank": 47
+      "rank": 48
     },
     {
       "user_id": "2081833333584252928",
@@ -536,24 +547,13 @@
       "reposts": 0,
       "replies": 3,
       "score": 9,
-      "rank": 48
+      "rank": 49
     },
     {
       "user_id": "1089513750812655617",
       "username": "SolPumpFunTiger",
       "name": "Sol Pumpfun",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2094869743488663552/G25W9unS_normal.jpg",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 3,
-      "score": 9,
-      "rank": 49
-    },
-    {
-      "user_id": "1278681996445618178",
-      "username": "DefiSparco",
-      "name": "Sparco DeFi",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1929977262012542976/PU105QNR_normal.jpg",
       "likes": 0,
       "reposts": 0,
       "replies": 3,
