@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T00:17:12.616Z",
+  "generated_at": "2026-09-12T01:10:50.969Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 527,
+  "tracked_posts": 528,
   "last_full_sweep": "2026-09-11T03:17:45.872Z",
-  "estimated_month_spend_usd": 16.193,
+  "estimated_month_spend_usd": 16.315,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -85,8 +85,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2094237224854286336/2b2coyAe_normal.jpg",
       "likes": 5,
       "reposts": 2,
-      "replies": 16,
-      "score": 57,
+      "replies": 18,
+      "score": 63,
       "rank": 7
     },
     {
@@ -178,6 +178,17 @@
       "rank": 15
     },
     {
+      "user_id": "1881477830808064000",
+      "username": "PaymentMega",
+      "name": "HÆŞHMÅÑ ÇŘÝPŢÓ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2057703504509116416/VKv-P8RQ_normal.jpg",
+      "likes": 2,
+      "reposts": 2,
+      "replies": 6,
+      "score": 24,
+      "rank": 16
+    },
+    {
       "user_id": "1756715757587570688",
       "username": "Real_MyraLux",
       "name": "Matthew Collins",
@@ -186,7 +197,7 @@
       "reposts": 0,
       "replies": 6,
       "score": 23,
-      "rank": 16
+      "rank": 17
     },
     {
       "user_id": "1362787909909282819",
@@ -197,7 +208,7 @@
       "reposts": 3,
       "replies": 1,
       "score": 21,
-      "rank": 17
+      "rank": 18
     },
     {
       "user_id": "3278828737",
@@ -208,7 +219,7 @@
       "reposts": 0,
       "replies": 6,
       "score": 20,
-      "rank": 18
+      "rank": 19
     },
     {
       "user_id": "1799044165340401664",
@@ -219,7 +230,7 @@
       "reposts": 0,
       "replies": 6,
       "score": 20,
-      "rank": 19
+      "rank": 20
     },
     {
       "user_id": "1765473516974215168",
@@ -230,18 +241,18 @@
       "reposts": 0,
       "replies": 5,
       "score": 20,
-      "rank": 20
+      "rank": 21
     },
     {
-      "user_id": "1881477830808064000",
-      "username": "PaymentMega",
-      "name": "HÆŞHMÅÑ ÇŘÝPŢÓ",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2057703504509116416/VKv-P8RQ_normal.jpg",
+      "user_id": "2096968357652131840",
+      "username": "JohnSmithwethw",
+      "name": "John Smith",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2096969043643109376/yyucga8c_normal.jpg",
       "likes": 2,
       "reposts": 2,
       "replies": 4,
       "score": 18,
-      "rank": 21
+      "rank": 22
     },
     {
       "user_id": "2047418686261403648",
@@ -252,7 +263,7 @@
       "reposts": 1,
       "replies": 4,
       "score": 17,
-      "rank": 22
+      "rank": 23
     },
     {
       "user_id": "1452169209081966596",
@@ -263,7 +274,7 @@
       "reposts": 0,
       "replies": 0,
       "score": 15,
-      "rank": 23
+      "rank": 24
     },
     {
       "user_id": "230377305",
@@ -274,7 +285,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 24
+      "rank": 25
     },
     {
       "user_id": "2094890365094330368",
@@ -285,17 +296,6 @@
       "reposts": 0,
       "replies": 3,
       "score": 13,
-      "rank": 25
-    },
-    {
-      "user_id": "2096968357652131840",
-      "username": "JohnSmithwethw",
-      "name": "John Smith",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2096969043643109376/yyucga8c_normal.jpg",
-      "likes": 2,
-      "reposts": 2,
-      "replies": 2,
-      "score": 12,
       "rank": 26
     },
     {
