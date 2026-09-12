@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:11:13.268Z",
+  "generated_at": "2026-09-12T18:13:38.548Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 555,
+  "tracked_posts": 556,
   "last_full_sweep": "2026-09-12T03:16:36.807Z",
-  "estimated_month_spend_usd": 18.751,
+  "estimated_month_spend_usd": 18.854,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -52,8 +52,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2097444978234720256/hGeZbefp_normal.jpg",
       "likes": 7,
       "reposts": 6,
-      "replies": 29,
-      "score": 106,
+      "replies": 30,
+      "score": 109,
       "rank": 4
     },
     {
@@ -85,8 +85,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2094237224854286336/2b2coyAe_normal.jpg",
       "likes": 5,
       "reposts": 2,
-      "replies": 21,
-      "score": 72,
+      "replies": 23,
+      "score": 78,
       "rank": 7
     },
     {
@@ -189,6 +189,17 @@
       "rank": 16
     },
     {
+      "user_id": "1997360351667773440",
+      "username": "Mubarak6313",
+      "name": "Hunter",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2084284449915551744/EpIbOtsE_normal.jpg",
+      "likes": 9,
+      "reposts": 7,
+      "replies": 2,
+      "score": 29,
+      "rank": 17
+    },
+    {
       "user_id": "80037636",
       "username": "MrDariBoss",
       "name": "Mr Dari ₿",
@@ -196,17 +207,6 @@
       "likes": 2,
       "reposts": 0,
       "replies": 8,
-      "score": 26,
-      "rank": 17
-    },
-    {
-      "user_id": "1997360351667773440",
-      "username": "Mubarak6313",
-      "name": "Hunter",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2084284449915551744/EpIbOtsE_normal.jpg",
-      "likes": 9,
-      "reposts": 7,
-      "replies": 1,
       "score": 26,
       "rank": 18
     },
