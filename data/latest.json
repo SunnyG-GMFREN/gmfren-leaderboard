@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T19:10:23.866Z",
+  "generated_at": "2026-09-12T20:12:06.790Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 556,
+  "tracked_posts": 561,
   "last_full_sweep": "2026-09-12T03:16:36.807Z",
-  "estimated_month_spend_usd": 18.939,
+  "estimated_month_spend_usd": 19.033,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -19,8 +19,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2093999192255692800/wAd2m1iT_normal.jpg",
       "likes": 48,
       "reposts": 17,
-      "replies": 79,
-      "score": 319,
+      "replies": 80,
+      "score": 322,
       "rank": 1
     },
     {
@@ -475,6 +475,17 @@
       "rank": 42
     },
     {
+      "user_id": "1896801929323573248",
+      "username": "HANNA08594",
+      "name": "HANNA STYLE",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2098778021654360064/t3-H--sl_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 4,
+      "score": 12,
+      "rank": 43
+    },
+    {
       "user_id": "1321885856295276544",
       "username": "m97HR",
       "name": "Kaith Crypto",
@@ -483,7 +494,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 11,
-      "rank": 43
+      "rank": 44
     },
     {
       "user_id": "2025883159112679424",
@@ -494,7 +505,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 11,
-      "rank": 44
+      "rank": 45
     },
     {
       "user_id": "1325283492188577793",
@@ -505,7 +516,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 9,
-      "rank": 45
+      "rank": 46
     },
     {
       "user_id": "2058911208984748032",
@@ -516,7 +527,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 9,
-      "rank": 46
+      "rank": 47
     },
     {
       "user_id": "386533946",
@@ -526,7 +537,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 9,
-      "rank": 47
+      "rank": 48
     },
     {
       "user_id": "1177523887",
@@ -536,24 +547,13 @@
       "reposts": 0,
       "replies": 3,
       "score": 9,
-      "rank": 48
+      "rank": 49
     },
     {
       "user_id": "2742948520",
       "username": "_Niss0",
       "name": "THE CRYPTO DEV",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1985693502559092736/7g3FdWy-_normal.jpg",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 3,
-      "score": 9,
-      "rank": 49
-    },
-    {
-      "user_id": "2081833333584252928",
-      "username": "LvNovalck",
-      "name": "LvNoval",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2081833613205897217/JJs8g7G3_normal.jpg",
       "likes": 0,
       "reposts": 0,
       "replies": 3,
