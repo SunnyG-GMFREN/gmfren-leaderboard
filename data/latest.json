@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T20:12:06.790Z",
+  "generated_at": "2026-09-12T21:17:19.303Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 561,
+  "tracked_posts": 565,
   "last_full_sweep": "2026-09-12T03:16:36.807Z",
-  "estimated_month_spend_usd": 19.033,
+  "estimated_month_spend_usd": 19.125,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -63,8 +63,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2088964636951588864/xNCnrCup_normal.jpg",
       "likes": 8,
       "reposts": 2,
-      "replies": 24,
-      "score": 84,
+      "replies": 25,
+      "score": 87,
       "rank": 5
     },
     {
@@ -387,6 +387,17 @@
       "rank": 34
     },
     {
+      "user_id": "1896801929323573248",
+      "username": "HANNA08594",
+      "name": "HANNA STYLE",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2098778021654360064/t3-H--sl_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 5,
+      "score": 15,
+      "rank": 35
+    },
+    {
       "user_id": "1723334011404054528",
       "username": "PraiseA30462",
       "name": "praz",
@@ -395,7 +406,7 @@
       "reposts": 1,
       "replies": 4,
       "score": 14,
-      "rank": 35
+      "rank": 36
     },
     {
       "user_id": "2094890365094330368",
@@ -406,7 +417,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 13,
-      "rank": 36
+      "rank": 37
     },
     {
       "user_id": "1016324267560955909",
@@ -417,7 +428,18 @@
       "reposts": 0,
       "replies": 4,
       "score": 13,
-      "rank": 37
+      "rank": 38
+    },
+    {
+      "user_id": "1325283492188577793",
+      "username": "DEFI_DEGEN24",
+      "name": "DEFI-Denny🧐",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2025608524424761344/PvzUWQNF_normal.jpg",
+      "likes": 3,
+      "reposts": 0,
+      "replies": 3,
+      "score": 12,
+      "rank": 39
     },
     {
       "user_id": "38638309",
@@ -428,7 +450,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 38
+      "rank": 40
     },
     {
       "user_id": "744314137",
@@ -439,7 +461,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 39
+      "rank": 41
     },
     {
       "user_id": "2081751398346338304",
@@ -450,7 +472,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 40
+      "rank": 42
     },
     {
       "user_id": "1590300910949109760",
@@ -461,7 +483,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 41
+      "rank": 43
     },
     {
       "user_id": "2083798244640092160",
@@ -472,18 +494,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 42
-    },
-    {
-      "user_id": "1896801929323573248",
-      "username": "HANNA08594",
-      "name": "HANNA STYLE",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2098778021654360064/t3-H--sl_normal.jpg",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 4,
-      "score": 12,
-      "rank": 43
+      "rank": 44
     },
     {
       "user_id": "1321885856295276544",
@@ -494,7 +505,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 11,
-      "rank": 44
+      "rank": 45
     },
     {
       "user_id": "2025883159112679424",
@@ -505,17 +516,6 @@
       "reposts": 0,
       "replies": 3,
       "score": 11,
-      "rank": 45
-    },
-    {
-      "user_id": "1325283492188577793",
-      "username": "DEFI_DEGEN24",
-      "name": "DEFI-Denny🧐",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2025608524424761344/PvzUWQNF_normal.jpg",
-      "likes": 3,
-      "reposts": 0,
-      "replies": 2,
-      "score": 9,
       "rank": 46
     },
     {
