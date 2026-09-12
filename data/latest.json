@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T15:11:42.978Z",
+  "generated_at": "2026-09-12T16:12:31.088Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 550,
+  "tracked_posts": 552,
   "last_full_sweep": "2026-09-12T03:16:36.807Z",
-  "estimated_month_spend_usd": 18.54,
+  "estimated_month_spend_usd": 18.645,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -74,8 +74,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2096560191357734912/SDAZpXAn_normal.jpg",
       "likes": 13,
       "reposts": 1,
-      "replies": 20,
-      "score": 75,
+      "replies": 21,
+      "score": 78,
       "rank": 6
     },
     {
