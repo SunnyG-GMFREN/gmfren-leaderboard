@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T08:12:33.208Z",
+  "generated_at": "2026-09-12T09:12:06.541Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -9,7 +9,7 @@
   },
   "tracked_posts": 539,
   "last_full_sweep": "2026-09-12T03:16:36.807Z",
-  "estimated_month_spend_usd": 17.706,
+  "estimated_month_spend_usd": 17.815,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -96,8 +96,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2084430684492541952/W-0uK2XH_normal.jpg",
       "likes": 6,
       "reposts": 3,
-      "replies": 17,
-      "score": 63,
+      "replies": 18,
+      "score": 66,
       "rank": 8
     },
     {
@@ -244,6 +244,17 @@
       "rank": 21
     },
     {
+      "user_id": "2047418686261403648",
+      "username": "alvucadooy",
+      "name": "Juicy Alvucado 💋",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2097378676790976512/l3vdYWHn_normal.jpg",
+      "likes": 3,
+      "reposts": 1,
+      "replies": 5,
+      "score": 20,
+      "rank": 22
+    },
+    {
       "user_id": "2096968357652131840",
       "username": "JohnSmithwethw",
       "name": "John Smith",
@@ -252,7 +263,7 @@
       "reposts": 2,
       "replies": 4,
       "score": 18,
-      "rank": 22
+      "rank": 23
     },
     {
       "user_id": "1272139028922499073",
@@ -263,17 +274,6 @@
       "reposts": 0,
       "replies": 6,
       "score": 18,
-      "rank": 23
-    },
-    {
-      "user_id": "2047418686261403648",
-      "username": "alvucadooy",
-      "name": "Juicy Alvucado 💋",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2097378676790976512/l3vdYWHn_normal.jpg",
-      "likes": 3,
-      "reposts": 1,
-      "replies": 4,
-      "score": 17,
       "rank": 24
     },
     {
@@ -332,6 +332,17 @@
       "rank": 29
     },
     {
+      "user_id": "1016324267560955909",
+      "username": "CryptoMaelle",
+      "name": "Crypto Maelle",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2039291847668051968/7fskj61t_normal.jpg",
+      "likes": 1,
+      "reposts": 0,
+      "replies": 4,
+      "score": 13,
+      "rank": 30
+    },
+    {
       "user_id": "38638309",
       "username": "iNatalieCole",
       "name": "Natalie Cole",
@@ -340,7 +351,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 30
+      "rank": 31
     },
     {
       "user_id": "2990375058",
@@ -351,7 +362,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 31
+      "rank": 32
     },
     {
       "user_id": "3373108933",
@@ -362,7 +373,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 32
+      "rank": 33
     },
     {
       "user_id": "2081751398346338304",
@@ -373,7 +384,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 33
+      "rank": 34
     },
     {
       "user_id": "2083798244640092160",
@@ -384,7 +395,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 34
+      "rank": 35
     },
     {
       "user_id": "2087297195057766400",
@@ -395,7 +406,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 35
+      "rank": 36
     },
     {
       "user_id": "1321885856295276544",
@@ -406,7 +417,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 11,
-      "rank": 36
+      "rank": 37
     },
     {
       "user_id": "2025883159112679424",
@@ -417,7 +428,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 11,
-      "rank": 37
+      "rank": 38
     },
     {
       "user_id": "1325283492188577793",
@@ -428,7 +439,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 9,
-      "rank": 38
+      "rank": 39
     },
     {
       "user_id": "2058911208984748032",
@@ -439,7 +450,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 9,
-      "rank": 39
+      "rank": 40
     },
     {
       "user_id": "251203873",
@@ -450,7 +461,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 9,
-      "rank": 40
+      "rank": 41
     },
     {
       "user_id": "386533946",
@@ -460,7 +471,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 9,
-      "rank": 41
+      "rank": 42
     },
     {
       "user_id": "1177523887",
@@ -470,7 +481,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 9,
-      "rank": 42
+      "rank": 43
     },
     {
       "user_id": "2742948520",
@@ -481,7 +492,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 9,
-      "rank": 43
+      "rank": 44
     },
     {
       "user_id": "2081833333584252928",
@@ -492,7 +503,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 9,
-      "rank": 44
+      "rank": 45
     },
     {
       "user_id": "1089513750812655617",
@@ -503,7 +514,18 @@
       "reposts": 0,
       "replies": 3,
       "score": 9,
-      "rank": 45
+      "rank": 46
+    },
+    {
+      "user_id": "1887180036840493056",
+      "username": "galstala3459",
+      "name": "Beebezt",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2098444336107302912/lxNZfi4N_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 3,
+      "score": 9,
+      "rank": 47
     },
     {
       "user_id": "1278681996445618178",
@@ -514,7 +536,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 9,
-      "rank": 46
+      "rank": 48
     },
     {
       "user_id": "1457909950659710978",
@@ -525,7 +547,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 8,
-      "rank": 47
+      "rank": 49
     },
     {
       "user_id": "1452032441305092096",
@@ -536,28 +558,6 @@
       "reposts": 0,
       "replies": 2,
       "score": 8,
-      "rank": 48
-    },
-    {
-      "user_id": "1451092911341195266",
-      "username": "Jordan9w_kq",
-      "name": "Jordan Generous",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2030144689274499072/GBofOoDv_normal.jpg",
-      "likes": 1,
-      "reposts": 0,
-      "replies": 2,
-      "score": 7,
-      "rank": 49
-    },
-    {
-      "user_id": "1016324267560955909",
-      "username": "CryptoMaelle",
-      "name": "Crypto Maelle",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2039291847668051968/7fskj61t_normal.jpg",
-      "likes": 1,
-      "reposts": 0,
-      "replies": 2,
-      "score": 7,
       "rank": 50
     }
   ]
