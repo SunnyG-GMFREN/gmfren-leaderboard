@@ -1,13 +1,6 @@
 {
   "daily": [
     {
-      "date": "2026-08-13",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 0,
-      "score": 0
-    },
-    {
       "date": "2026-08-14",
       "likes": 0,
       "reposts": 0,
@@ -207,19 +200,19 @@
       "date": "2026-09-11",
       "likes": 62,
       "reposts": 17,
-      "replies": 104,
-      "score": 408
+      "replies": 114,
+      "score": 438
+    },
+    {
+      "date": "2026-09-12",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 2,
+      "score": 6
     }
   ],
   "per_user_daily": {
     "80037636": [
-      {
-        "date": "2026-08-13",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -418,6 +411,13 @@
       },
       {
         "date": "2026-09-11",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
@@ -426,13 +426,6 @@
     ],
     "186195415": [
       {
-        "date": "2026-08-13",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
         "date": "2026-08-14",
         "likes": 0,
         "reposts": 0,
@@ -634,16 +627,16 @@
         "reposts": 0,
         "replies": 0,
         "score": 0
-      }
-    ],
-    "230377305": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "230377305": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -844,18 +837,18 @@
         "date": "2026-09-11",
         "likes": 0,
         "reposts": 0,
+        "replies": 2,
+        "score": 6
+      },
+      {
+        "date": "2026-09-12",
+        "likes": 0,
+        "reposts": 0,
         "replies": 0,
         "score": 0
       }
     ],
     "386533946": [
-      {
-        "date": "2026-08-13",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -1058,16 +1051,16 @@
         "reposts": 0,
         "replies": 0,
         "score": 0
-      }
-    ],
-    "451837540": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "451837540": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -1270,16 +1263,16 @@
         "reposts": 0,
         "replies": 0,
         "score": 0
-      }
-    ],
-    "895853653": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "895853653": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -1482,16 +1475,16 @@
         "reposts": 0,
         "replies": 15,
         "score": 45
-      }
-    ],
-    "1177523887": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1177523887": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -1690,6 +1683,13 @@
       },
       {
         "date": "2026-09-11",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
@@ -1698,13 +1698,6 @@
     ],
     "2220176421": [
       {
-        "date": "2026-08-13",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
         "date": "2026-08-14",
         "likes": 0,
         "reposts": 0,
@@ -1906,16 +1899,16 @@
         "reposts": 0,
         "replies": 0,
         "score": 0
-      }
-    ],
-    "2742948520": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "2742948520": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -2118,16 +2111,16 @@
         "reposts": 0,
         "replies": 1,
         "score": 3
-      }
-    ],
-    "2990375058": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "2990375058": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -2330,17 +2323,17 @@
         "reposts": 0,
         "replies": 0,
         "score": 0
+      },
+      {
+        "date": "2026-09-12",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
       }
     ],
     "3278828737": [
       {
-        "date": "2026-08-13",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
         "date": "2026-08-14",
         "likes": 0,
         "reposts": 0,
@@ -2542,17 +2535,17 @@
         "reposts": 0,
         "replies": 1,
         "score": 3
+      },
+      {
+        "date": "2026-09-12",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
       }
     ],
     "3373108933": [
       {
-        "date": "2026-08-13",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
         "date": "2026-08-14",
         "likes": 0,
         "reposts": 0,
@@ -2754,16 +2747,16 @@
         "reposts": 0,
         "replies": 1,
         "score": 3
-      }
-    ],
-    "2016550762474799104": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "2016550762474799104": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -2964,18 +2957,18 @@
         "date": "2026-09-11",
         "likes": 9,
         "reposts": 9,
-        "replies": 15,
-        "score": 72
-      }
-    ],
-    "1849407354972020737": [
+        "replies": 17,
+        "score": 78
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1849407354972020737": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -3176,18 +3169,18 @@
         "date": "2026-09-11",
         "likes": 7,
         "reposts": 1,
-        "replies": 8,
-        "score": 33
-      }
-    ],
-    "2004830391828709381": [
+        "replies": 10,
+        "score": 39
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "2004830391828709381": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -3388,18 +3381,18 @@
         "date": "2026-09-11",
         "likes": 13,
         "reposts": 2,
-        "replies": 6,
-        "score": 35
-      }
-    ],
-    "1509466538704744448": [
+        "replies": 8,
+        "score": 41
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1509466538704744448": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -3602,16 +3595,16 @@
         "reposts": 1,
         "replies": 5,
         "score": 18
-      }
-    ],
-    "1859035204821938178": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1859035204821938178": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -3814,16 +3807,16 @@
         "reposts": 0,
         "replies": 8,
         "score": 25
-      }
-    ],
-    "1987112193742282755": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1987112193742282755": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -4024,18 +4017,230 @@
         "date": "2026-09-11",
         "likes": 7,
         "reposts": 1,
-        "replies": 8,
-        "score": 33
+        "replies": 9,
+        "score": 36
+      },
+      {
+        "date": "2026-09-12",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "score": 3
       }
     ],
-    "1902426675188740096": [
+    "2040554701574324224": [
       {
-        "date": "2026-08-13",
+        "date": "2026-08-14",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
       },
+      {
+        "date": "2026-08-15",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-08-16",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-08-17",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-08-18",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-08-19",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-08-20",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-08-21",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-08-22",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-08-23",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-08-24",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-08-25",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-08-26",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-08-27",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-08-28",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-08-29",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-08-30",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-08-31",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-09-01",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-09-02",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-09-03",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 3,
+        "score": 9
+      },
+      {
+        "date": "2026-09-04",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-09-05",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-09-06",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 2,
+        "score": 6
+      },
+      {
+        "date": "2026-09-07",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 2,
+        "score": 6
+      },
+      {
+        "date": "2026-09-08",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-09-09",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-09-10",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 4,
+        "score": 12
+      },
+      {
+        "date": "2026-09-11",
+        "likes": 1,
+        "reposts": 1,
+        "replies": 4,
+        "score": 15
+      },
+      {
+        "date": "2026-09-12",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 1,
+        "score": 3
+      }
+    ],
+    "1902426675188740096": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -4238,228 +4443,16 @@
         "reposts": 0,
         "replies": 1,
         "score": 4
-      }
-    ],
-    "2040554701574324224": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
-      {
-        "date": "2026-08-14",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-08-15",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-08-16",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-08-17",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-08-18",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-08-19",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-08-20",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-08-21",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-08-22",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-08-23",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-08-24",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-08-25",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-08-26",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-08-27",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-08-28",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-08-29",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-08-30",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-08-31",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-09-01",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-09-02",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-09-03",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 3,
-        "score": 9
-      },
-      {
-        "date": "2026-09-04",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-09-05",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-09-06",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 2,
-        "score": 6
-      },
-      {
-        "date": "2026-09-07",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 2,
-        "score": 6
-      },
-      {
-        "date": "2026-09-08",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-09-09",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
-        "date": "2026-09-10",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 4,
-        "score": 12
-      },
-      {
-        "date": "2026-09-11",
-        "likes": 1,
-        "reposts": 1,
-        "replies": 3,
-        "score": 12
       }
     ],
     "1880323908643221504": [
-      {
-        "date": "2026-08-13",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -4662,16 +4655,16 @@
         "reposts": 0,
         "replies": 2,
         "score": 6
-      }
-    ],
-    "1532784850067161088": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1532784850067161088": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -4874,16 +4867,16 @@
         "reposts": 0,
         "replies": 0,
         "score": 0
-      }
-    ],
-    "1666240737623646208": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1666240737623646208": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -5086,16 +5079,16 @@
         "reposts": 0,
         "replies": 4,
         "score": 16
-      }
-    ],
-    "1997360351667773440": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1997360351667773440": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -5298,16 +5291,16 @@
         "reposts": 1,
         "replies": 0,
         "score": 4
-      }
-    ],
-    "2094695810097360896": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "2094695810097360896": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -5510,16 +5503,16 @@
         "reposts": 0,
         "replies": 2,
         "score": 8
-      }
-    ],
-    "1756715757587570688": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1756715757587570688": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -5722,16 +5715,16 @@
         "reposts": 0,
         "replies": 0,
         "score": 0
-      }
-    ],
-    "1362787909909282819": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1362787909909282819": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -5934,16 +5927,16 @@
         "reposts": 0,
         "replies": 0,
         "score": 1
-      }
-    ],
-    "1799044165340401664": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1799044165340401664": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -6146,16 +6139,16 @@
         "reposts": 0,
         "replies": 4,
         "score": 13
-      }
-    ],
-    "1765473516974215168": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1765473516974215168": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -6358,16 +6351,16 @@
         "reposts": 0,
         "replies": 0,
         "score": 0
-      }
-    ],
-    "1881477830808064000": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1881477830808064000": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -6570,16 +6563,16 @@
         "reposts": 0,
         "replies": 0,
         "score": 0
-      }
-    ],
-    "2047418686261403648": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "2047418686261403648": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -6782,16 +6775,16 @@
         "reposts": 1,
         "replies": 1,
         "score": 6
-      }
-    ],
-    "1452169209081966596": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1452169209081966596": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -6994,16 +6987,16 @@
         "reposts": 0,
         "replies": 0,
         "score": 4
-      }
-    ],
-    "2094890365094330368": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "2094890365094330368": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -7206,16 +7199,16 @@
         "reposts": 0,
         "replies": 1,
         "score": 4
-      }
-    ],
-    "2096968357652131840": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "2096968357652131840": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -7414,6 +7407,13 @@
       },
       {
         "date": "2026-09-11",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
@@ -7422,13 +7422,6 @@
     ],
     "1272139028922499073": [
       {
-        "date": "2026-08-13",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
         "date": "2026-08-14",
         "likes": 0,
         "reposts": 0,
@@ -7626,6 +7619,13 @@
       },
       {
         "date": "2026-09-11",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
@@ -7634,13 +7634,6 @@
     ],
     "2081751398346338304": [
       {
-        "date": "2026-08-13",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
         "date": "2026-08-14",
         "likes": 0,
         "reposts": 0,
@@ -7842,16 +7835,16 @@
         "reposts": 0,
         "replies": 2,
         "score": 6
-      }
-    ],
-    "2083798244640092160": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "2083798244640092160": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -8054,16 +8047,16 @@
         "reposts": 0,
         "replies": 3,
         "score": 9
-      }
-    ],
-    "1321885856295276544": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1321885856295276544": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -8262,6 +8255,13 @@
       },
       {
         "date": "2026-09-11",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
@@ -8270,13 +8270,6 @@
     ],
     "1723334011404054528": [
       {
-        "date": "2026-08-13",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
         "date": "2026-08-14",
         "likes": 0,
         "reposts": 0,
@@ -8478,17 +8471,17 @@
         "reposts": 0,
         "replies": 2,
         "score": 6
+      },
+      {
+        "date": "2026-09-12",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
       }
     ],
     "1325283492188577793": [
       {
-        "date": "2026-08-13",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
         "date": "2026-08-14",
         "likes": 0,
         "reposts": 0,
@@ -8690,17 +8683,17 @@
         "reposts": 0,
         "replies": 2,
         "score": 6
+      },
+      {
+        "date": "2026-09-12",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
       }
     ],
     "2058911208984748032": [
       {
-        "date": "2026-08-13",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
         "date": "2026-08-14",
         "likes": 0,
         "reposts": 0,
@@ -8898,6 +8891,13 @@
       },
       {
         "date": "2026-09-11",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
@@ -8906,13 +8906,6 @@
     ],
     "2081833333584252928": [
       {
-        "date": "2026-08-13",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
         "date": "2026-08-14",
         "likes": 0,
         "reposts": 0,
@@ -9114,16 +9107,16 @@
         "reposts": 0,
         "replies": 2,
         "score": 6
-      }
-    ],
-    "1089513750812655617": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1089513750812655617": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -9326,16 +9319,16 @@
         "reposts": 0,
         "replies": 3,
         "score": 9
-      }
-    ],
-    "1457909950659710978": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1457909950659710978": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -9538,16 +9531,16 @@
         "reposts": 0,
         "replies": 1,
         "score": 6
-      }
-    ],
-    "1452032441305092096": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1452032441305092096": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -9750,16 +9743,16 @@
         "reposts": 0,
         "replies": 0,
         "score": 1
-      }
-    ],
-    "2025883159112679424": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "2025883159112679424": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -9962,16 +9955,16 @@
         "reposts": 0,
         "replies": 2,
         "score": 6
-      }
-    ],
-    "1451092911341195266": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1451092911341195266": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -10170,6 +10163,13 @@
       },
       {
         "date": "2026-09-11",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
+      },
+      {
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
@@ -10178,13 +10178,6 @@
     ],
     "1016324267560955909": [
       {
-        "date": "2026-08-13",
-        "likes": 0,
-        "reposts": 0,
-        "replies": 0,
-        "score": 0
-      },
-      {
         "date": "2026-08-14",
         "likes": 0,
         "reposts": 0,
@@ -10386,16 +10379,16 @@
         "reposts": 0,
         "replies": 1,
         "score": 3
-      }
-    ],
-    "1388835131293462528": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1388835131293462528": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -10598,16 +10591,16 @@
         "reposts": 0,
         "replies": 0,
         "score": 2
-      }
-    ],
-    "1935754395649519616": [
+      },
       {
-        "date": "2026-08-13",
+        "date": "2026-09-12",
         "likes": 0,
         "reposts": 0,
         "replies": 0,
         "score": 0
-      },
+      }
+    ],
+    "1935754395649519616": [
       {
         "date": "2026-08-14",
         "likes": 0,
@@ -10810,6 +10803,13 @@
         "reposts": 0,
         "replies": 0,
         "score": 0
+      },
+      {
+        "date": "2026-09-12",
+        "likes": 0,
+        "reposts": 0,
+        "replies": 0,
+        "score": 0
       }
     ]
   },
@@ -10823,8 +10823,8 @@
       "name": "Unknown"
     },
     "230377305": {
-      "username": "230377305",
-      "name": "Unknown"
+      "username": "realmarc9",
+      "name": "Bryson Crypto"
     },
     "386533946": {
       "username": "386533946",
@@ -10886,13 +10886,13 @@
       "username": "Youngrfqifzl",
       "name": "rifqifzl 🦖👑"
     },
-    "1902426675188740096": {
-      "username": "kambing142557",
-      "name": "Angelino Da Silva🌛"
-    },
     "2040554701574324224": {
       "username": "INVESTORflxo",
       "name": "INVESTOR أشتري رمز الميم وأحتفظ به على المدى الطو"
+    },
+    "1902426675188740096": {
+      "username": "kambing142557",
+      "name": "Angelino Da Silva🌛"
     },
     "1880323908643221504": {
       "username": "Quentil0x",

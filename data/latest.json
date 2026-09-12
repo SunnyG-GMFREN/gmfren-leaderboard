@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T23:10:58.694Z",
+  "generated_at": "2026-09-12T00:17:12.616Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 524,
+  "tracked_posts": 527,
   "last_full_sweep": "2026-09-11T03:17:45.872Z",
-  "estimated_month_spend_usd": 16.063,
+  "estimated_month_spend_usd": 16.193,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -19,8 +19,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2093999192255692800/wAd2m1iT_normal.jpg",
       "likes": 48,
       "reposts": 17,
-      "replies": 61,
-      "score": 265,
+      "replies": 63,
+      "score": 271,
       "rank": 1
     },
     {
@@ -30,8 +30,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2095807119761301504/6CqE10Zx_normal.jpg",
       "likes": 29,
       "reposts": 5,
-      "replies": 30,
-      "score": 129,
+      "replies": 32,
+      "score": 135,
       "rank": 2
     },
     {
@@ -41,8 +41,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2019506992507940864/mSG16t9Q_normal.jpg",
       "likes": 41,
       "reposts": 9,
-      "replies": 15,
-      "score": 104,
+      "replies": 17,
+      "score": 110,
       "rank": 3
     },
     {
@@ -74,9 +74,20 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2096560191357734912/SDAZpXAn_normal.jpg",
       "likes": 13,
       "reposts": 1,
-      "replies": 16,
-      "score": 63,
+      "replies": 18,
+      "score": 69,
       "rank": 6
+    },
+    {
+      "user_id": "2040554701574324224",
+      "username": "INVESTORflxo",
+      "name": "INVESTOR أشتري رمز الميم وأحتفظ به على المدى الطو",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2094237224854286336/2b2coyAe_normal.jpg",
+      "likes": 5,
+      "reposts": 2,
+      "replies": 16,
+      "score": 57,
+      "rank": 7
     },
     {
       "user_id": "1902426675188740096",
@@ -87,17 +98,6 @@
       "reposts": 3,
       "replies": 14,
       "score": 54,
-      "rank": 7
-    },
-    {
-      "user_id": "2040554701574324224",
-      "username": "INVESTORflxo",
-      "name": "INVESTOR أشتري رمز الميم وأحتفظ به على المدى الطو",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2094237224854286336/2b2coyAe_normal.jpg",
-      "likes": 5,
-      "reposts": 2,
-      "replies": 14,
-      "score": 51,
       "rank": 8
     },
     {
@@ -266,6 +266,17 @@
       "rank": 23
     },
     {
+      "user_id": "230377305",
+      "username": "realmarc9",
+      "name": "Bryson Crypto",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2091099252953075712/RrV6r1tl_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 5,
+      "score": 15,
+      "rank": 24
+    },
+    {
       "user_id": "2094890365094330368",
       "username": "kestrelbrowser",
       "name": "Kestrel Browser",
@@ -274,7 +285,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 13,
-      "rank": 24
+      "rank": 25
     },
     {
       "user_id": "2096968357652131840",
@@ -285,7 +296,7 @@
       "reposts": 2,
       "replies": 2,
       "score": 12,
-      "rank": 25
+      "rank": 26
     },
     {
       "user_id": "3373108933",
@@ -296,7 +307,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 26
+      "rank": 27
     },
     {
       "user_id": "1272139028922499073",
@@ -306,7 +317,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 27
+      "rank": 28
     },
     {
       "user_id": "2081751398346338304",
@@ -317,7 +328,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 28
+      "rank": 29
     },
     {
       "user_id": "2083798244640092160",
@@ -328,7 +339,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 29
+      "rank": 30
     },
     {
       "user_id": "1321885856295276544",
@@ -339,7 +350,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 11,
-      "rank": 30
+      "rank": 31
     },
     {
       "user_id": "1723334011404054528",
@@ -350,7 +361,7 @@
       "reposts": 1,
       "replies": 3,
       "score": 11,
-      "rank": 31
+      "rank": 32
     },
     {
       "user_id": "1325283492188577793",
@@ -361,7 +372,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 9,
-      "rank": 32
+      "rank": 33
     },
     {
       "user_id": "2058911208984748032",
@@ -371,16 +382,6 @@
       "likes": 3,
       "reposts": 0,
       "replies": 2,
-      "score": 9,
-      "rank": 33
-    },
-    {
-      "user_id": "230377305",
-      "username": "230377305",
-      "name": "Unknown",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 3,
       "score": 9,
       "rank": 34
     },
