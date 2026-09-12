@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T21:17:19.303Z",
+  "generated_at": "2026-09-12T22:12:00.298Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 565,
+  "tracked_posts": 570,
   "last_full_sweep": "2026-09-12T03:16:36.807Z",
-  "estimated_month_spend_usd": 19.125,
+  "estimated_month_spend_usd": 19.227,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -19,8 +19,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2093999192255692800/wAd2m1iT_normal.jpg",
       "likes": 48,
       "reposts": 17,
-      "replies": 80,
-      "score": 322,
+      "replies": 82,
+      "score": 328,
       "rank": 1
     },
     {
@@ -74,8 +74,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2096560191357734912/SDAZpXAn_normal.jpg",
       "likes": 13,
       "reposts": 1,
-      "replies": 21,
-      "score": 78,
+      "replies": 22,
+      "score": 81,
       "rank": 6
     },
     {
@@ -140,8 +140,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/1824914361921503232/OPOsAEH9_normal.jpg",
       "likes": 0,
       "reposts": 0,
-      "replies": 13,
-      "score": 39,
+      "replies": 14,
+      "score": 42,
       "rank": 12
     },
     {
@@ -310,6 +310,28 @@
       "rank": 27
     },
     {
+      "user_id": "2087297195057766400",
+      "username": "webguy1s",
+      "name": "web guy",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2098532794104516609/POJNjeoD_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 6,
+      "score": 18,
+      "rank": 28
+    },
+    {
+      "user_id": "1325283492188577793",
+      "username": "DEFI_DEGEN24",
+      "name": "DEFI-Denny🧐",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2025608524424761344/PvzUWQNF_normal.jpg",
+      "likes": 3,
+      "reposts": 0,
+      "replies": 4,
+      "score": 15,
+      "rank": 29
+    },
+    {
       "user_id": "1452169209081966596",
       "username": "Crypto_Holding_",
       "name": "Crypto Holding™ 💎",
@@ -318,7 +340,7 @@
       "reposts": 0,
       "replies": 0,
       "score": 15,
-      "rank": 28
+      "rank": 30
     },
     {
       "user_id": "230377305",
@@ -329,7 +351,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 29
+      "rank": 31
     },
     {
       "user_id": "421270176",
@@ -340,7 +362,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 30
+      "rank": 32
     },
     {
       "user_id": "451837540",
@@ -351,7 +373,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 31
+      "rank": 33
     },
     {
       "user_id": "2990375058",
@@ -362,18 +384,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 32
-    },
-    {
-      "user_id": "2087297195057766400",
-      "username": "webguy1s",
-      "name": "web guy",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2098532794104516609/POJNjeoD_normal.jpg",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 5,
-      "score": 15,
-      "rank": 33
+      "rank": 34
     },
     {
       "user_id": "1887180036840493056",
@@ -384,7 +395,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 34
+      "rank": 35
     },
     {
       "user_id": "1896801929323573248",
@@ -395,7 +406,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 35
+      "rank": 36
     },
     {
       "user_id": "1723334011404054528",
@@ -406,7 +417,7 @@
       "reposts": 1,
       "replies": 4,
       "score": 14,
-      "rank": 36
+      "rank": 37
     },
     {
       "user_id": "2094890365094330368",
@@ -417,7 +428,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 13,
-      "rank": 37
+      "rank": 38
     },
     {
       "user_id": "1016324267560955909",
@@ -428,17 +439,6 @@
       "reposts": 0,
       "replies": 4,
       "score": 13,
-      "rank": 38
-    },
-    {
-      "user_id": "1325283492188577793",
-      "username": "DEFI_DEGEN24",
-      "name": "DEFI-Denny🧐",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2025608524424761344/PvzUWQNF_normal.jpg",
-      "likes": 3,
-      "reposts": 0,
-      "replies": 3,
-      "score": 12,
       "rank": 39
     },
     {
