@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T07:11:02.654Z",
+  "generated_at": "2026-09-12T08:12:33.208Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 538,
+  "tracked_posts": 539,
   "last_full_sweep": "2026-09-12T03:16:36.807Z",
-  "estimated_month_spend_usd": 17.594,
+  "estimated_month_spend_usd": 17.706,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -19,8 +19,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2093999192255692800/wAd2m1iT_normal.jpg",
       "likes": 48,
       "reposts": 17,
-      "replies": 69,
-      "score": 289,
+      "replies": 71,
+      "score": 295,
       "rank": 1
     },
     {
@@ -96,8 +96,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2084430684492541952/W-0uK2XH_normal.jpg",
       "likes": 6,
       "reposts": 3,
-      "replies": 16,
-      "score": 60,
+      "replies": 17,
+      "score": 63,
       "rank": 8
     },
     {
@@ -343,6 +343,17 @@
       "rank": 30
     },
     {
+      "user_id": "2990375058",
+      "username": "iRileyCrypto",
+      "name": "Riley Morgan",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2081508706773250048/dJrQ7nzx_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 4,
+      "score": 12,
+      "rank": 31
+    },
+    {
       "user_id": "3373108933",
       "username": "0ii05i",
       "name": "Captain Mutant",
@@ -351,7 +362,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 31
+      "rank": 32
     },
     {
       "user_id": "2081751398346338304",
@@ -362,7 +373,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 32
+      "rank": 33
     },
     {
       "user_id": "2083798244640092160",
@@ -373,7 +384,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 33
+      "rank": 34
     },
     {
       "user_id": "2087297195057766400",
@@ -384,7 +395,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 34
+      "rank": 35
     },
     {
       "user_id": "1321885856295276544",
@@ -395,7 +406,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 11,
-      "rank": 35
+      "rank": 36
     },
     {
       "user_id": "2025883159112679424",
@@ -406,7 +417,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 11,
-      "rank": 36
+      "rank": 37
     },
     {
       "user_id": "1325283492188577793",
@@ -417,7 +428,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 9,
-      "rank": 37
+      "rank": 38
     },
     {
       "user_id": "2058911208984748032",
@@ -428,7 +439,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 9,
-      "rank": 38
+      "rank": 39
     },
     {
       "user_id": "251203873",
@@ -439,7 +450,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 9,
-      "rank": 39
+      "rank": 40
     },
     {
       "user_id": "386533946",
@@ -449,7 +460,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 9,
-      "rank": 40
+      "rank": 41
     },
     {
       "user_id": "1177523887",
@@ -459,23 +470,13 @@
       "reposts": 0,
       "replies": 3,
       "score": 9,
-      "rank": 41
+      "rank": 42
     },
     {
       "user_id": "2742948520",
       "username": "_Niss0",
       "name": "THE CRYPTO DEV",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1985693502559092736/7g3FdWy-_normal.jpg",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 3,
-      "score": 9,
-      "rank": 42
-    },
-    {
-      "user_id": "2990375058",
-      "username": "2990375058",
-      "name": "Unknown",
       "likes": 0,
       "reposts": 0,
       "replies": 3,
