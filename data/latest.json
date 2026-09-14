@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T15:14:50.608Z",
+  "generated_at": "2026-09-14T16:13:27.012Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 645,
+  "tracked_posts": 648,
   "last_full_sweep": "2026-09-14T04:13:03.801Z",
-  "estimated_month_spend_usd": 22.062,
+  "estimated_month_spend_usd": 22.162,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -277,6 +277,17 @@
       "rank": 24
     },
     {
+      "user_id": "1041133612391911424",
+      "username": "Afeez_Ayomi",
+      "name": "Magneto.Bond 🀄️🐂",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2098545869696221184/6LQOd__z_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 8,
+      "score": 24,
+      "rank": 25
+    },
+    {
       "user_id": "1362787909909282819",
       "username": "HiddenGemHQ",
       "name": "HiddenGemHQ",
@@ -285,7 +296,7 @@
       "reposts": 3,
       "replies": 1,
       "score": 21,
-      "rank": 25
+      "rank": 26
     },
     {
       "user_id": "2096968357652131840",
@@ -296,24 +307,13 @@
       "reposts": 2,
       "replies": 5,
       "score": 21,
-      "rank": 26
+      "rank": 27
     },
     {
       "user_id": "2990375058",
       "username": "iRileyCrypto",
       "name": "Riley Morgan",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2081508706773250048/dJrQ7nzx_normal.jpg",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 7,
-      "score": 21,
-      "rank": 27
-    },
-    {
-      "user_id": "1041133612391911424",
-      "username": "Afeez_Ayomi",
-      "name": "Magneto.Bond 🀄️🐂",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2098545869696221184/6LQOd__z_normal.jpg",
       "likes": 0,
       "reposts": 0,
       "replies": 7,
