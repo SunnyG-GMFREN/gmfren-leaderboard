@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T19:13:26.257Z",
+  "generated_at": "2026-09-14T20:13:43.356Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 656,
+  "tracked_posts": 659,
   "last_full_sweep": "2026-09-14T04:13:03.801Z",
-  "estimated_month_spend_usd": 22.481,
+  "estimated_month_spend_usd": 22.587,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -19,8 +19,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2093999192255692800/wAd2m1iT_normal.jpg",
       "likes": 48,
       "reposts": 17,
-      "replies": 103,
-      "score": 391,
+      "replies": 106,
+      "score": 400,
       "rank": 1
     },
     {
@@ -118,8 +118,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/1824914361921503232/OPOsAEH9_normal.jpg",
       "likes": 0,
       "reposts": 0,
-      "replies": 16,
-      "score": 48,
+      "replies": 17,
+      "score": 51,
       "rank": 10
     },
     {
@@ -332,6 +332,17 @@
       "rank": 29
     },
     {
+      "user_id": "1590300910949109760",
+      "username": "TheTokenXpress",
+      "name": "The Token Xpress 🚀",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1818313639389995008/hryUvbMd_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 7,
+      "score": 21,
+      "rank": 30
+    },
+    {
       "user_id": "1765473516974215168",
       "username": "_07G_",
       "name": "Whale Wizard 🐋",
@@ -340,7 +351,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 20,
-      "rank": 30
+      "rank": 31
     },
     {
       "user_id": "38638309",
@@ -351,7 +362,7 @@
       "reposts": 0,
       "replies": 6,
       "score": 18,
-      "rank": 31
+      "rank": 32
     },
     {
       "user_id": "251203873",
@@ -362,7 +373,7 @@
       "reposts": 0,
       "replies": 6,
       "score": 18,
-      "rank": 32
+      "rank": 33
     },
     {
       "user_id": "421270176",
@@ -373,7 +384,7 @@
       "reposts": 0,
       "replies": 6,
       "score": 18,
-      "rank": 33
+      "rank": 34
     },
     {
       "user_id": "451837540",
@@ -384,24 +395,13 @@
       "reposts": 0,
       "replies": 6,
       "score": 18,
-      "rank": 34
+      "rank": 35
     },
     {
       "user_id": "1272139028922499073",
       "username": "RovercryptoE",
       "name": "SOLANA EMBASSY",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1949534081458503680/FBkhA8QA_normal.jpg",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 6,
-      "score": 18,
-      "rank": 35
-    },
-    {
-      "user_id": "1590300910949109760",
-      "username": "TheTokenXpress",
-      "name": "The Token Xpress 🚀",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1818313639389995008/hryUvbMd_normal.jpg",
       "likes": 0,
       "reposts": 0,
       "replies": 6,
