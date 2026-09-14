@@ -1,7 +1,7 @@
 {
   "first_run_date": "2026-09-10",
   "month": "2026-09",
-  "spend_usd_month": 21.258999999999954,
+  "spend_usd_month": 21.339999999999954,
   "cumulative_by_date": {
     "2026-09-10": {
       "34325643": {
@@ -2919,7 +2919,7 @@
     }
   },
   "account_id": "724688895380709380",
-  "last_owned_tweet_id": "2099365518679437356",
+  "last_owned_tweet_id": "2099407987831935269",
   "last_mention_id": "2099389481732411590",
   "replies_by_date": {
     "2026-09-10": {
