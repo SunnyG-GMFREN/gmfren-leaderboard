@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T06:18:34.093Z",
+  "generated_at": "2026-09-14T07:14:14.451Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -9,7 +9,7 @@
   },
   "tracked_posts": 618,
   "last_full_sweep": "2026-09-14T04:13:03.801Z",
-  "estimated_month_spend_usd": 21.178,
+  "estimated_month_spend_usd": 21.259,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -233,6 +233,17 @@
       "rank": 20
     },
     {
+      "user_id": "2047418686261403648",
+      "username": "alvucadooy",
+      "name": "Juicy Alvucado 💋",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2097378676790976512/l3vdYWHn_normal.jpg",
+      "likes": 3,
+      "reposts": 1,
+      "replies": 7,
+      "score": 26,
+      "rank": 21
+    },
+    {
       "user_id": "1896801929323573248",
       "username": "HANNA08594",
       "name": "HANNA STYLE",
@@ -241,17 +252,6 @@
       "reposts": 0,
       "replies": 8,
       "score": 24,
-      "rank": 21
-    },
-    {
-      "user_id": "2047418686261403648",
-      "username": "alvucadooy",
-      "name": "Juicy Alvucado 💋",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2097378676790976512/l3vdYWHn_normal.jpg",
-      "likes": 3,
-      "reposts": 1,
-      "replies": 6,
-      "score": 23,
       "rank": 22
     },
     {
