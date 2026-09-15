@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T05:13:20.300Z",
+  "generated_at": "2026-09-15T06:17:20.046Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 673,
+  "tracked_posts": 674,
   "last_full_sweep": "2026-09-15T03:18:46.087Z",
-  "estimated_month_spend_usd": 24.019,
+  "estimated_month_spend_usd": 24.123,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -52,8 +52,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2088964636951588864/xNCnrCup_normal.jpg",
       "likes": 8,
       "reposts": 2,
-      "replies": 34,
-      "score": 114,
+      "replies": 35,
+      "score": 117,
       "rank": 4
     },
     {
