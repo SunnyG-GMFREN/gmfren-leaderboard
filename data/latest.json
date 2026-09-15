@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T11:13:05.825Z",
+  "generated_at": "2026-09-15T12:16:20.698Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 679,
+  "tracked_posts": 680,
   "last_full_sweep": "2026-09-15T03:18:46.087Z",
-  "estimated_month_spend_usd": 24.526,
+  "estimated_month_spend_usd": 24.629,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -19,8 +19,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2093999192255692800/wAd2m1iT_normal.jpg",
       "likes": 48,
       "reposts": 17,
-      "replies": 106,
-      "score": 400,
+      "replies": 110,
+      "score": 412,
       "rank": 1
     },
     {
@@ -118,8 +118,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/1824914361921503232/OPOsAEH9_normal.jpg",
       "likes": 0,
       "reposts": 0,
-      "replies": 17,
-      "score": 51,
+      "replies": 18,
+      "score": 54,
       "rank": 10
     },
     {
