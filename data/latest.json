@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T15:12:41.272Z",
+  "generated_at": "2026-09-15T16:13:05.404Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -9,7 +9,7 @@
   },
   "tracked_posts": 682,
   "last_full_sweep": "2026-09-15T03:18:46.087Z",
-  "estimated_month_spend_usd": 24.895,
+  "estimated_month_spend_usd": 24.974,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -178,6 +178,17 @@
       "rank": 15
     },
     {
+      "user_id": "2047418686261403648",
+      "username": "alvucadooy",
+      "name": "Juicy Alvucado 💋",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2097378676790976512/l3vdYWHn_normal.jpg",
+      "likes": 3,
+      "reposts": 1,
+      "replies": 10,
+      "score": 35,
+      "rank": 16
+    },
+    {
       "user_id": "2094695810097360896",
       "username": "nectorchat_",
       "name": "Nector",
@@ -186,7 +197,7 @@
       "reposts": 0,
       "replies": 9,
       "score": 34,
-      "rank": 16
+      "rank": 17
     },
     {
       "user_id": "1041133612391911424",
@@ -197,17 +208,6 @@
       "reposts": 0,
       "replies": 11,
       "score": 33,
-      "rank": 17
-    },
-    {
-      "user_id": "2047418686261403648",
-      "username": "alvucadooy",
-      "name": "Juicy Alvucado 💋",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2097378676790976512/l3vdYWHn_normal.jpg",
-      "likes": 3,
-      "reposts": 1,
-      "replies": 9,
-      "score": 32,
       "rank": 18
     },
     {
