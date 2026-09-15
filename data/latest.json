@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T06:17:20.046Z",
+  "generated_at": "2026-09-15T07:14:45.952Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 674,
+  "tracked_posts": 675,
   "last_full_sweep": "2026-09-15T03:18:46.087Z",
-  "estimated_month_spend_usd": 24.123,
+  "estimated_month_spend_usd": 24.224,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -409,6 +409,17 @@
       "rank": 36
     },
     {
+      "user_id": "1723334011404054528",
+      "username": "PraiseA30462",
+      "name": "praz",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2041474927455576064/7tWvZ_e-_normal.jpg",
+      "likes": 0,
+      "reposts": 1,
+      "replies": 5,
+      "score": 17,
+      "rank": 37
+    },
+    {
       "user_id": "1452169209081966596",
       "username": "Crypto_Holding_",
       "name": "Crypto Holding™ 💎",
@@ -417,7 +428,7 @@
       "reposts": 0,
       "replies": 0,
       "score": 15,
-      "rank": 37
+      "rank": 38
     },
     {
       "user_id": "230377305",
@@ -428,7 +439,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 38
+      "rank": 39
     },
     {
       "user_id": "744314137",
@@ -439,7 +450,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 39
+      "rank": 40
     },
     {
       "user_id": "2618503004",
@@ -450,7 +461,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 40
+      "rank": 41
     },
     {
       "user_id": "2742948520",
@@ -461,7 +472,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 41
+      "rank": 42
     },
     {
       "user_id": "1887180036840493056",
@@ -472,7 +483,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 42
+      "rank": 43
     },
     {
       "user_id": "2025883159112679424",
@@ -481,17 +492,6 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2093375485942091777/plunhhR6_normal.jpg",
       "likes": 2,
       "reposts": 0,
-      "replies": 4,
-      "score": 14,
-      "rank": 43
-    },
-    {
-      "user_id": "1723334011404054528",
-      "username": "PraiseA30462",
-      "name": "praz",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2041474927455576064/7tWvZ_e-_normal.jpg",
-      "likes": 0,
-      "reposts": 1,
       "replies": 4,
       "score": 14,
       "rank": 44
