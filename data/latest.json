@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T06:16:47.648Z",
+  "generated_at": "2026-09-16T07:13:49.810Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 706,
+  "tracked_posts": 708,
   "last_full_sweep": "2026-09-16T03:17:48.800Z",
-  "estimated_month_spend_usd": 26.87,
+  "estimated_month_spend_usd": 26.966,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -68,6 +68,17 @@
       "rank": 5
     },
     {
+      "user_id": "2040554701574324224",
+      "username": "INVESTORflxo",
+      "name": "INVESTOR أشتري رمز الميم وأحتفظ به على المدى الطو",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2094237224854286336/2b2coyAe_normal.jpg",
+      "likes": 5,
+      "reposts": 2,
+      "replies": 32,
+      "score": 105,
+      "rank": 6
+    },
+    {
       "user_id": "1987112193742282755",
       "username": "Youngrfqifzl",
       "name": "rifqifzl 🦖👑",
@@ -75,17 +86,6 @@
       "likes": 13,
       "reposts": 1,
       "replies": 27,
-      "score": 96,
-      "rank": 6
-    },
-    {
-      "user_id": "2040554701574324224",
-      "username": "INVESTORflxo",
-      "name": "INVESTOR أشتري رمز الميم وأحتفظ به على المدى الطو",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2094237224854286336/2b2coyAe_normal.jpg",
-      "likes": 5,
-      "reposts": 2,
-      "replies": 29,
       "score": 96,
       "rank": 7
     },
