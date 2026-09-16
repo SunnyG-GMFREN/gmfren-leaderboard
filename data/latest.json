@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T04:13:05.765Z",
+  "generated_at": "2026-09-16T05:12:01.005Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 705,
+  "tracked_posts": 706,
   "last_full_sweep": "2026-09-16T03:17:48.800Z",
-  "estimated_month_spend_usd": 26.691,
+  "estimated_month_spend_usd": 26.782,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -129,8 +129,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/1686775395427794951/oKp8s4B2_normal.jpg",
       "likes": 5,
       "reposts": 0,
-      "replies": 14,
-      "score": 47,
+      "replies": 15,
+      "score": 50,
       "rank": 11
     },
     {
@@ -178,6 +178,17 @@
       "rank": 15
     },
     {
+      "user_id": "1041133612391911424",
+      "username": "Afeez_Ayomi",
+      "name": "Magneto.Bond 🀄️🐂",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2098545869696221184/6LQOd__z_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 12,
+      "score": 36,
+      "rank": 16
+    },
+    {
       "user_id": "3278828737",
       "username": "0o20_",
       "name": "Lena Crypto",
@@ -186,7 +197,7 @@
       "reposts": 0,
       "replies": 11,
       "score": 35,
-      "rank": 16
+      "rank": 17
     },
     {
       "user_id": "2094695810097360896",
@@ -197,17 +208,6 @@
       "reposts": 0,
       "replies": 9,
       "score": 34,
-      "rank": 17
-    },
-    {
-      "user_id": "1041133612391911424",
-      "username": "Afeez_Ayomi",
-      "name": "Magneto.Bond 🀄️🐂",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2098545869696221184/6LQOd__z_normal.jpg",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 11,
-      "score": 33,
       "rank": 18
     },
     {
