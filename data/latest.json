@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T07:13:49.810Z",
+  "generated_at": "2026-09-16T08:14:04.180Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 708,
+  "tracked_posts": 710,
   "last_full_sweep": "2026-09-16T03:17:48.800Z",
-  "estimated_month_spend_usd": 26.966,
+  "estimated_month_spend_usd": 27.065,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -30,9 +30,20 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2095807119761301504/6CqE10Zx_normal.jpg",
       "likes": 29,
       "reposts": 5,
-      "replies": 38,
-      "score": 153,
+      "replies": 39,
+      "score": 156,
       "rank": 2
+    },
+    {
+      "user_id": "1859035204821938178",
+      "username": "Based_Vincent",
+      "name": "VINCENT",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2088964636951588864/xNCnrCup_normal.jpg",
+      "likes": 8,
+      "reposts": 2,
+      "replies": 36,
+      "score": 120,
+      "rank": 3
     },
     {
       "user_id": "1509466538704744448",
@@ -43,17 +54,6 @@
       "reposts": 6,
       "replies": 33,
       "score": 118,
-      "rank": 3
-    },
-    {
-      "user_id": "1859035204821938178",
-      "username": "Based_Vincent",
-      "name": "VINCENT",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2088964636951588864/xNCnrCup_normal.jpg",
-      "likes": 8,
-      "reposts": 2,
-      "replies": 35,
-      "score": 117,
       "rank": 4
     },
     {
