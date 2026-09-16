@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T14:14:07.498Z",
+  "generated_at": "2026-09-16T15:13:07.961Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -9,7 +9,7 @@
   },
   "tracked_posts": 721,
   "last_full_sweep": "2026-09-16T03:17:48.800Z",
-  "estimated_month_spend_usd": 27.551,
+  "estimated_month_spend_usd": 27.629,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -266,6 +266,17 @@
       "rank": 23
     },
     {
+      "user_id": "1590300910949109760",
+      "username": "TheTokenXpress",
+      "name": "The Token Xpress 🚀",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1818313639389995008/hryUvbMd_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 9,
+      "score": 27,
+      "rank": 24
+    },
+    {
       "user_id": "2087297195057766400",
       "username": "webguy1s",
       "name": "web guy",
@@ -274,7 +285,7 @@
       "reposts": 0,
       "replies": 9,
       "score": 27,
-      "rank": 24
+      "rank": 25
     },
     {
       "user_id": "80037636",
@@ -285,17 +296,6 @@
       "reposts": 0,
       "replies": 8,
       "score": 26,
-      "rank": 25
-    },
-    {
-      "user_id": "1590300910949109760",
-      "username": "TheTokenXpress",
-      "name": "The Token Xpress 🚀",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1818313639389995008/hryUvbMd_normal.jpg",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 8,
-      "score": 24,
       "rank": 26
     },
     {
