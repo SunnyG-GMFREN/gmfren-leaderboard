@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T13:14:12.758Z",
+  "generated_at": "2026-09-16T14:14:07.498Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,9 +7,9 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 719,
+  "tracked_posts": 721,
   "last_full_sweep": "2026-09-16T03:17:48.800Z",
-  "estimated_month_spend_usd": 27.468,
+  "estimated_month_spend_usd": 27.551,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -129,8 +129,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/1686775395427794951/oKp8s4B2_normal.jpg",
       "likes": 5,
       "reposts": 0,
-      "replies": 15,
-      "score": 50,
+      "replies": 16,
+      "score": 53,
       "rank": 11
     },
     {
@@ -288,6 +288,17 @@
       "rank": 25
     },
     {
+      "user_id": "1590300910949109760",
+      "username": "TheTokenXpress",
+      "name": "The Token Xpress 🚀",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1818313639389995008/hryUvbMd_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 8,
+      "score": 24,
+      "rank": 26
+    },
+    {
       "user_id": "1896801929323573248",
       "username": "HANNA08594",
       "name": "HANNA STYLE",
@@ -296,7 +307,7 @@
       "reposts": 0,
       "replies": 8,
       "score": 24,
-      "rank": 26
+      "rank": 27
     },
     {
       "user_id": "1362787909909282819",
@@ -307,7 +318,7 @@
       "reposts": 3,
       "replies": 1,
       "score": 21,
-      "rank": 27
+      "rank": 28
     },
     {
       "user_id": "2096968357652131840",
@@ -318,24 +329,13 @@
       "reposts": 2,
       "replies": 5,
       "score": 21,
-      "rank": 28
+      "rank": 29
     },
     {
       "user_id": "2990375058",
       "username": "iRileyCrypto",
       "name": "Riley Morgan",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2081508706773250048/dJrQ7nzx_normal.jpg",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 7,
-      "score": 21,
-      "rank": 29
-    },
-    {
-      "user_id": "1590300910949109760",
-      "username": "TheTokenXpress",
-      "name": "The Token Xpress 🚀",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1818313639389995008/hryUvbMd_normal.jpg",
       "likes": 0,
       "reposts": 0,
       "replies": 7,
@@ -398,6 +398,17 @@
       "rank": 35
     },
     {
+      "user_id": "744314137",
+      "username": "tripleK31",
+      "name": "Melissa Kang",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2040339549969432576/GGP5OhUe_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 6,
+      "score": 18,
+      "rank": 36
+    },
+    {
       "user_id": "1272139028922499073",
       "username": "RovercryptoE",
       "name": "SOLANA EMBASSY",
@@ -406,7 +417,18 @@
       "reposts": 0,
       "replies": 6,
       "score": 18,
-      "rank": 36
+      "rank": 37
+    },
+    {
+      "user_id": "1169876538415710209",
+      "username": "OscarDefii",
+      "name": "Oscar Defi",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2078275414632398848/f_QDxJ3-_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 6,
+      "score": 18,
+      "rank": 38
     },
     {
       "user_id": "1723334011404054528",
@@ -417,7 +439,7 @@
       "reposts": 1,
       "replies": 5,
       "score": 17,
-      "rank": 37
+      "rank": 39
     },
     {
       "user_id": "1452169209081966596",
@@ -428,7 +450,7 @@
       "reposts": 0,
       "replies": 0,
       "score": 15,
-      "rank": 38
+      "rank": 40
     },
     {
       "user_id": "230377305",
@@ -439,18 +461,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 39
-    },
-    {
-      "user_id": "744314137",
-      "username": "tripleK31",
-      "name": "Melissa Kang",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2040339549969432576/GGP5OhUe_normal.jpg",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 5,
-      "score": 15,
-      "rank": 40
+      "rank": 41
     },
     {
       "user_id": "2618503004",
@@ -461,7 +472,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 41
+      "rank": 42
     },
     {
       "user_id": "2742948520",
@@ -472,7 +483,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 42
+      "rank": 43
     },
     {
       "user_id": "1887180036840493056",
@@ -483,7 +494,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 43
+      "rank": 44
     },
     {
       "user_id": "2025883159112679424",
@@ -494,7 +505,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 14,
-      "rank": 44
+      "rank": 45
     },
     {
       "user_id": "2094890365094330368",
@@ -505,7 +516,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 13,
-      "rank": 45
+      "rank": 46
     },
     {
       "user_id": "1016324267560955909",
@@ -516,17 +527,6 @@
       "reposts": 0,
       "replies": 4,
       "score": 13,
-      "rank": 46
-    },
-    {
-      "user_id": "1169876538415710209",
-      "username": "OscarDefii",
-      "name": "Oscar Defi",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2078275414632398848/f_QDxJ3-_normal.jpg",
-      "likes": 0,
-      "reposts": 0,
-      "replies": 4,
-      "score": 12,
       "rank": 47
     },
     {
