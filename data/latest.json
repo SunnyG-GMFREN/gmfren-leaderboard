@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:13:59.829Z",
+  "generated_at": "2026-09-16T11:13:08.090Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -9,7 +9,7 @@
   },
   "tracked_posts": 711,
   "last_full_sweep": "2026-09-16T03:17:48.800Z",
-  "estimated_month_spend_usd": 27.228,
+  "estimated_month_spend_usd": 27.311,
   "budget_month_usd": 15,
   "leaderboard": [
     {
@@ -74,8 +74,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2094237224854286336/2b2coyAe_normal.jpg",
       "likes": 5,
       "reposts": 2,
-      "replies": 32,
-      "score": 105,
+      "replies": 33,
+      "score": 108,
       "rank": 6
     },
     {
@@ -552,14 +552,14 @@
       "rank": 49
     },
     {
-      "user_id": "1321885856295276544",
-      "username": "m97HR",
-      "name": "Kaith Crypto",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2090140130631979008/7yTrJdGi_normal.jpg",
-      "likes": 2,
+      "user_id": "2095944569502269442",
+      "username": "DegenPilotfhfe",
+      "name": "Degen Pilot",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2096221350784307200/dxNpmg4C_normal.jpg",
+      "likes": 0,
       "reposts": 0,
-      "replies": 3,
-      "score": 11,
+      "replies": 4,
+      "score": 12,
       "rank": 50
     }
   ]
