@@ -11211,7 +11211,7 @@
     "created_at": "2026-09-15T17:25:30.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 295,
+      "impression_count": 296,
       "like_count": 1,
       "quote_count": 0,
       "reply_count": 0,
@@ -11346,7 +11346,7 @@
     "created_at": "2026-09-16T04:08:25.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 82,
+      "impression_count": 83,
       "like_count": 3,
       "quote_count": 0,
       "reply_count": 2,
@@ -11357,7 +11357,7 @@
     "created_at": "2026-09-16T04:54:20.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 35,
+      "impression_count": 38,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -11391,7 +11391,7 @@
     "created_at": "2026-09-16T06:50:40.000Z",
     "public_metrics": {
       "bookmark_count": 1,
-      "impression_count": 180,
+      "impression_count": 184,
       "like_count": 5,
       "quote_count": 2,
       "reply_count": 5,
@@ -11424,7 +11424,7 @@
     "created_at": "2026-09-16T09:00:14.000Z",
     "public_metrics": {
       "bookmark_count": 4,
-      "impression_count": 183,
+      "impression_count": 185,
       "like_count": 14,
       "quote_count": 0,
       "reply_count": 13,
@@ -11554,7 +11554,7 @@
     "created_at": "2026-09-16T12:43:18.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 61,
+      "impression_count": 62,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -11571,7 +11571,7 @@
     "created_at": "2026-09-16T14:01:45.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 156,
+      "impression_count": 157,
       "like_count": 11,
       "quote_count": 0,
       "reply_count": 8,
@@ -11610,7 +11610,7 @@
     "created_at": "2026-09-16T17:30:28.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 147,
+      "impression_count": 148,
       "like_count": 1,
       "quote_count": 0,
       "reply_count": 0,
@@ -11649,8 +11649,8 @@
     "created_at": "2026-09-16T18:51:13.000Z",
     "public_metrics": {
       "bookmark_count": 1,
-      "impression_count": 79,
-      "like_count": 4,
+      "impression_count": 83,
+      "like_count": 5,
       "quote_count": 0,
       "reply_count": 0,
       "retweet_count": 0
@@ -11660,7 +11660,7 @@
     "created_at": "2026-09-16T18:51:08.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 95,
+      "impression_count": 97,
       "like_count": 3,
       "quote_count": 0,
       "reply_count": 1,
@@ -11723,7 +11723,7 @@
     "public_metrics": {
       "bookmark_count": 0,
       "impression_count": 49,
-      "like_count": 1,
+      "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
       "retweet_count": 0
@@ -11739,11 +11739,11 @@
     "created_at": "2026-09-16T21:27:48.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 76,
-      "like_count": 1,
+      "impression_count": 78,
+      "like_count": 2,
       "quote_count": 0,
       "reply_count": 2,
-      "retweet_count": 0
+      "retweet_count": 1
     },
     "published_at": "2026-09-16T21:27:48.000Z",
     "likers": [],
@@ -11756,7 +11756,7 @@
     "created_at": "2026-09-17T01:34:45.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 56,
+      "impression_count": 57,
       "like_count": 1,
       "quote_count": 0,
       "reply_count": 0,
@@ -11767,7 +11767,7 @@
     "created_at": "2026-09-17T04:53:53.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 57,
+      "impression_count": 59,
       "like_count": 2,
       "quote_count": 0,
       "reply_count": 1,
@@ -11778,7 +11778,7 @@
     "created_at": "2026-09-17T07:13:57.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 14,
+      "impression_count": 15,
       "like_count": 1,
       "quote_count": 0,
       "reply_count": 0,
@@ -11795,7 +11795,7 @@
     "created_at": "2026-09-17T07:12:53.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 2,
+      "impression_count": 4,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -11829,7 +11829,7 @@
     "created_at": "2026-09-17T07:11:39.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 39,
+      "impression_count": 44,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -11846,7 +11846,7 @@
     "created_at": "2026-09-17T07:10:52.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 64,
+      "impression_count": 77,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -11863,7 +11863,7 @@
     "created_at": "2026-09-17T07:10:33.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 4,
+      "impression_count": 5,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -11896,9 +11896,9 @@
   "2100497742120292841": {
     "created_at": "2026-09-17T08:11:01.000Z",
     "public_metrics": {
-      "bookmark_count": 0,
-      "impression_count": 97,
-      "like_count": 5,
+      "bookmark_count": 1,
+      "impression_count": 107,
+      "like_count": 6,
       "quote_count": 0,
       "reply_count": 2,
       "retweet_count": 1
@@ -11925,7 +11925,7 @@
     "created_at": "2026-09-17T07:28:38.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 59,
+      "impression_count": 60,
       "like_count": 3,
       "quote_count": 0,
       "reply_count": 1,
@@ -11953,7 +11953,7 @@
     "created_at": "2026-09-17T07:16:49.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 10,
+      "impression_count": 12,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -11970,8 +11970,8 @@
     "created_at": "2026-09-17T08:46:42.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 44,
-      "like_count": 1,
+      "impression_count": 47,
+      "like_count": 2,
       "quote_count": 0,
       "reply_count": 2,
       "retweet_count": 0
@@ -11987,7 +11987,7 @@
     "created_at": "2026-09-17T10:34:06.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 5,
+      "impression_count": 6,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -12004,7 +12004,7 @@
     "created_at": "2026-09-17T10:32:41.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 6,
+      "impression_count": 8,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -12038,7 +12038,7 @@
     "created_at": "2026-09-17T10:30:21.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 6,
+      "impression_count": 7,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -12055,7 +12055,7 @@
     "created_at": "2026-09-17T10:29:43.000Z",
     "public_metrics": {
       "bookmark_count": 1,
-      "impression_count": 13,
+      "impression_count": 15,
       "like_count": 1,
       "quote_count": 0,
       "reply_count": 0,
@@ -12066,7 +12066,7 @@
     "created_at": "2026-09-17T10:29:07.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 9,
+      "impression_count": 12,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
@@ -12100,7 +12100,7 @@
     "created_at": "2026-09-17T10:28:23.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 51,
+      "impression_count": 115,
       "like_count": 1,
       "quote_count": 0,
       "reply_count": 0,
@@ -12111,7 +12111,7 @@
     "created_at": "2026-09-17T10:27:40.000Z",
     "public_metrics": {
       "bookmark_count": 0,
-      "impression_count": 7,
+      "impression_count": 11,
       "like_count": 0,
       "quote_count": 0,
       "reply_count": 0,
