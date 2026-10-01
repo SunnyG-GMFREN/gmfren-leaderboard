@@ -7384,21 +7384,6 @@
     "last_checked_like_count": 0,
     "last_checked_retweet_count": 0
   },
-  "2094895845392912874": {
-    "published_at": "2026-09-01T21:11:05.000Z",
-    "fetched_at": "2026-09-11T03:17:42.592Z",
-    "created_at": "2026-09-01T21:11:05.000Z",
-    "public_metrics": {
-      "bookmark_count": 0,
-      "impression_count": 36,
-      "like_count": 0,
-      "quote_count": 0,
-      "reply_count": 0,
-      "retweet_count": 0
-    },
-    "last_checked_like_count": 0,
-    "last_checked_retweet_count": 0
-  },
   "2098119737037250791": {
     "created_at": "2026-09-10T18:41:41.000Z",
     "public_metrics": {
