@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:10:34.620Z",
+  "generated_at": "2026-10-03T00:18:03.412Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -19,8 +19,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2103890497731432448/YmwBDVf2_normal.jpg",
       "likes": 97,
       "reposts": 17,
-      "replies": 114,
-      "score": 473,
+      "replies": 109,
+      "score": 458,
       "rank": 1
     },
     {
@@ -30,8 +30,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2095807119761301504/6CqE10Zx_normal.jpg",
       "likes": 45,
       "reposts": 5,
-      "replies": 40,
-      "score": 175,
+      "replies": 37,
+      "score": 166,
       "rank": 2
     },
     {
@@ -52,20 +52,9 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2105315640303341568/6Rfxhqqw_normal.jpg",
       "likes": 28,
       "reposts": 2,
-      "replies": 39,
-      "score": 149,
+      "replies": 37,
+      "score": 143,
       "rank": 4
-    },
-    {
-      "user_id": "1902426675188740096",
-      "username": "kambing142557",
-      "name": "Angelino Da Silva🌛",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2101271147879055360/oJ0AT9sk_normal.jpg",
-      "likes": 29,
-      "reposts": 3,
-      "replies": 28,
-      "score": 119,
-      "rank": 5
     },
     {
       "user_id": "2040554701574324224",
@@ -76,6 +65,17 @@
       "reposts": 2,
       "replies": 33,
       "score": 118,
+      "rank": 5
+    },
+    {
+      "user_id": "1902426675188740096",
+      "username": "kambing142557",
+      "name": "Angelino Da Silva🌛",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2101271147879055360/oJ0AT9sk_normal.jpg",
+      "likes": 29,
+      "reposts": 3,
+      "replies": 27,
+      "score": 116,
       "rank": 6
     },
     {
@@ -123,17 +123,6 @@
       "rank": 10
     },
     {
-      "user_id": "1532784850067161088",
-      "username": "GlobalCoinHub",
-      "name": "🌎 Coin Hub - Go Global 🌎",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1686775395427794951/oKp8s4B2_normal.jpg",
-      "likes": 9,
-      "reposts": 0,
-      "replies": 16,
-      "score": 57,
-      "rank": 11
-    },
-    {
       "user_id": "1452169209081966596",
       "username": "Crypto_Holding_",
       "name": "Crypto Holding™ 💎",
@@ -142,7 +131,7 @@
       "reposts": 0,
       "replies": 0,
       "score": 49,
-      "rank": 12
+      "rank": 11
     },
     {
       "user_id": "895853653",
@@ -152,6 +141,17 @@
       "likes": 3,
       "reposts": 0,
       "replies": 15,
+      "score": 48,
+      "rank": 12
+    },
+    {
+      "user_id": "1532784850067161088",
+      "username": "GlobalCoinHub",
+      "name": "🌎 Coin Hub - Go Global 🌎",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1686775395427794951/oKp8s4B2_normal.jpg",
+      "likes": 9,
+      "reposts": 0,
+      "replies": 13,
       "score": 48,
       "rank": 13
     },
@@ -189,17 +189,6 @@
       "rank": 16
     },
     {
-      "user_id": "3278828737",
-      "username": "0o20_",
-      "name": "Lena Crypto",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2051046658813960192/DL6gfFJX_normal.jpg",
-      "likes": 7,
-      "reposts": 0,
-      "replies": 12,
-      "score": 43,
-      "rank": 17
-    },
-    {
       "user_id": "2047418686261403648",
       "username": "alvucadooy",
       "name": "Juicy Alvucado 💋",
@@ -208,7 +197,7 @@
       "reposts": 1,
       "replies": 12,
       "score": 43,
-      "rank": 18
+      "rank": 17
     },
     {
       "user_id": "1325283492188577793",
@@ -219,7 +208,7 @@
       "reposts": 0,
       "replies": 8,
       "score": 42,
-      "rank": 19
+      "rank": 18
     },
     {
       "user_id": "2094695810097360896",
@@ -230,6 +219,17 @@
       "reposts": 0,
       "replies": 10,
       "score": 41,
+      "rank": 19
+    },
+    {
+      "user_id": "3278828737",
+      "username": "0o20_",
+      "name": "Lena Crypto",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2051046658813960192/DL6gfFJX_normal.jpg",
+      "likes": 7,
+      "reposts": 0,
+      "replies": 11,
+      "score": 40,
       "rank": 20
     },
     {
@@ -255,17 +255,6 @@
       "rank": 22
     },
     {
-      "user_id": "3373108933",
-      "username": "0ii05i",
-      "name": "Captain Mutant",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1992669582730076160/w7B0dWPs_normal.jpg",
-      "likes": 9,
-      "reposts": 0,
-      "replies": 9,
-      "score": 36,
-      "rank": 23
-    },
-    {
       "user_id": "1799044165340401664",
       "username": "Bgzyy17",
       "name": "Oleguns17",
@@ -274,18 +263,18 @@
       "reposts": 0,
       "replies": 9,
       "score": 34,
-      "rank": 24
+      "rank": 23
     },
     {
-      "user_id": "1590300910949109760",
-      "username": "TheTokenXpress",
-      "name": "The Token Xpress 🚀",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1818313639389995008/hryUvbMd_normal.jpg",
-      "likes": 1,
+      "user_id": "3373108933",
+      "username": "0ii05i",
+      "name": "Captain Mutant",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1992669582730076160/w7B0dWPs_normal.jpg",
+      "likes": 9,
       "reposts": 0,
-      "replies": 10,
-      "score": 31,
-      "rank": 25
+      "replies": 8,
+      "score": 33,
+      "rank": 24
     },
     {
       "user_id": "1881477830808064000",
@@ -296,6 +285,17 @@
       "reposts": 2,
       "replies": 8,
       "score": 30,
+      "rank": 25
+    },
+    {
+      "user_id": "1590300910949109760",
+      "username": "TheTokenXpress",
+      "name": "The Token Xpress 🚀",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1818313639389995008/hryUvbMd_normal.jpg",
+      "likes": 1,
+      "reposts": 0,
+      "replies": 9,
+      "score": 28,
       "rank": 26
     },
     {
@@ -310,28 +310,6 @@
       "rank": 27
     },
     {
-      "user_id": "80037636",
-      "username": "MrDariBoss",
-      "name": "Mr Dari ₿",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1942415110632275968/HaeLPi6Q_normal.jpg",
-      "likes": 2,
-      "reposts": 0,
-      "replies": 8,
-      "score": 26,
-      "rank": 28
-    },
-    {
-      "user_id": "2990375058",
-      "username": "iRileyCrypto",
-      "name": "Riley Morgan",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2081508706773250048/dJrQ7nzx_normal.jpg",
-      "likes": 3,
-      "reposts": 0,
-      "replies": 7,
-      "score": 24,
-      "rank": 29
-    },
-    {
       "user_id": "1887180036840493056",
       "username": "Beebezt",
       "name": "Beebezt",
@@ -340,7 +318,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 24,
-      "rank": 30
+      "rank": 28
     },
     {
       "user_id": "744314137",
@@ -351,7 +329,7 @@
       "reposts": 0,
       "replies": 6,
       "score": 23,
-      "rank": 31
+      "rank": 29
     },
     {
       "user_id": "1362787909909282819",
@@ -362,7 +340,7 @@
       "reposts": 3,
       "replies": 1,
       "score": 23,
-      "rank": 32
+      "rank": 30
     },
     {
       "user_id": "38638309",
@@ -373,18 +351,7 @@
       "reposts": 0,
       "replies": 6,
       "score": 22,
-      "rank": 33
-    },
-    {
-      "user_id": "451837540",
-      "username": "iLilyVale",
-      "name": "Lily Vale",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2074088206748827648/bZUhvYYF_normal.jpg",
-      "likes": 3,
-      "reposts": 0,
-      "replies": 6,
-      "score": 21,
-      "rank": 34
+      "rank": 31
     },
     {
       "user_id": "2618503004",
@@ -395,7 +362,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 21,
-      "rank": 35
+      "rank": 32
     },
     {
       "user_id": "2096968357652131840",
@@ -406,7 +373,7 @@
       "reposts": 2,
       "replies": 5,
       "score": 21,
-      "rank": 36
+      "rank": 33
     },
     {
       "user_id": "2076336965029699584",
@@ -417,7 +384,7 @@
       "reposts": 0,
       "replies": 0,
       "score": 21,
-      "rank": 37
+      "rank": 34
     },
     {
       "user_id": "1169876538415710209",
@@ -428,7 +395,7 @@
       "reposts": 0,
       "replies": 6,
       "score": 21,
-      "rank": 38
+      "rank": 35
     },
     {
       "user_id": "230377305",
@@ -439,18 +406,7 @@
       "reposts": 0,
       "replies": 6,
       "score": 20,
-      "rank": 39
-    },
-    {
-      "user_id": "1765473516974215168",
-      "username": "_07G_",
-      "name": "Whale Wizard 🐋",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1963848526078840832/Nowlrodx_normal.jpg",
-      "likes": 5,
-      "reposts": 0,
-      "replies": 5,
-      "score": 20,
-      "rank": 40
+      "rank": 36
     },
     {
       "user_id": "1272139028922499073",
@@ -461,18 +417,7 @@
       "reposts": 0,
       "replies": 6,
       "score": 20,
-      "rank": 41
-    },
-    {
-      "user_id": "2742948520",
-      "username": "_Niss0",
-      "name": "THE CRYPTO DEV",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1985693502559092736/7g3FdWy-_normal.jpg",
-      "likes": 3,
-      "reposts": 0,
-      "replies": 5,
-      "score": 18,
-      "rank": 42
+      "rank": 37
     },
     {
       "user_id": "251203873",
@@ -483,7 +428,7 @@
       "reposts": 0,
       "replies": 6,
       "score": 18,
-      "rank": 43
+      "rank": 38
     },
     {
       "user_id": "421270176",
@@ -494,7 +439,29 @@
       "reposts": 0,
       "replies": 6,
       "score": 18,
-      "rank": 44
+      "rank": 39
+    },
+    {
+      "user_id": "80037636",
+      "username": "MrDariBoss",
+      "name": "Mr Dari ₿",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1942415110632275968/HaeLPi6Q_normal.jpg",
+      "likes": 2,
+      "reposts": 0,
+      "replies": 5,
+      "score": 17,
+      "rank": 40
+    },
+    {
+      "user_id": "1765473516974215168",
+      "username": "_07G_",
+      "name": "Whale Wizard 🐋",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1963848526078840832/Nowlrodx_normal.jpg",
+      "likes": 5,
+      "reposts": 0,
+      "replies": 4,
+      "score": 17,
+      "rank": 41
     },
     {
       "user_id": "1723334011404054528",
@@ -505,6 +472,39 @@
       "reposts": 1,
       "replies": 5,
       "score": 17,
+      "rank": 42
+    },
+    {
+      "user_id": "451837540",
+      "username": "iLilyVale",
+      "name": "Lily Vale",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2074088206748827648/bZUhvYYF_normal.jpg",
+      "likes": 3,
+      "reposts": 0,
+      "replies": 4,
+      "score": 15,
+      "rank": 43
+    },
+    {
+      "user_id": "2742948520",
+      "username": "_Niss0",
+      "name": "THE CRYPTO DEV",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1985693502559092736/7g3FdWy-_normal.jpg",
+      "likes": 3,
+      "reposts": 0,
+      "replies": 4,
+      "score": 15,
+      "rank": 44
+    },
+    {
+      "user_id": "2990375058",
+      "username": "iRileyCrypto",
+      "name": "Riley Morgan",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2081508706773250048/dJrQ7nzx_normal.jpg",
+      "likes": 3,
+      "reposts": 0,
+      "replies": 4,
+      "score": 15,
       "rank": 45
     },
     {
@@ -541,17 +541,6 @@
       "rank": 48
     },
     {
-      "user_id": "2083798244640092160",
-      "username": "jarmefrosh",
-      "name": "SOL DEFI",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2092199180513185792/9WimMF4n_normal.jpg",
-      "likes": 3,
-      "reposts": 0,
-      "replies": 4,
-      "score": 15,
-      "rank": 49
-    },
-    {
       "user_id": "2025883159112679424",
       "username": "Ronnie_black8",
       "name": "Ronnie",
@@ -559,6 +548,17 @@
       "likes": 2,
       "reposts": 0,
       "replies": 4,
+      "score": 14,
+      "rank": 49
+    },
+    {
+      "user_id": "1778710487267512320",
+      "username": "KryptonitGER",
+      "name": "Kryptonit",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2063391567411400705/xVCZCM94_normal.jpg",
+      "likes": 11,
+      "reposts": 0,
+      "replies": 1,
       "score": 14,
       "rank": 50
     }
