@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T02:28:22.055Z",
+  "generated_at": "2026-10-04T04:49:55.033Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,7 +7,7 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 607,
+  "tracked_posts": 597,
   "last_full_sweep": "2026-10-03T03:23:43.197Z",
   "estimated_month_spend_usd": 0.631,
   "budget_month_usd": 15,
