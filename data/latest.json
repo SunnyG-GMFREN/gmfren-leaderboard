@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:33:51.971Z",
+  "generated_at": "2026-10-05T18:03:39.421Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,7 +7,7 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 535,
+  "tracked_posts": 531,
   "last_full_sweep": "2026-10-05T03:20:40.105Z",
   "estimated_month_spend_usd": 0.631,
   "budget_month_usd": 15,
@@ -17,10 +17,10 @@
       "username": "KatheleenLori",
       "name": "KTY' FRENS",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2103890497731432448/YmwBDVf2_normal.jpg",
-      "likes": 96,
-      "reposts": 17,
+      "likes": 94,
+      "reposts": 15,
       "replies": 95,
-      "score": 415,
+      "score": 409,
       "rank": 1
     },
     {
@@ -28,10 +28,10 @@
       "username": "Crypt_nakamotto",
       "name": "Crypto Nakamotto",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2095807119761301504/6CqE10Zx_normal.jpg",
-      "likes": 45,
+      "likes": 44,
       "reposts": 5,
       "replies": 31,
-      "score": 148,
+      "score": 147,
       "rank": 2
     },
     {
@@ -50,10 +50,10 @@
       "username": "NFTonsollana",
       "name": "◤GM Duta NFT◢",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2097444978234720256/hGeZbefp_normal.jpg",
-      "likes": 39,
-      "reposts": 6,
+      "likes": 38,
+      "reposts": 5,
       "replies": 23,
-      "score": 120,
+      "score": 117,
       "rank": 4
     },
     {
@@ -94,10 +94,10 @@
       "username": "kambing142557",
       "name": "Angelino Da Silva🌛",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2101271147879055360/oJ0AT9sk_normal.jpg",
-      "likes": 29,
-      "reposts": 3,
+      "likes": 27,
+      "reposts": 2,
       "replies": 23,
-      "score": 104,
+      "score": 100,
       "rank": 8
     },
     {
@@ -178,17 +178,6 @@
       "rank": 15
     },
     {
-      "user_id": "1666240737623646208",
-      "username": "web4_blaze",
-      "name": "blaze",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2070192344616325120/SW6AkzoO_normal.jpg",
-      "likes": 19,
-      "reposts": 0,
-      "replies": 8,
-      "score": 43,
-      "rank": 16
-    },
-    {
       "user_id": "2047418686261403648",
       "username": "alvucadooy",
       "name": "Juicy Alvucado 💋",
@@ -197,6 +186,17 @@
       "reposts": 1,
       "replies": 12,
       "score": 43,
+      "rank": 16
+    },
+    {
+      "user_id": "1666240737623646208",
+      "username": "web4_blaze",
+      "name": "blaze",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2070192344616325120/SW6AkzoO_normal.jpg",
+      "likes": 18,
+      "reposts": 0,
+      "replies": 8,
+      "score": 42,
       "rank": 17
     },
     {
