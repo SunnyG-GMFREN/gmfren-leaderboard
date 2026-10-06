@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T05:24:04.848Z",
+  "generated_at": "2026-10-06T10:03:53.546Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,8 +7,8 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 526,
-  "last_full_sweep": "2026-10-05T03:20:40.105Z",
+  "tracked_posts": 523,
+  "last_full_sweep": "2026-10-06T10:03:53.546Z",
   "estimated_month_spend_usd": 0.631,
   "budget_month_usd": 15,
   "leaderboard": [
@@ -39,10 +39,10 @@
       "username": "Based_Vincent",
       "name": "VINCENT",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2105315640303341568/6Rfxhqqw_normal.jpg",
-      "likes": 27,
+      "likes": 26,
       "reposts": 1,
       "replies": 34,
-      "score": 131,
+      "score": 130,
       "rank": 3
     },
     {
@@ -94,10 +94,10 @@
       "username": "kambing142557",
       "name": "Angelino Da Silva🌛",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2101271147879055360/oJ0AT9sk_normal.jpg",
-      "likes": 27,
-      "reposts": 2,
+      "likes": 26,
+      "reposts": 1,
       "replies": 20,
-      "score": 91,
+      "score": 88,
       "rank": 8
     },
     {
