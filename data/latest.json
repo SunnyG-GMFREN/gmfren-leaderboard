@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T02:09:34.730Z",
+  "generated_at": "2026-10-07T09:57:47.258Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,7 +7,7 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 511,
+  "tracked_posts": 497,
   "last_full_sweep": "2026-10-06T10:03:53.546Z",
   "estimated_month_spend_usd": 0.631,
   "budget_month_usd": 15,
@@ -17,10 +17,10 @@
       "username": "KatheleenLori",
       "name": "KTY' FRENS",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2103890497731432448/YmwBDVf2_normal.jpg",
-      "likes": 91,
+      "likes": 90,
       "reposts": 14,
       "replies": 89,
-      "score": 386,
+      "score": 385,
       "rank": 1
     },
     {
@@ -28,10 +28,10 @@
       "username": "Crypt_nakamotto",
       "name": "Crypto Nakamotto",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2095807119761301504/6CqE10Zx_normal.jpg",
-      "likes": 42,
+      "likes": 39,
       "reposts": 4,
       "replies": 30,
-      "score": 140,
+      "score": 137,
       "rank": 2
     },
     {
@@ -39,10 +39,10 @@
       "username": "Based_Vincent",
       "name": "VINCENT",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2105315640303341568/6Rfxhqqw_normal.jpg",
-      "likes": 26,
+      "likes": 25,
       "reposts": 1,
       "replies": 32,
-      "score": 124,
+      "score": 123,
       "rank": 3
     },
     {
@@ -134,25 +134,25 @@
       "rank": 11
     },
     {
-      "user_id": "1452169209081966596",
-      "username": "Crypto_Holding_",
-      "name": "Crypto Holding™ 💎",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1891290186127941632/zAheeco5_normal.jpg",
-      "likes": 48,
-      "reposts": 0,
-      "replies": 0,
-      "score": 48,
-      "rank": 12
-    },
-    {
       "user_id": "1532784850067161088",
       "username": "GlobalCoinHub",
       "name": "🌎 Coin Hub - Go Global 🌎",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1686775395427794951/oKp8s4B2_normal.jpg",
-      "likes": 9,
+      "likes": 8,
       "reposts": 0,
       "replies": 13,
-      "score": 48,
+      "score": 47,
+      "rank": 12
+    },
+    {
+      "user_id": "1452169209081966596",
+      "username": "Crypto_Holding_",
+      "name": "Crypto Holding™ 💎",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1891290186127941632/zAheeco5_normal.jpg",
+      "likes": 46,
+      "reposts": 0,
+      "replies": 0,
+      "score": 46,
       "rank": 13
     },
     {
@@ -160,10 +160,10 @@
       "username": "Real_MyraLux",
       "name": "Matthew Collins",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2090700401154961408/z9KTj6hS_normal.jpg",
-      "likes": 11,
+      "likes": 10,
       "reposts": 0,
       "replies": 12,
-      "score": 47,
+      "score": 46,
       "rank": 14
     },
     {
@@ -237,10 +237,10 @@
       "username": "web4_blaze",
       "name": "blaze",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2070192344616325120/SW6AkzoO_normal.jpg",
-      "likes": 18,
+      "likes": 16,
       "reposts": 0,
       "replies": 6,
-      "score": 36,
+      "score": 34,
       "rank": 21
     },
     {
@@ -248,10 +248,10 @@
       "username": "0o20_",
       "name": "Lena Crypto",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2051046658813960192/DL6gfFJX_normal.jpg",
-      "likes": 7,
+      "likes": 5,
       "reposts": 0,
       "replies": 9,
-      "score": 34,
+      "score": 32,
       "rank": 22
     },
     {
@@ -453,17 +453,6 @@
       "rank": 40
     },
     {
-      "user_id": "1016324267560955909",
-      "username": "CryptoMaelle",
-      "name": "Crypto Maelle",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2039291847668051968/7fskj61t_normal.jpg",
-      "likes": 3,
-      "reposts": 0,
-      "replies": 4,
-      "score": 15,
-      "rank": 41
-    },
-    {
       "user_id": "421270176",
       "username": "n8333n",
       "name": "Crypto Girl",
@@ -472,18 +461,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
-      "rank": 42
-    },
-    {
-      "user_id": "1765473516974215168",
-      "username": "_07G_",
-      "name": "Whale Wizard 🐋",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1963848526078840832/Nowlrodx_normal.jpg",
-      "likes": 5,
-      "reposts": 0,
-      "replies": 3,
-      "score": 14,
-      "rank": 43
+      "rank": 41
     },
     {
       "user_id": "2025883159112679424",
@@ -494,7 +472,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 14,
-      "rank": 44
+      "rank": 42
     },
     {
       "user_id": "1723334011404054528",
@@ -505,7 +483,7 @@
       "reposts": 1,
       "replies": 4,
       "score": 14,
-      "rank": 45
+      "rank": 43
     },
     {
       "user_id": "1778710487267512320",
@@ -516,7 +494,18 @@
       "reposts": 0,
       "replies": 1,
       "score": 14,
-      "rank": 46
+      "rank": 44
+    },
+    {
+      "user_id": "1016324267560955909",
+      "username": "CryptoMaelle",
+      "name": "Crypto Maelle",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2039291847668051968/7fskj61t_normal.jpg",
+      "likes": 2,
+      "reposts": 0,
+      "replies": 4,
+      "score": 14,
+      "rank": 45
     },
     {
       "user_id": "2095944569502269442",
@@ -527,7 +516,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 14,
-      "rank": 47
+      "rank": 46
     },
     {
       "user_id": "1796772415894073344",
@@ -538,7 +527,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 14,
-      "rank": 48
+      "rank": 47
     },
     {
       "user_id": "1985685729301995520",
@@ -549,13 +538,24 @@
       "reposts": 0,
       "replies": 2,
       "score": 13,
-      "rank": 49
+      "rank": 48
     },
     {
       "user_id": "2742948520",
       "username": "_Niss0",
       "name": "THE CRYPTO DEV",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1985693502559092736/7g3FdWy-_normal.jpg",
+      "likes": 3,
+      "reposts": 0,
+      "replies": 3,
+      "score": 12,
+      "rank": 49
+    },
+    {
+      "user_id": "1089513750812655617",
+      "username": "SolPumpFunTiger",
+      "name": "Sol Pumpfun",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2094869743488663552/G25W9unS_normal.jpg",
       "likes": 3,
       "reposts": 0,
       "replies": 3,
