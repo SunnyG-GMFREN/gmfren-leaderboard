@@ -3282,45 +3282,6 @@
     "last_checked_like_count": 1,
     "last_checked_retweet_count": 1
   },
-  "2097066624553484660": {
-    "published_at": "2026-09-07T20:56:59.000Z",
-    "likers": [],
-    "retweeters": [],
-    "fetched_at": "2026-09-11T03:17:19.086Z",
-    "created_at": "2026-09-07T20:56:59.000Z",
-    "public_metrics": {
-      "bookmark_count": 0,
-      "impression_count": 5,
-      "like_count": 0,
-      "quote_count": 0,
-      "reply_count": 0,
-      "retweet_count": 0
-    },
-    "last_checked_like_count": 0,
-    "last_checked_retweet_count": 0
-  },
-  "2097056398278336614": {
-    "published_at": "2026-09-07T20:16:21.000Z",
-    "likers": [
-      "1849407354972020737",
-      "2016550762474799104"
-    ],
-    "retweeters": [
-      "2016550762474799104"
-    ],
-    "fetched_at": "2026-09-11T03:17:19.297Z",
-    "created_at": "2026-09-07T20:16:21.000Z",
-    "public_metrics": {
-      "bookmark_count": 0,
-      "impression_count": 49,
-      "like_count": 2,
-      "quote_count": 0,
-      "reply_count": 0,
-      "retweet_count": 1
-    },
-    "last_checked_like_count": 2,
-    "last_checked_retweet_count": 1
-  },
   "2098119737037250791": {
     "created_at": "2026-09-10T18:41:41.000Z",
     "public_metrics": {

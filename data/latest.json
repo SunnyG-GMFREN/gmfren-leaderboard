@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T17:19:37.808Z",
+  "generated_at": "2026-10-07T22:51:44.128Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,7 +7,7 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 490,
+  "tracked_posts": 488,
   "last_full_sweep": "2026-10-07T10:07:40.682Z",
   "estimated_month_spend_usd": 0.631,
   "budget_month_usd": 15,
@@ -17,10 +17,10 @@
       "username": "KatheleenLori",
       "name": "KTY' FRENS",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2103890497731432448/YmwBDVf2_normal.jpg",
-      "likes": 87,
-      "reposts": 13,
+      "likes": 86,
+      "reposts": 12,
       "replies": 89,
-      "score": 380,
+      "score": 377,
       "rank": 1
     },
     {
@@ -28,10 +28,10 @@
       "username": "Crypt_nakamotto",
       "name": "Crypto Nakamotto",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2095807119761301504/6CqE10Zx_normal.jpg",
-      "likes": 38,
+      "likes": 37,
       "reposts": 3,
       "replies": 30,
-      "score": 134,
+      "score": 133,
       "rank": 2
     },
     {
