@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T10:07:40.682Z",
+  "generated_at": "2026-10-07T17:19:37.808Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,7 +7,7 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 497,
+  "tracked_posts": 490,
   "last_full_sweep": "2026-10-07T10:07:40.682Z",
   "estimated_month_spend_usd": 0.631,
   "budget_month_usd": 15,
@@ -17,10 +17,10 @@
       "username": "KatheleenLori",
       "name": "KTY' FRENS",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2103890497731432448/YmwBDVf2_normal.jpg",
-      "likes": 90,
-      "reposts": 14,
+      "likes": 87,
+      "reposts": 13,
       "replies": 89,
-      "score": 385,
+      "score": 380,
       "rank": 1
     },
     {
@@ -28,10 +28,10 @@
       "username": "Crypt_nakamotto",
       "name": "Crypto Nakamotto",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2095807119761301504/6CqE10Zx_normal.jpg",
-      "likes": 39,
-      "reposts": 4,
+      "likes": 38,
+      "reposts": 3,
       "replies": 30,
-      "score": 137,
+      "score": 134,
       "rank": 2
     },
     {
@@ -73,9 +73,9 @@
       "name": "◤GM Duta NFT◢",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2097444978234720256/hGeZbefp_normal.jpg",
       "likes": 35,
-      "reposts": 3,
+      "reposts": 2,
       "replies": 21,
-      "score": 104,
+      "score": 102,
       "rank": 6
     },
     {
@@ -83,10 +83,10 @@
       "username": "INVESTORflxo",
       "name": "INVESTOR أشتري رمز الميم وأحتفظ به على المدى الطو",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2094237224854286336/2b2coyAe_normal.jpg",
-      "likes": 14,
+      "likes": 13,
       "reposts": 2,
       "replies": 28,
-      "score": 102,
+      "score": 101,
       "rank": 7
     },
     {
@@ -365,28 +365,6 @@
       "rank": 32
     },
     {
-      "user_id": "1881477830808064000",
-      "username": "PaymentMega",
-      "name": "HÆŞHMÅÑ ÇŘÝPŢÓ",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2057703504509116416/VKv-P8RQ_normal.jpg",
-      "likes": 1,
-      "reposts": 1,
-      "replies": 5,
-      "score": 18,
-      "rank": 33
-    },
-    {
-      "user_id": "2096968357652131840",
-      "username": "JohnSmithwethw",
-      "name": "John Smith",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2096969043643109376/yyucga8c_normal.jpg",
-      "likes": 1,
-      "reposts": 1,
-      "replies": 5,
-      "score": 18,
-      "rank": 34
-    },
-    {
       "user_id": "1169876538415710209",
       "username": "OscarDefii",
       "name": "Oscar Defi",
@@ -395,7 +373,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 18,
-      "rank": 35
+      "rank": 33
     },
     {
       "user_id": "251203873",
@@ -406,7 +384,7 @@
       "reposts": 0,
       "replies": 6,
       "score": 18,
-      "rank": 36
+      "rank": 34
     },
     {
       "user_id": "451837540",
@@ -417,7 +395,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 15,
-      "rank": 37
+      "rank": 35
     },
     {
       "user_id": "2990375058",
@@ -428,7 +406,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 15,
-      "rank": 38
+      "rank": 36
     },
     {
       "user_id": "2094890365094330368",
@@ -439,7 +417,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 15,
-      "rank": 39
+      "rank": 37
     },
     {
       "user_id": "1452032441305092096",
@@ -450,13 +428,35 @@
       "reposts": 0,
       "replies": 2,
       "score": 15,
-      "rank": 40
+      "rank": 38
     },
     {
       "user_id": "421270176",
       "username": "n8333n",
       "name": "Crypto Girl",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2096838746364858368/5nXA6CQK_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 5,
+      "score": 15,
+      "rank": 39
+    },
+    {
+      "user_id": "1881477830808064000",
+      "username": "PaymentMega",
+      "name": "HÆŞHMÅÑ ÇŘÝPŢÓ",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2057703504509116416/VKv-P8RQ_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 5,
+      "score": 15,
+      "rank": 40
+    },
+    {
+      "user_id": "2096968357652131840",
+      "username": "JohnSmithwethw",
+      "name": "John Smith",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2096969043643109376/yyucga8c_normal.jpg",
       "likes": 0,
       "reposts": 0,
       "replies": 5,
