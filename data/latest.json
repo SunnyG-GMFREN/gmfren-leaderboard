@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T10:22:49.971Z",
+  "generated_at": "2026-10-08T17:46:25.277Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,7 +7,7 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 469,
+  "tracked_posts": 448,
   "last_full_sweep": "2026-10-08T10:22:49.971Z",
   "estimated_month_spend_usd": 0.631,
   "budget_month_usd": 15,
@@ -17,10 +17,10 @@
       "username": "KatheleenLori",
       "name": "KTY' FRENS",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2103890497731432448/YmwBDVf2_normal.jpg",
-      "likes": 84,
+      "likes": 82,
       "reposts": 11,
       "replies": 87,
-      "score": 367,
+      "score": 365,
       "rank": 1
     },
     {
@@ -50,10 +50,10 @@
       "username": "Zeyinmhmd",
       "name": "Zeyin",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2019506992507940864/mSG16t9Q_normal.jpg",
-      "likes": 41,
+      "likes": 39,
       "reposts": 9,
       "replies": 18,
-      "score": 113,
+      "score": 111,
       "rank": 4
     },
     {
@@ -156,17 +156,6 @@
       "rank": 13
     },
     {
-      "user_id": "1452169209081966596",
-      "username": "Crypto_Holding_",
-      "name": "Crypto Holding™ 💎",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1891290186127941632/zAheeco5_normal.jpg",
-      "likes": 45,
-      "reposts": 0,
-      "replies": 0,
-      "score": 45,
-      "rank": 14
-    },
-    {
       "user_id": "1756715757587570688",
       "username": "Real_MyraLux",
       "name": "Matthew Collins",
@@ -175,6 +164,17 @@
       "reposts": 0,
       "replies": 12,
       "score": 45,
+      "rank": 14
+    },
+    {
+      "user_id": "1452169209081966596",
+      "username": "Crypto_Holding_",
+      "name": "Crypto Holding™ 💎",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1891290186127941632/zAheeco5_normal.jpg",
+      "likes": 43,
+      "reposts": 0,
+      "replies": 0,
+      "score": 43,
       "rank": 15
     },
     {
