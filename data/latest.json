@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T17:22:16.457Z",
+  "generated_at": "2026-10-09T22:23:51.703Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,7 +7,7 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 349,
+  "tracked_posts": 346,
   "last_full_sweep": "2026-10-09T10:22:03.714Z",
   "estimated_month_spend_usd": 0.631,
   "budget_month_usd": 15,
@@ -17,10 +17,10 @@
       "username": "KatheleenLori",
       "name": "KTY' FRENS",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2103890497731432448/YmwBDVf2_normal.jpg",
-      "likes": 75,
+      "likes": 73,
       "reposts": 11,
       "replies": 82,
-      "score": 343,
+      "score": 341,
       "rank": 1
     },
     {
@@ -39,10 +39,10 @@
       "username": "Crypt_nakamotto",
       "name": "Crypto Nakamotto",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2095807119761301504/6CqE10Zx_normal.jpg",
-      "likes": 34,
+      "likes": 32,
       "reposts": 3,
       "replies": 27,
-      "score": 121,
+      "score": 119,
       "rank": 3
     },
     {
@@ -61,10 +61,10 @@
       "username": "Zeyinmhmd",
       "name": "Zeyin",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2019506992507940864/mSG16t9Q_normal.jpg",
-      "likes": 26,
+      "likes": 23,
       "reposts": 9,
       "replies": 18,
-      "score": 98,
+      "score": 95,
       "rank": 5
     },
     {
@@ -189,17 +189,6 @@
       "rank": 16
     },
     {
-      "user_id": "1997360351667773440",
-      "username": "Mubarak6313",
-      "name": "Alxe",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2105268841592889344/HeBynr2x_normal.jpg",
-      "likes": 19,
-      "reposts": 7,
-      "replies": 2,
-      "score": 39,
-      "rank": 17
-    },
-    {
       "user_id": "2094695810097360896",
       "username": "nectorchat_",
       "name": "Nector",
@@ -208,7 +197,7 @@
       "reposts": 0,
       "replies": 9,
       "score": 37,
-      "rank": 18
+      "rank": 17
     },
     {
       "user_id": "1532784850067161088",
@@ -219,6 +208,17 @@
       "reposts": 0,
       "replies": 11,
       "score": 37,
+      "rank": 18
+    },
+    {
+      "user_id": "1997360351667773440",
+      "username": "Mubarak6313",
+      "name": "Alxe",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2105268841592889344/HeBynr2x_normal.jpg",
+      "likes": 18,
+      "reposts": 6,
+      "replies": 2,
+      "score": 36,
       "rank": 19
     },
     {
