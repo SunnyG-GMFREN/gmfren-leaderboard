@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:23:51.703Z",
+  "generated_at": "2026-10-10T02:09:38.263Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -19,20 +19,9 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2103890497731432448/YmwBDVf2_normal.jpg",
       "likes": 73,
       "reposts": 11,
-      "replies": 82,
-      "score": 341,
+      "replies": 81,
+      "score": 338,
       "rank": 1
-    },
-    {
-      "user_id": "1859035204821938178",
-      "username": "Based_Vincent",
-      "name": "VINCENT",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2105315640303341568/6Rfxhqqw_normal.jpg",
-      "likes": 25,
-      "reposts": 1,
-      "replies": 32,
-      "score": 123,
-      "rank": 2
     },
     {
       "user_id": "1849407354972020737",
@@ -43,6 +32,17 @@
       "reposts": 3,
       "replies": 27,
       "score": 119,
+      "rank": 2
+    },
+    {
+      "user_id": "1859035204821938178",
+      "username": "Based_Vincent",
+      "name": "VINCENT",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2105315640303341568/6Rfxhqqw_normal.jpg",
+      "likes": 25,
+      "reposts": 1,
+      "replies": 30,
+      "score": 117,
       "rank": 3
     },
     {
@@ -52,8 +52,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2096560191357734912/SDAZpXAn_normal.jpg",
       "likes": 30,
       "reposts": 1,
-      "replies": 23,
-      "score": 101,
+      "replies": 22,
+      "score": 98,
       "rank": 4
     },
     {
@@ -85,8 +85,8 @@
       "profile_image_url": "https://pbs.twimg.com/profile_images/2101271147879055360/oJ0AT9sk_normal.jpg",
       "likes": 24,
       "reposts": 0,
-      "replies": 19,
-      "score": 81,
+      "replies": 18,
+      "score": 78,
       "rank": 7
     },
     {
@@ -145,17 +145,6 @@
       "rank": 12
     },
     {
-      "user_id": "2047418686261403648",
-      "username": "alvucadooy",
-      "name": "Juicy Alvucado 💋",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2097378676790976512/l3vdYWHn_normal.jpg",
-      "likes": 5,
-      "reposts": 1,
-      "replies": 12,
-      "score": 43,
-      "rank": 13
-    },
-    {
       "user_id": "1325283492188577793",
       "username": "DEFI_DEGEN24",
       "name": "DEFI-Denny🧐",
@@ -164,7 +153,7 @@
       "reposts": 0,
       "replies": 8,
       "score": 41,
-      "rank": 14
+      "rank": 13
     },
     {
       "user_id": "1452169209081966596",
@@ -174,6 +163,17 @@
       "likes": 40,
       "reposts": 0,
       "replies": 0,
+      "score": 40,
+      "rank": 14
+    },
+    {
+      "user_id": "2047418686261403648",
+      "username": "alvucadooy",
+      "name": "Juicy Alvucado 💋",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2097378676790976512/l3vdYWHn_normal.jpg",
+      "likes": 5,
+      "reposts": 1,
+      "replies": 11,
       "score": 40,
       "rank": 15
     },
@@ -200,17 +200,6 @@
       "rank": 17
     },
     {
-      "user_id": "1532784850067161088",
-      "username": "GlobalCoinHub",
-      "name": "🌎 Coin Hub - Go Global 🌎",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1686775395427794951/oKp8s4B2_normal.jpg",
-      "likes": 4,
-      "reposts": 0,
-      "replies": 11,
-      "score": 37,
-      "rank": 18
-    },
-    {
       "user_id": "1997360351667773440",
       "username": "Mubarak6313",
       "name": "Alxe",
@@ -219,18 +208,7 @@
       "reposts": 6,
       "replies": 2,
       "score": 36,
-      "rank": 19
-    },
-    {
-      "user_id": "1756715757587570688",
-      "username": "Real_MyraLux",
-      "name": "Matthew Collins",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2090700401154961408/z9KTj6hS_normal.jpg",
-      "likes": 6,
-      "reposts": 0,
-      "replies": 10,
-      "score": 36,
-      "rank": 20
+      "rank": 18
     },
     {
       "user_id": "1666240737623646208",
@@ -241,7 +219,7 @@
       "reposts": 0,
       "replies": 6,
       "score": 32,
-      "rank": 21
+      "rank": 19
     },
     {
       "user_id": "1799044165340401664",
@@ -252,7 +230,7 @@
       "reposts": 0,
       "replies": 7,
       "score": 28,
-      "rank": 22
+      "rank": 20
     },
     {
       "user_id": "1590300910949109760",
@@ -263,7 +241,7 @@
       "reposts": 0,
       "replies": 9,
       "score": 28,
-      "rank": 23
+      "rank": 21
     },
     {
       "user_id": "3373108933",
@@ -274,7 +252,7 @@
       "reposts": 0,
       "replies": 6,
       "score": 27,
-      "rank": 24
+      "rank": 22
     },
     {
       "user_id": "2087297195057766400",
@@ -285,7 +263,7 @@
       "reposts": 0,
       "replies": 9,
       "score": 27,
-      "rank": 25
+      "rank": 23
     },
     {
       "user_id": "3278828737",
@@ -296,6 +274,28 @@
       "reposts": 0,
       "replies": 7,
       "score": 26,
+      "rank": 24
+    },
+    {
+      "user_id": "1532784850067161088",
+      "username": "GlobalCoinHub",
+      "name": "🌎 Coin Hub - Go Global 🌎",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1686775395427794951/oKp8s4B2_normal.jpg",
+      "likes": 4,
+      "reposts": 0,
+      "replies": 7,
+      "score": 25,
+      "rank": 25
+    },
+    {
+      "user_id": "1756715757587570688",
+      "username": "Real_MyraLux",
+      "name": "Matthew Collins",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2090700401154961408/z9KTj6hS_normal.jpg",
+      "likes": 6,
+      "reposts": 0,
+      "replies": 6,
+      "score": 24,
       "rank": 26
     },
     {
