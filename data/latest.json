@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T11:17:25.142Z",
+  "generated_at": "2026-10-11T17:28:42.518Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,7 +7,7 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 246,
+  "tracked_posts": 245,
   "last_full_sweep": "2026-10-11T09:53:46.282Z",
   "estimated_month_spend_usd": 0.631,
   "budget_month_usd": 15,
@@ -17,10 +17,10 @@
       "username": "KatheleenLori",
       "name": "KTY' FRENS",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2103890497731432448/YmwBDVf2_normal.jpg",
-      "likes": 50,
-      "reposts": 1,
+      "likes": 49,
+      "reposts": 0,
       "replies": 68,
-      "score": 256,
+      "score": 253,
       "rank": 1
     },
     {
@@ -50,10 +50,10 @@
       "username": "Youngrfqifzl",
       "name": "rifqifzl",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2096560191357734912/SDAZpXAn_normal.jpg",
-      "likes": 18,
+      "likes": 17,
       "reposts": 0,
       "replies": 19,
-      "score": 75,
+      "score": 74,
       "rank": 4
     },
     {
@@ -61,10 +61,10 @@
       "username": "NFTonsollana",
       "name": "◤GM Duta NFT◢",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2097444978234720256/hGeZbefp_normal.jpg",
-      "likes": 33,
-      "reposts": 1,
+      "likes": 32,
+      "reposts": 0,
       "replies": 13,
-      "score": 74,
+      "score": 71,
       "rank": 5
     },
     {
@@ -72,10 +72,10 @@
       "username": "Crypt_nakamotto",
       "name": "Crypto Nakamotto",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2095807119761301504/6CqE10Zx_normal.jpg",
-      "likes": 17,
+      "likes": 16,
       "reposts": 0,
       "replies": 18,
-      "score": 71,
+      "score": 70,
       "rank": 6
     },
     {
@@ -178,17 +178,6 @@
       "rank": 15
     },
     {
-      "user_id": "2004830391828709381",
-      "username": "Zeyinmhmd",
-      "name": "Zeyin",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2019506992507940864/mSG16t9Q_normal.jpg",
-      "likes": 1,
-      "reposts": 0,
-      "replies": 9,
-      "score": 28,
-      "rank": 16
-    },
-    {
       "user_id": "1590300910949109760",
       "username": "TheTokenXpress",
       "name": "The Token Xpress 🚀",
@@ -197,7 +186,7 @@
       "reposts": 0,
       "replies": 9,
       "score": 28,
-      "rank": 17
+      "rank": 16
     },
     {
       "user_id": "3373108933",
@@ -207,6 +196,17 @@
       "likes": 9,
       "reposts": 0,
       "replies": 6,
+      "score": 27,
+      "rank": 17
+    },
+    {
+      "user_id": "2004830391828709381",
+      "username": "Zeyinmhmd",
+      "name": "Zeyin",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2019506992507940864/mSG16t9Q_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 9,
       "score": 27,
       "rank": 18
     },
@@ -398,17 +398,6 @@
       "rank": 35
     },
     {
-      "user_id": "1778710487267512320",
-      "username": "KryptonitGER",
-      "name": "Kryptonit",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2063391567411400705/xVCZCM94_normal.jpg",
-      "likes": 11,
-      "reposts": 0,
-      "replies": 1,
-      "score": 14,
-      "rank": 36
-    },
-    {
       "user_id": "2095944569502269442",
       "username": "DegenPilotfhfe",
       "name": "Degen Pilot",
@@ -417,7 +406,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 14,
-      "rank": 37
+      "rank": 36
     },
     {
       "user_id": "1796772415894073344",
@@ -428,13 +417,24 @@
       "reposts": 0,
       "replies": 2,
       "score": 14,
-      "rank": 38
+      "rank": 37
     },
     {
       "user_id": "1997360351667773440",
       "username": "Mubarak6313",
       "name": "Alxe",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2105268841592889344/HeBynr2x_normal.jpg",
+      "likes": 10,
+      "reposts": 0,
+      "replies": 1,
+      "score": 13,
+      "rank": 38
+    },
+    {
+      "user_id": "1778710487267512320",
+      "username": "KryptonitGER",
+      "name": "Kryptonit",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2063391567411400705/xVCZCM94_normal.jpg",
       "likes": 10,
       "reposts": 0,
       "replies": 1,
