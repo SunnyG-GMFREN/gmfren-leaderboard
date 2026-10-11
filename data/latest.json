@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T17:28:42.518Z",
+  "generated_at": "2026-10-11T21:37:27.108Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,7 +7,7 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 245,
+  "tracked_posts": 236,
   "last_full_sweep": "2026-10-11T09:53:46.282Z",
   "estimated_month_spend_usd": 0.631,
   "budget_month_usd": 15,
@@ -17,10 +17,10 @@
       "username": "KatheleenLori",
       "name": "KTY' FRENS",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2103890497731432448/YmwBDVf2_normal.jpg",
-      "likes": 49,
+      "likes": 44,
       "reposts": 0,
       "replies": 68,
-      "score": 253,
+      "score": 248,
       "rank": 1
     },
     {
@@ -28,10 +28,10 @@
       "username": "Based_Vincent",
       "name": "VINCENT",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2105315640303341568/6Rfxhqqw_normal.jpg",
-      "likes": 20,
+      "likes": 15,
       "reposts": 0,
       "replies": 27,
-      "score": 101,
+      "score": 96,
       "rank": 2
     },
     {
@@ -39,10 +39,10 @@
       "username": "INVESTORflxo",
       "name": "INVESTOR أشتري رمز الميم وأحتفظ به على المدى الطو",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2094237224854286336/2b2coyAe_normal.jpg",
-      "likes": 10,
+      "likes": 7,
       "reposts": 0,
       "replies": 22,
-      "score": 76,
+      "score": 73,
       "rank": 3
     },
     {
@@ -50,54 +50,54 @@
       "username": "Youngrfqifzl",
       "name": "rifqifzl",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2096560191357734912/SDAZpXAn_normal.jpg",
-      "likes": 17,
+      "likes": 12,
       "reposts": 0,
       "replies": 19,
-      "score": 74,
+      "score": 69,
       "rank": 4
-    },
-    {
-      "user_id": "1509466538704744448",
-      "username": "NFTonsollana",
-      "name": "◤GM Duta NFT◢",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2097444978234720256/hGeZbefp_normal.jpg",
-      "likes": 32,
-      "reposts": 0,
-      "replies": 13,
-      "score": 71,
-      "rank": 5
-    },
-    {
-      "user_id": "1849407354972020737",
-      "username": "Crypt_nakamotto",
-      "name": "Crypto Nakamotto",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2095807119761301504/6CqE10Zx_normal.jpg",
-      "likes": 16,
-      "reposts": 0,
-      "replies": 18,
-      "score": 70,
-      "rank": 6
     },
     {
       "user_id": "897398121914707968",
       "username": "TheW3Space",
       "name": "Web3 | Coins",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1824914361921503232/OPOsAEH9_normal.jpg",
-      "likes": 14,
+      "likes": 12,
       "reposts": 0,
       "replies": 18,
-      "score": 68,
-      "rank": 7
+      "score": 66,
+      "rank": 5
+    },
+    {
+      "user_id": "1509466538704744448",
+      "username": "NFTonsollana",
+      "name": "◤GM Duta NFT◢",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2097444978234720256/hGeZbefp_normal.jpg",
+      "likes": 26,
+      "reposts": 0,
+      "replies": 13,
+      "score": 65,
+      "rank": 6
     },
     {
       "user_id": "1902426675188740096",
       "username": "kambing142557",
       "name": "Angelino Da Silva🌛",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2101271147879055360/oJ0AT9sk_normal.jpg",
-      "likes": 23,
+      "likes": 20,
       "reposts": 0,
       "replies": 15,
-      "score": 68,
+      "score": 65,
+      "rank": 7
+    },
+    {
+      "user_id": "1849407354972020737",
+      "username": "Crypt_nakamotto",
+      "name": "Crypto Nakamotto",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2095807119761301504/6CqE10Zx_normal.jpg",
+      "likes": 10,
+      "reposts": 0,
+      "replies": 18,
+      "score": 64,
       "rank": 8
     },
     {
@@ -112,17 +112,6 @@
       "rank": 9
     },
     {
-      "user_id": "895853653",
-      "username": "MrGemsHunter",
-      "name": "Solana Whale pump",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2095199721740791808/7iOJBzPQ_normal.jpg",
-      "likes": 3,
-      "reposts": 0,
-      "replies": 15,
-      "score": 48,
-      "rank": 10
-    },
-    {
       "user_id": "1041133612391911424",
       "username": "Afeez_Ayomi",
       "name": "Magneto.Bond 🀄️🐂",
@@ -131,6 +120,17 @@
       "reposts": 0,
       "replies": 13,
       "score": 46,
+      "rank": 10
+    },
+    {
+      "user_id": "895853653",
+      "username": "MrGemsHunter",
+      "name": "Solana Whale pump",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2095199721740791808/7iOJBzPQ_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 15,
+      "score": 45,
       "rank": 11
     },
     {
@@ -149,10 +149,10 @@
       "username": "DEFI_DEGEN24",
       "name": "DEFI-Denny🧐",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2025608524424761344/PvzUWQNF_normal.jpg",
-      "likes": 15,
+      "likes": 14,
       "reposts": 0,
       "replies": 8,
-      "score": 39,
+      "score": 38,
       "rank": 13
     },
     {
@@ -160,22 +160,11 @@
       "username": "Crypto_Holding_",
       "name": "Crypto Holding™ 💎",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1891290186127941632/zAheeco5_normal.jpg",
-      "likes": 34,
+      "likes": 29,
       "reposts": 0,
       "replies": 0,
-      "score": 34,
-      "rank": 14
-    },
-    {
-      "user_id": "2047418686261403648",
-      "username": "alvucadooy",
-      "name": "Juicy Alvucado 💋",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2097378676790976512/l3vdYWHn_normal.jpg",
-      "likes": 2,
-      "reposts": 0,
-      "replies": 9,
       "score": 29,
-      "rank": 15
+      "rank": 14
     },
     {
       "user_id": "1590300910949109760",
@@ -186,18 +175,18 @@
       "reposts": 0,
       "replies": 9,
       "score": 28,
-      "rank": 16
+      "rank": 15
     },
     {
-      "user_id": "3373108933",
-      "username": "0ii05i",
-      "name": "Captain Mutant",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1992669582730076160/w7B0dWPs_normal.jpg",
-      "likes": 9,
+      "user_id": "2047418686261403648",
+      "username": "alvucadooy",
+      "name": "Juicy Alvucado 💋",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2097378676790976512/l3vdYWHn_normal.jpg",
+      "likes": 1,
       "reposts": 0,
-      "replies": 6,
-      "score": 27,
-      "rank": 17
+      "replies": 9,
+      "score": 28,
+      "rank": 16
     },
     {
       "user_id": "2004830391828709381",
@@ -208,7 +197,7 @@
       "reposts": 0,
       "replies": 9,
       "score": 27,
-      "rank": 18
+      "rank": 17
     },
     {
       "user_id": "2087297195057766400",
@@ -219,6 +208,17 @@
       "reposts": 0,
       "replies": 9,
       "score": 27,
+      "rank": 18
+    },
+    {
+      "user_id": "3373108933",
+      "username": "0ii05i",
+      "name": "Captain Mutant",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1992669582730076160/w7B0dWPs_normal.jpg",
+      "likes": 7,
+      "reposts": 0,
+      "replies": 6,
+      "score": 25,
       "rank": 19
     },
     {
@@ -226,76 +226,76 @@
       "username": "0o20_",
       "name": "Lena Crypto",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2051046658813960192/DL6gfFJX_normal.jpg",
-      "likes": 5,
+      "likes": 3,
       "reposts": 0,
       "replies": 7,
-      "score": 26,
+      "score": 24,
       "rank": 20
-    },
-    {
-      "user_id": "1666240737623646208",
-      "username": "web4_blaze",
-      "name": "blaze",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2070192344616325120/SW6AkzoO_normal.jpg",
-      "likes": 8,
-      "reposts": 0,
-      "replies": 6,
-      "score": 26,
-      "rank": 21
-    },
-    {
-      "user_id": "1799044165340401664",
-      "username": "Bgzyy17",
-      "name": "Oleguns17",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2098111431447318528/TVw84nBS_normal.jpg",
-      "likes": 5,
-      "reposts": 0,
-      "replies": 7,
-      "score": 26,
-      "rank": 22
-    },
-    {
-      "user_id": "1532784850067161088",
-      "username": "GlobalCoinHub",
-      "name": "🌎 Coin Hub - Go Global 🌎",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1686775395427794951/oKp8s4B2_normal.jpg",
-      "likes": 4,
-      "reposts": 0,
-      "replies": 7,
-      "score": 25,
-      "rank": 23
     },
     {
       "user_id": "1756715757587570688",
       "username": "Real_MyraLux",
       "name": "Matthew Collins",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2090700401154961408/z9KTj6hS_normal.jpg",
-      "likes": 6,
+      "likes": 5,
       "reposts": 0,
       "replies": 6,
-      "score": 24,
-      "rank": 24
+      "score": 23,
+      "rank": 21
     },
     {
       "user_id": "1887180036840493056",
       "username": "Beebezt",
       "name": "Beebezt",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2098444336107302912/lxNZfi4N_normal.jpg",
-      "likes": 9,
+      "likes": 8,
       "reposts": 0,
       "replies": 5,
-      "score": 24,
-      "rank": 25
+      "score": 23,
+      "rank": 22
+    },
+    {
+      "user_id": "1799044165340401664",
+      "username": "Bgzyy17",
+      "name": "Oleguns17",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2098111431447318528/TVw84nBS_normal.jpg",
+      "likes": 2,
+      "reposts": 0,
+      "replies": 7,
+      "score": 23,
+      "rank": 23
     },
     {
       "user_id": "744314137",
       "username": "tripleK31",
       "name": "Melissa Kang",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2040339549969432576/GGP5OhUe_normal.jpg",
-      "likes": 5,
+      "likes": 4,
       "reposts": 0,
       "replies": 6,
-      "score": 23,
+      "score": 22,
+      "rank": 24
+    },
+    {
+      "user_id": "1666240737623646208",
+      "username": "web4_blaze",
+      "name": "blaze",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2070192344616325120/SW6AkzoO_normal.jpg",
+      "likes": 4,
+      "reposts": 0,
+      "replies": 6,
+      "score": 22,
+      "rank": 25
+    },
+    {
+      "user_id": "1532784850067161088",
+      "username": "GlobalCoinHub",
+      "name": "🌎 Coin Hub - Go Global 🌎",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1686775395427794951/oKp8s4B2_normal.jpg",
+      "likes": 1,
+      "reposts": 0,
+      "replies": 7,
+      "score": 22,
       "rank": 26
     },
     {
@@ -303,22 +303,11 @@
       "username": "iNatalieCole",
       "name": "Natalie Cole",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2090013615982317568/9AkBdyu-_normal.jpg",
-      "likes": 4,
+      "likes": 3,
       "reposts": 0,
       "replies": 6,
-      "score": 22,
+      "score": 21,
       "rank": 27
-    },
-    {
-      "user_id": "2094695810097360896",
-      "username": "nectorchat_",
-      "name": "Nector",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2094697206892957696/vidfDNq-_normal.jpg",
-      "likes": 4,
-      "reposts": 0,
-      "replies": 6,
-      "score": 22,
-      "rank": 28
     },
     {
       "user_id": "2618503004",
@@ -329,7 +318,7 @@
       "reposts": 0,
       "replies": 5,
       "score": 21,
-      "rank": 29
+      "rank": 28
     },
     {
       "user_id": "2076336965029699584",
@@ -340,6 +329,17 @@
       "reposts": 0,
       "replies": 0,
       "score": 21,
+      "rank": 29
+    },
+    {
+      "user_id": "2094695810097360896",
+      "username": "nectorchat_",
+      "name": "Nector",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2094697206892957696/vidfDNq-_normal.jpg",
+      "likes": 2,
+      "reposts": 0,
+      "replies": 6,
+      "score": 20,
       "rank": 30
     },
     {
@@ -365,28 +365,6 @@
       "rank": 32
     },
     {
-      "user_id": "451837540",
-      "username": "iLilyVale",
-      "name": "Lily Vale",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2074088206748827648/bZUhvYYF_normal.jpg",
-      "likes": 3,
-      "reposts": 0,
-      "replies": 4,
-      "score": 15,
-      "rank": 33
-    },
-    {
-      "user_id": "2990375058",
-      "username": "iRileyCrypto",
-      "name": "Riley Morgan",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2081508706773250048/dJrQ7nzx_normal.jpg",
-      "likes": 3,
-      "reposts": 0,
-      "replies": 4,
-      "score": 15,
-      "rank": 34
-    },
-    {
       "user_id": "421270176",
       "username": "n8333n",
       "name": "Crypto Girl",
@@ -395,6 +373,28 @@
       "reposts": 0,
       "replies": 5,
       "score": 15,
+      "rank": 33
+    },
+    {
+      "user_id": "451837540",
+      "username": "iLilyVale",
+      "name": "Lily Vale",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2074088206748827648/bZUhvYYF_normal.jpg",
+      "likes": 2,
+      "reposts": 0,
+      "replies": 4,
+      "score": 14,
+      "rank": 34
+    },
+    {
+      "user_id": "2990375058",
+      "username": "iRileyCrypto",
+      "name": "Riley Morgan",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2081508706773250048/dJrQ7nzx_normal.jpg",
+      "likes": 2,
+      "reposts": 0,
+      "replies": 4,
+      "score": 14,
       "rank": 35
     },
     {
@@ -420,28 +420,6 @@
       "rank": 37
     },
     {
-      "user_id": "1997360351667773440",
-      "username": "Mubarak6313",
-      "name": "Alxe",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2105268841592889344/HeBynr2x_normal.jpg",
-      "likes": 10,
-      "reposts": 0,
-      "replies": 1,
-      "score": 13,
-      "rank": 38
-    },
-    {
-      "user_id": "1778710487267512320",
-      "username": "KryptonitGER",
-      "name": "Kryptonit",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2063391567411400705/xVCZCM94_normal.jpg",
-      "likes": 10,
-      "reposts": 0,
-      "replies": 1,
-      "score": 13,
-      "rank": 39
-    },
-    {
       "user_id": "1985685729301995520",
       "username": "Cryptalcon1",
       "name": "CRYPTALCON",
@@ -450,40 +428,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 13,
-      "rank": 40
-    },
-    {
-      "user_id": "2742948520",
-      "username": "_Niss0",
-      "name": "THE CRYPTO DEV",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1985693502559092736/7g3FdWy-_normal.jpg",
-      "likes": 3,
-      "reposts": 0,
-      "replies": 3,
-      "score": 12,
-      "rank": 41
-    },
-    {
-      "user_id": "1089513750812655617",
-      "username": "SolPumpFunTiger",
-      "name": "Sol Pumpfun",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2094869743488663552/G25W9unS_normal.jpg",
-      "likes": 3,
-      "reposts": 0,
-      "replies": 3,
-      "score": 12,
-      "rank": 42
-    },
-    {
-      "user_id": "2083798244640092160",
-      "username": "jarmefrosh",
-      "name": "SOL DEFI",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2092199180513185792/9WimMF4n_normal.jpg",
-      "likes": 3,
-      "reposts": 0,
-      "replies": 3,
-      "score": 12,
-      "rank": 43
+      "rank": 38
     },
     {
       "user_id": "1278681996445618178",
@@ -494,7 +439,29 @@
       "reposts": 0,
       "replies": 3,
       "score": 12,
-      "rank": 44
+      "rank": 39
+    },
+    {
+      "user_id": "1997360351667773440",
+      "username": "Mubarak6313",
+      "name": "Alxe",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2105268841592889344/HeBynr2x_normal.jpg",
+      "likes": 9,
+      "reposts": 0,
+      "replies": 1,
+      "score": 12,
+      "rank": 40
+    },
+    {
+      "user_id": "1778710487267512320",
+      "username": "KryptonitGER",
+      "name": "Kryptonit",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2063391567411400705/xVCZCM94_normal.jpg",
+      "likes": 9,
+      "reposts": 0,
+      "replies": 1,
+      "score": 12,
+      "rank": 41
     },
     {
       "user_id": "2025883159112679424",
@@ -505,7 +472,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 45
+      "rank": 42
     },
     {
       "user_id": "1723334011404054528",
@@ -516,7 +483,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 46
+      "rank": 43
     },
     {
       "user_id": "1881477830808064000",
@@ -527,18 +494,18 @@
       "reposts": 0,
       "replies": 4,
       "score": 12,
-      "rank": 47
+      "rank": 44
     },
     {
-      "user_id": "230377305",
-      "username": "realmarc9",
-      "name": "Bryson Crypto",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2091099252953075712/RrV6r1tl_normal.jpg",
+      "user_id": "2742948520",
+      "username": "_Niss0",
+      "name": "THE CRYPTO DEV",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1985693502559092736/7g3FdWy-_normal.jpg",
       "likes": 2,
       "reposts": 0,
       "replies": 3,
       "score": 11,
-      "rank": 48
+      "rank": 45
     },
     {
       "user_id": "1267059306920398849",
@@ -549,7 +516,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 11,
-      "rank": 49
+      "rank": 46
     },
     {
       "user_id": "1016324267560955909",
@@ -560,6 +527,39 @@
       "reposts": 0,
       "replies": 3,
       "score": 11,
+      "rank": 47
+    },
+    {
+      "user_id": "1132321379007717376",
+      "username": "_CedarSteve",
+      "name": "CedarSteve",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1907194600965754880/N673MmCE_normal.jpg",
+      "likes": 9,
+      "reposts": 0,
+      "replies": 0,
+      "score": 9,
+      "rank": 48
+    },
+    {
+      "user_id": "1952705995605430273",
+      "username": "takurnft45963",
+      "name": "Dezzzz_mond",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2093307833290735618/uKbcL82P_normal.jpg",
+      "likes": 3,
+      "reposts": 0,
+      "replies": 2,
+      "score": 9,
+      "rank": 49
+    },
+    {
+      "user_id": "230377305",
+      "username": "realmarc9",
+      "name": "Bryson Crypto",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2091099252953075712/RrV6r1tl_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 3,
+      "score": 9,
       "rank": 50
     }
   ]
