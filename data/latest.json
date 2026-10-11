@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T04:38:32.485Z",
+  "generated_at": "2026-10-11T09:53:46.282Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,8 +7,8 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 264,
-  "last_full_sweep": "2026-10-10T09:41:44.281Z",
+  "tracked_posts": 259,
+  "last_full_sweep": "2026-10-11T09:53:46.282Z",
   "estimated_month_spend_usd": 0.631,
   "budget_month_usd": 15,
   "leaderboard": [
@@ -17,10 +17,10 @@
       "username": "KatheleenLori",
       "name": "KTY' FRENS",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2103890497731432448/YmwBDVf2_normal.jpg",
-      "likes": 56,
-      "reposts": 6,
+      "likes": 54,
+      "reposts": 5,
       "replies": 68,
-      "score": 272,
+      "score": 268,
       "rank": 1
     },
     {
@@ -39,32 +39,32 @@
       "username": "Youngrfqifzl",
       "name": "rifqifzl",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2096560191357734912/SDAZpXAn_normal.jpg",
-      "likes": 24,
-      "reposts": 1,
-      "replies": 19,
-      "score": 83,
-      "rank": 3
-    },
-    {
-      "user_id": "1849407354972020737",
-      "username": "Crypt_nakamotto",
-      "name": "Crypto Nakamotto",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2095807119761301504/6CqE10Zx_normal.jpg",
       "likes": 23,
-      "reposts": 1,
-      "replies": 18,
-      "score": 79,
-      "rank": 4
+      "reposts": 0,
+      "replies": 19,
+      "score": 80,
+      "rank": 3
     },
     {
       "user_id": "2040554701574324224",
       "username": "INVESTORflxo",
       "name": "INVESTOR أشتري رمز الميم وأحتفظ به على المدى الطو",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2094237224854286336/2b2coyAe_normal.jpg",
-      "likes": 11,
-      "reposts": 1,
+      "likes": 10,
+      "reposts": 0,
       "replies": 22,
-      "score": 79,
+      "score": 76,
+      "rank": 4
+    },
+    {
+      "user_id": "1849407354972020737",
+      "username": "Crypt_nakamotto",
+      "name": "Crypto Nakamotto",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2095807119761301504/6CqE10Zx_normal.jpg",
+      "likes": 21,
+      "reposts": 0,
+      "replies": 18,
+      "score": 75,
       "rank": 5
     },
     {
@@ -160,10 +160,10 @@
       "username": "Crypto_Holding_",
       "name": "Crypto Holding™ 💎",
       "profile_image_url": "https://pbs.twimg.com/profile_images/1891290186127941632/zAheeco5_normal.jpg",
-      "likes": 37,
+      "likes": 36,
       "reposts": 0,
       "replies": 0,
-      "score": 37,
+      "score": 36,
       "rank": 14
     },
     {
@@ -182,10 +182,10 @@
       "username": "alvucadooy",
       "name": "Juicy Alvucado 💋",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2097378676790976512/l3vdYWHn_normal.jpg",
-      "likes": 3,
-      "reposts": 1,
+      "likes": 2,
+      "reposts": 0,
       "replies": 9,
-      "score": 32,
+      "score": 29,
       "rank": 16
     },
     {
@@ -193,10 +193,10 @@
       "username": "web4_blaze",
       "name": "blaze",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2070192344616325120/SW6AkzoO_normal.jpg",
-      "likes": 11,
+      "likes": 10,
       "reposts": 0,
       "replies": 6,
-      "score": 29,
+      "score": 28,
       "rank": 17
     },
     {
@@ -369,10 +369,10 @@
       "username": "Mubarak6313",
       "name": "Alxe",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2105268841592889344/HeBynr2x_normal.jpg",
-      "likes": 12,
+      "likes": 11,
       "reposts": 1,
       "replies": 1,
-      "score": 17,
+      "score": 16,
       "rank": 33
     },
     {
@@ -409,28 +409,6 @@
       "rank": 36
     },
     {
-      "user_id": "2025883159112679424",
-      "username": "Ronnie_black8",
-      "name": "Ronnie",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2093375485942091777/plunhhR6_normal.jpg",
-      "likes": 2,
-      "reposts": 0,
-      "replies": 4,
-      "score": 14,
-      "rank": 37
-    },
-    {
-      "user_id": "1723334011404054528",
-      "username": "PraiseA30462",
-      "name": "praz",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2041474927455576064/7tWvZ_e-_normal.jpg",
-      "likes": 0,
-      "reposts": 1,
-      "replies": 4,
-      "score": 14,
-      "rank": 38
-    },
-    {
       "user_id": "1778710487267512320",
       "username": "KryptonitGER",
       "name": "Kryptonit",
@@ -439,7 +417,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 14,
-      "rank": 39
+      "rank": 37
     },
     {
       "user_id": "2095944569502269442",
@@ -450,7 +428,7 @@
       "reposts": 0,
       "replies": 4,
       "score": 14,
-      "rank": 40
+      "rank": 38
     },
     {
       "user_id": "1796772415894073344",
@@ -461,7 +439,18 @@
       "reposts": 0,
       "replies": 2,
       "score": 14,
-      "rank": 41
+      "rank": 39
+    },
+    {
+      "user_id": "2025883159112679424",
+      "username": "Ronnie_black8",
+      "name": "Ronnie",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2093375485942091777/plunhhR6_normal.jpg",
+      "likes": 1,
+      "reposts": 0,
+      "replies": 4,
+      "score": 13,
+      "rank": 40
     },
     {
       "user_id": "1985685729301995520",
@@ -472,7 +461,7 @@
       "reposts": 0,
       "replies": 2,
       "score": 13,
-      "rank": 42
+      "rank": 41
     },
     {
       "user_id": "2742948520",
@@ -483,7 +472,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 12,
-      "rank": 43
+      "rank": 42
     },
     {
       "user_id": "1089513750812655617",
@@ -494,7 +483,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 12,
-      "rank": 44
+      "rank": 43
     },
     {
       "user_id": "2083798244640092160",
@@ -505,7 +494,7 @@
       "reposts": 0,
       "replies": 3,
       "score": 12,
-      "rank": 45
+      "rank": 44
     },
     {
       "user_id": "1278681996445618178",
@@ -515,6 +504,17 @@
       "likes": 3,
       "reposts": 0,
       "replies": 3,
+      "score": 12,
+      "rank": 45
+    },
+    {
+      "user_id": "1723334011404054528",
+      "username": "PraiseA30462",
+      "name": "praz",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2041474927455576064/7tWvZ_e-_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 4,
       "score": 12,
       "rank": 46
     },
