@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T00:13:05.921Z",
+  "generated_at": "2026-10-14T05:54:12.192Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,7 +7,7 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 146,
+  "tracked_posts": 142,
   "last_full_sweep": "2026-10-13T10:24:37.674Z",
   "estimated_month_spend_usd": 0.631,
   "budget_month_usd": 15,
@@ -17,10 +17,10 @@
       "username": "KatheleenLori",
       "name": "KTY' FRENS",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2103890497731432448/YmwBDVf2_normal.jpg",
-      "likes": 4,
+      "likes": 3,
       "reposts": 0,
       "replies": 17,
-      "score": 55,
+      "score": 54,
       "rank": 1
     },
     {
@@ -39,10 +39,10 @@
       "username": "kambing142557",
       "name": "Angelino Da Silva🌛",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2101271147879055360/oJ0AT9sk_normal.jpg",
-      "likes": 3,
+      "likes": 2,
       "reposts": 0,
       "replies": 10,
-      "score": 33,
+      "score": 32,
       "rank": 3
     },
     {
@@ -90,17 +90,6 @@
       "rank": 7
     },
     {
-      "user_id": "1880323908643221504",
-      "username": "Quentil0x",
-      "name": "Quen",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1970472236860743684/kcCqbFh9_normal.jpg",
-      "likes": 1,
-      "reposts": 0,
-      "replies": 5,
-      "score": 16,
-      "rank": 8
-    },
-    {
       "user_id": "1849407354972020737",
       "username": "Crypt_nakamotto",
       "name": "Crypto Nakamotto",
@@ -109,6 +98,17 @@
       "reposts": 0,
       "replies": 5,
       "score": 16,
+      "rank": 8
+    },
+    {
+      "user_id": "1880323908643221504",
+      "username": "Quentil0x",
+      "name": "Quen",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1970472236860743684/kcCqbFh9_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 5,
+      "score": 15,
       "rank": 9
     },
     {
@@ -204,10 +204,10 @@
       "username": "Youngrfqifzl",
       "name": "rifqifzl",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2096560191357734912/SDAZpXAn_normal.jpg",
-      "likes": 1,
+      "likes": 0,
       "reposts": 0,
       "replies": 2,
-      "score": 7,
+      "score": 6,
       "rank": 18
     },
     {
@@ -244,17 +244,6 @@
       "rank": 21
     },
     {
-      "user_id": "1952705995605430273",
-      "username": "takurnft45963",
-      "name": "Dezzzz_mond",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2093307833290735618/uKbcL82P_normal.jpg",
-      "likes": 2,
-      "reposts": 0,
-      "replies": 1,
-      "score": 5,
-      "rank": 22
-    },
-    {
       "user_id": "1778710487267512320",
       "username": "KryptonitGER",
       "name": "Kryptonit",
@@ -263,18 +252,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 5,
-      "rank": 23
-    },
-    {
-      "user_id": "1452169209081966596",
-      "username": "Crypto_Holding_",
-      "name": "Crypto Holding™ 💎",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/1891290186127941632/zAheeco5_normal.jpg",
-      "likes": 4,
-      "reposts": 0,
-      "replies": 0,
-      "score": 4,
-      "rank": 24
+      "rank": 22
     },
     {
       "user_id": "2082777070128529408",
@@ -285,7 +263,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 4,
-      "rank": 25
+      "rank": 23
     },
     {
       "user_id": "1934228449729912833",
@@ -296,7 +274,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 4,
-      "rank": 26
+      "rank": 24
     },
     {
       "user_id": "2082765658517848064",
@@ -307,7 +285,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 4,
-      "rank": 27
+      "rank": 25
     },
     {
       "user_id": "2075636163243659264",
@@ -318,7 +296,18 @@
       "reposts": 0,
       "replies": 1,
       "score": 4,
-      "rank": 28
+      "rank": 26
+    },
+    {
+      "user_id": "1952705995605430273",
+      "username": "takurnft45963",
+      "name": "Dezzzz_mond",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2093307833290735618/uKbcL82P_normal.jpg",
+      "likes": 1,
+      "reposts": 0,
+      "replies": 1,
+      "score": 4,
+      "rank": 27
     },
     {
       "user_id": "1796772415894073344",
@@ -329,7 +318,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 4,
-      "rank": 29
+      "rank": 28
     },
     {
       "user_id": "1786768928787537920",
@@ -340,7 +329,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 4,
-      "rank": 30
+      "rank": 29
     },
     {
       "user_id": "1802998793190981632",
@@ -351,7 +340,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 4,
-      "rank": 31
+      "rank": 30
     },
     {
       "user_id": "1433233101774200840",
@@ -362,7 +351,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 4,
-      "rank": 32
+      "rank": 31
     },
     {
       "user_id": "1914194483245465600",
@@ -373,7 +362,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 4,
-      "rank": 33
+      "rank": 32
     },
     {
       "user_id": "1985685729301995520",
@@ -384,6 +373,17 @@
       "reposts": 0,
       "replies": 1,
       "score": 4,
+      "rank": 33
+    },
+    {
+      "user_id": "1452169209081966596",
+      "username": "Crypto_Holding_",
+      "name": "Crypto Holding™ 💎",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1891290186127941632/zAheeco5_normal.jpg",
+      "likes": 3,
+      "reposts": 0,
+      "replies": 0,
+      "score": 3,
       "rank": 34
     },
     {
