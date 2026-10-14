@@ -1,23 +1,4 @@
 {
-  "2099247865683902559": {
-    "created_at": "2026-09-13T21:24:27.000Z",
-    "public_metrics": {
-      "bookmark_count": 0,
-      "impression_count": 130,
-      "like_count": 3,
-      "quote_count": 0,
-      "reply_count": 2,
-      "retweet_count": 0
-    },
-    "published_at": "2026-09-13T21:24:27.000Z",
-    "likers": [
-      "1902426675188740096",
-      "2016550762474799104"
-    ],
-    "last_checked_like_count": 3,
-    "last_checked_retweet_count": 0,
-    "fetched_at": "2026-10-01T03:19:55.464Z"
-  },
   "2099365518679437356": {
     "created_at": "2026-09-14T05:11:58.000Z",
     "public_metrics": {
