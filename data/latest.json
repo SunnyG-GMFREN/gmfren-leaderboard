@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T11:23:50.267Z",
+  "generated_at": "2026-10-14T16:45:11.164Z",
   "account": "gmfrenmeme",
   "window_days": 30,
   "weights": {
@@ -7,7 +7,7 @@
     "repost": 2,
     "reply": 3
   },
-  "tracked_posts": 125,
+  "tracked_posts": 111,
   "last_full_sweep": "2026-10-14T08:35:32.732Z",
   "estimated_month_spend_usd": 0.631,
   "budget_month_usd": 15,
@@ -28,10 +28,10 @@
       "username": "Afeez_Ayomi",
       "name": "Magneto.Bond 🀄️🐂",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2098545869696221184/6LQOd__z_normal.jpg",
-      "likes": 3,
+      "likes": 0,
       "reposts": 0,
       "replies": 13,
-      "score": 42,
+      "score": 39,
       "rank": 2
     },
     {
@@ -233,17 +233,6 @@
       "rank": 20
     },
     {
-      "user_id": "1985685729301995520",
-      "username": "Cryptalcon1",
-      "name": "CRYPTALCON",
-      "profile_image_url": "https://pbs.twimg.com/profile_images/2091842139604881409/pBh_v3nb_normal.jpg",
-      "likes": 1,
-      "reposts": 0,
-      "replies": 1,
-      "score": 4,
-      "rank": 21
-    },
-    {
       "user_id": "202442764",
       "username": "Bixby1y",
       "name": "Bixby",
@@ -252,7 +241,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 3,
-      "rank": 22
+      "rank": 21
     },
     {
       "user_id": "230377305",
@@ -263,7 +252,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 3,
-      "rank": 23
+      "rank": 22
     },
     {
       "user_id": "600553219",
@@ -274,7 +263,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 3,
-      "rank": 24
+      "rank": 23
     },
     {
       "user_id": "744314137",
@@ -285,7 +274,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 3,
-      "rank": 25
+      "rank": 24
     },
     {
       "user_id": "3278828737",
@@ -296,7 +285,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 3,
-      "rank": 26
+      "rank": 25
     },
     {
       "user_id": "3543134297",
@@ -307,7 +296,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 3,
-      "rank": 27
+      "rank": 26
     },
     {
       "user_id": "2098582227638796288",
@@ -318,7 +307,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 3,
-      "rank": 28
+      "rank": 27
     },
     {
       "user_id": "1881477830808064000",
@@ -329,7 +318,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 3,
-      "rank": 29
+      "rank": 28
     },
     {
       "user_id": "2075636163243659264",
@@ -340,7 +329,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 3,
-      "rank": 30
+      "rank": 29
     },
     {
       "user_id": "1952705995605430273",
@@ -351,7 +340,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 3,
-      "rank": 31
+      "rank": 30
     },
     {
       "user_id": "1929067082269777920",
@@ -362,7 +351,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 3,
-      "rank": 32
+      "rank": 31
     },
     {
       "user_id": "2082777070128529408",
@@ -373,7 +362,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 3,
-      "rank": 33
+      "rank": 32
     },
     {
       "user_id": "1934228449729912833",
@@ -384,7 +373,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 3,
-      "rank": 34
+      "rank": 33
     },
     {
       "user_id": "2082765658517848064",
@@ -395,7 +384,7 @@
       "reposts": 0,
       "replies": 1,
       "score": 3,
-      "rank": 35
+      "rank": 34
     },
     {
       "user_id": "1914194483245465600",
@@ -406,13 +395,24 @@
       "reposts": 0,
       "replies": 1,
       "score": 3,
-      "rank": 36
+      "rank": 35
     },
     {
       "user_id": "2025883159112679424",
       "username": "Ronnie_black8",
       "name": "Ronnie",
       "profile_image_url": "https://pbs.twimg.com/profile_images/2093375485942091777/plunhhR6_normal.jpg",
+      "likes": 0,
+      "reposts": 0,
+      "replies": 1,
+      "score": 3,
+      "rank": 36
+    },
+    {
+      "user_id": "1985685729301995520",
+      "username": "Cryptalcon1",
+      "name": "CRYPTALCON",
+      "profile_image_url": "https://pbs.twimg.com/profile_images/2091842139604881409/pBh_v3nb_normal.jpg",
       "likes": 0,
       "reposts": 0,
       "replies": 1,
