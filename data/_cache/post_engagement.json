@@ -1,34 +1,4 @@
 {
-  "2100398017975034235": {
-    "created_at": "2026-09-17T01:34:45.000Z",
-    "public_metrics": {
-      "bookmark_count": 0,
-      "impression_count": 58,
-      "like_count": 1,
-      "quote_count": 0,
-      "reply_count": 0,
-      "retweet_count": 0
-    },
-    "published_at": "2026-09-17T01:34:45.000Z",
-    "last_checked_like_count": 1,
-    "last_checked_retweet_count": 0,
-    "fetched_at": "2026-10-01T03:20:02.725Z"
-  },
-  "2100448132983128145": {
-    "created_at": "2026-09-17T04:53:53.000Z",
-    "public_metrics": {
-      "bookmark_count": 0,
-      "impression_count": 69,
-      "like_count": 2,
-      "quote_count": 0,
-      "reply_count": 1,
-      "retweet_count": 0
-    },
-    "published_at": "2026-09-17T04:53:53.000Z",
-    "last_checked_like_count": 2,
-    "last_checked_retweet_count": 0,
-    "fetched_at": "2026-10-01T03:20:02.788Z"
-  },
   "2100483380361998600": {
     "created_at": "2026-09-17T07:13:57.000Z",
     "public_metrics": {
